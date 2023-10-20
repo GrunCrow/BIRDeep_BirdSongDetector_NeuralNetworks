@@ -9,6 +9,8 @@ This repository is a collection of neural networks and models designed for the B
 
 - **`audio_classifier`**: This directory contains the core structure and files for the audio classifier.
 
+- **`audio_detector`**: This directory contains the core structure and files for the audio detector.
+
 - **`configs`**: In this section, you'll find configuration files that are crucial for the proper functioning of the classifier.
 
 - **`Dataset`**: This directory holds the dataset, organized in the structure expected by our models.
@@ -16,6 +18,40 @@ This repository is a collection of neural networks and models designed for the B
 - **`Data`**: Here, you'll find various files and information related to the dataset, including metadata and relevant details.
 
 - **`Scripts`**: This section is dedicated to scripts that aid in data preparation, preprocessing, and other essential tasks for the project.
+
+## Setting up the Conda Environment
+
+If you want to reproduce this project, you can start by setting up the Conda environment. Follow these steps:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/GrunCrow/BIRDeep_NeuralNetworks
+    ```
+
+2. Navigate to the project's directory:
+    ```
+    cd BIRDeep_NeuralNetworks
+    ```
+
+3. Create a Conda environment using the provided environment.yml file:
+
+    ```
+    conda env create -f environment.yml
+    ```
+
+    This will create a Conda environment named "BIRDeep" with the required dependencies.
+
+4. Activate the Conda environment:
+
+    ```
+    conda activate BIRDeep
+    ```
+
+You are now ready to work with the project using the provided environment.
+
+
+
 
 <!--## Getting Started
 
