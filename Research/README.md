@@ -32,7 +32,7 @@ Bird classification
 BirdNET is a research platform that aims at recognizing birds by sound at scale. It is the platform BIRDeep is currently using.
 - 6.522 worlwide classes including different bird species and non birds
 - You can filter by area so predictable classes are reduced
-- MobileNet V1
+- MobileNet V1 / EfficientNet(B?)
 
 ### [MixIT](https://github.com/google-research/sound-separation/blob/master/models/bird_mixit/README.md)
 Separate audio into channels potentially representing separate sources. There are different models, one of them has been trained on birds data
