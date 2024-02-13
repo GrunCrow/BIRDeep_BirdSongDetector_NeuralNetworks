@@ -1,4 +1,4 @@
-name: BIRDeep
+name: BIRDeep_TFM_Alba
 channels:
   - conda-forge
   - defaults
