@@ -1,21 +1,22 @@
 # PATHS
-PATH = "AI_Census/"
+PATH = "Detector/"
+DATASET_PATH = "../../desarrollo/"
 
 # DATASET
 # When running a jupyter notebook, it works like from the jupyter notebook location, 
 # when runned from jupyter file, it runs from where user is at the terminal
-DATASET_YAML = PATH + "aicensus.yaml"
-TRAIN_TXT = PATH + "Data/TXTs/train_dataset_caltech.txt"
-VAL_TXT = PATH + "Data/TXTs/validation_dataset_caltech.txt"
-TEST_TXT = "Dataset/test.txt"
-TEST_CSV = "Dataset/test.csv"
+DATASET_YAML = PATH + "birdeep.yaml"
+TRAIN_TXT = DATASET_PATH + "Data/TXTs/train.txt"
+VAL_TXT = DATASET_PATH + "Data/TXTs/validation.txt"
+TEST_TXT = DATASET_PATH + "Data/TXTs/test.txt"
+TEST_CSV = DATASET_PATH + "Data/CSVs/test.csv"
 
 # MODEL
-MODEL_NAME = 'yolov8s.yaml'
+MODEL_NAME = 'yolov8n.yaml'
 
 RESUME = False
-MODEL_WEIGHTS_INITIAL = PATH + 'weights/yolov8s.pt' # created on path folder
-MODEL_WEIGHTS_BEST = PATH + "Trainings/YOLOv8/1_exp_batch_16/weights/best.pt"
+MODEL_WEIGHTS_INITIAL = PATH + 'weights/yolov8n.pt' # created on path folder
+MODEL_WEIGHTS_BEST = PATH + "Trainings/YOLOv8/0_test/weights/best.pt"
 
 MODEL_WEIGHTS = MODEL_WEIGHTS_INITIAL # created on path folder
 
@@ -24,7 +25,7 @@ if MODEL_WEIGHTS == MODEL_WEIGHTS_BEST:
 
 # ULTRALYTICS CODE
 
-ULTRALYTICS_MULTI_LABEL = True  # Default Value = False -> to obtain all classes conf vector??
+ULTRALYTICS_MULTI_LABEL = False  # Default Value = False -> to obtain all classes conf vector??
 
 def get_best_model_weights(model_name):
     return PATH + "Trainings/YOLOv8/" + model_name + "/weights/best.pt"
