@@ -161,3 +161,6 @@ cython_debug/
 
 # Unshareable files for securty reasons
 *.constants_unshared.py
+
+# Large files
+*.pt
