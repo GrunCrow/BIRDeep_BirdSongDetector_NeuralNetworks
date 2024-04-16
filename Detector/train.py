@@ -1,4 +1,6 @@
 import comet_ml # pip install comet_ml
+from comet_ml.integration.pytorch import watch
+from comet_ml.integration.pytorch import log_model
 
 # Pytorch: https://pytorch.org/get-started/locally/
 
@@ -12,7 +14,7 @@ os.environ["COMET_AUTO_LOG_GRAPH"] = "true"
 os.environ["COMET_AUTO_LOG_PARAMETERS"] = "true"
 os.environ["COMET_AUTO_LOG_METRICS"] = "true"
 os.environ["COMET_LOG_PER_CLASS_METRICS"] = "true"
-# os.environ["COMET_MAX_IMAGE_UPLOADS"] = 0
+os.environ["COMET_MAX_IMAGE_PREDICTIONS"] = "50"
 
 # initialize experiment in comet
 comet_ml.init("BIRDeep") # it get the name of the project name on training
@@ -24,15 +26,21 @@ model = YOLO(MODEL_NAME)
 model = YOLO(MODEL_WEIGHTS)
 
 # Train the model using the 'coco128.yaml' dataset for 3 epochs
-results = model.train(
+model.train(
                     data=DATASET_YAML, 
                     device = 0,                   # device to run on, i.e. cuda device=0 or device=0,1,2,3 or device=cpu
-                    epochs = 100,
-                    name = "0_test",      # experiment name
-                    resume = RESUME,	            # resume training from last checkpoint
+                    epochs = 500,
+                    patience = 30,
+                    name = "2_BaseExperimentBinary_Small",      # experiment name
+                    resume = False,	            # resume training from last checkpoint
                     single_cls = True,	        # train multi-class data as single-class -> def = False
                     cfg="Detector/config/config.yaml",
+                    pretrained=True
                     )
+
+model.val(
+    conf = 0.5,  # confidence threshold
+)
 
 # What Manuel wanted :´) -> for classification model, will it work with detection???????????????????
 '''# Run inference on an image

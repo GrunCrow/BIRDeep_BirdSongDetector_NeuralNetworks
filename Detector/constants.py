@@ -6,17 +6,17 @@ DATASET_PATH = "../../desarrollo/"
 # When running a jupyter notebook, it works like from the jupyter notebook location, 
 # when runned from jupyter file, it runs from where user is at the terminal
 DATASET_YAML = PATH + "birdeep.yaml"
-TRAIN_TXT = DATASET_PATH + "Data/TXTs/train.txt"
-VAL_TXT = DATASET_PATH + "Data/TXTs/validation.txt"
-TEST_TXT = DATASET_PATH + "Data/TXTs/test.txt"
-TEST_CSV = DATASET_PATH + "Data/CSVs/test.csv"
+TRAIN_TXT = DATASET_PATH + "Data/Dataset/TXTs/train.txt"
+VAL_TXT = DATASET_PATH + "Data/Dataset/TXTs/validation.txt"
+TEST_TXT = DATASET_PATH + "Data/Dataset/TXTs/test.txt"
+TEST_CSV = DATASET_PATH + "Data/Dataset/CSVs/test.csv"
 
 # MODEL
-MODEL_NAME = 'yolov8n.yaml'
+MODEL_NAME = 'yolov8.yaml'
 
 RESUME = False
-MODEL_WEIGHTS_INITIAL = PATH + 'weights/yolov8n.pt' # created on path folder
-MODEL_WEIGHTS_BEST = PATH + "Trainings/YOLOv8/0_test/weights/best.pt"
+MODEL_WEIGHTS_INITIAL = PATH + 'weights/yolov8s.pt' # created on path folder
+MODEL_WEIGHTS_BEST = "BIRDeep/1_test2/weights/best.pt"
 
 MODEL_WEIGHTS = MODEL_WEIGHTS_INITIAL # created on path folder
 
