@@ -1,167 +1,242 @@
 Species,Specie_Name
-abiotic noise,abiotic noise
-actitic hypoleucus,actitis hypoleucos
-actitis hypoleucos,actitis hypoleucos
-actitis hypoleucus,actitis hypoleucos
-acuatica,bird
-acuática,bird
-alauda arvensis,alauda arvensis
-alaudidae,alaudidae
-alaudidae?,alaudidae
-alectoris rufa,alectoris rufa
-anas plathyrynchos,anas platyrhynchos
-anas platyrhynchos,anas platyrhynchos
-anthus pratensis,anthus pratensis
-anthus pratensis?,anthus pratensis
-arthropoda,insect
-athene noctua,athene noctua
-athene nocua,athene noctua
-bisbita pratensis?,bird
-burhinus oedicnemus,burhinus oedicnemus
-c,unknown
-calandrella brachydactyla,calandrella brachydactyla
-calandrella brachydactyla?,bird
-campana?,unknown
-carduelis carduelis,carduelis carduelis
-carduelis carduelis?,bird
-carduelsi carduelis?,bird
-certhia brachydactyla,certhia brachydactyla
-cettia cetti,cettia cetti
-chicharra,insect
-chloris chloris,chloris chloris
-ciconia ciconia,ciconia ciconia
-cisticola juncidis,cisticola juncidis
-coturnix coturnix,coturnix coturnix
-curmel/curund,curruca
-curruca conspicillata,curruca
-curruca melanocephala,curruca
-curruca melanocephala?,bird
-curruca undata,curruca
-curund/,curruca
-cyanistes caeruleus,cyanistes caeruleus
-cyanopica ,cyanopica cooki
-emberiza calanddra?,bird
-emberiza calandra,emberiza calandra
-emberiza calandra?,bird
-eritahcus rubecula,erithacus rubecula
-erithacus rubecola,erithacus rubecula
-erithacus rubecula,erithacus rubecula
-falco naumanni/tinnunculus?,bird
-falco tinnunculus,falco tinnunculus
-falcus tinnunculus,falco tinnunculus
-fringillidae,fringilla
-fulica atra,fulica atra
-galerida cristata,galerida
-galerida cristata?,bird
-galerida sp,galerida
-galerida theklae,galerida
-galerida theklae?,bird
-galeridae?,bird
-gallus gallus,gallus gallus
-garrulus glandarius,garrulus glandarius
-golpe,abiotic noise
-gorrion,passer
-gorrion ?,bird
-gorrion comun,passer
-haematopus ostralegus,haematopus ostralegus
-hieraaetus pennatus,hieraaetus pennatus
-hirundo rustica,hirundo rustica
-lanius meridionalis,lanius
-lanius meridionalis?,bird
-lanius senator,lanius
-lanmer/lansen,lanius
-lanmer/lanser,lanius
-linaria cannabina,linaria cannabina
-linaria cannabina?,bird
-lullula arborea,lullula arborea
-luscinia megarhynchos,luscinia megarhynchos
-luscinia megarhynchos ,luscinia megarhynchos
-melanocorypha calandra,melanocorypha calandra
-melanocorypha calandra/alaudala rufescens/calandrella brachydactyla?,bird
-melanocorypha calandra?,bird
-melanocrypha calandra,melanocorypha calandra
-merops apiaster,merops apiaster
-milvus milvus,milvus milvus
-motacilla alba,motacilla
-motacilla alba?,bird
-motacilla flava,motacilla
-motacilla flava?,bird
-paridae,paridae
-parus major,parus major
-parus major?,bird
-parus major? periparus ater?,bird
-passer domesticus,passer
-passer hispaniolensis?,bird
-passer sp,passer
-passerus domesticus,passer
-phylloscopus collybita,phylloscopus collybita
-phylloscopus spp?,bird
-pica pica,pica pica
-regulus ignicapilla,regulus ignicapilla
-riparia riparia?,bird
-saxicola rubicola,saxicola rubicola
-saxicola rubicola?,bird
-saxicola rubicola? phoenicurus ochruros? ,bird
-saxola/cisjun,bird
-serinus serinus,serinus serinus
-serinus serinus?,bird
-spinus spinus?,bird
-streptopelia decaocto,streptopelia decaocto
-streptotelia decaocto,streptopelia decaocto
-sturnidae,sturnus
-sturnus un/vul,sturnus
-sturnus un/vulg,sturnus
-sturnus un/vulg?,bird
-sturnus un/vulgaris,sturnus
-sturnus uni/vul,sturnus
-sturnus uni/vul?,bird
-sturnus uni/vulg,sturnus
-sturnus vulg,sturnus
-sylviidae,sylvia
-tringa glareola,tringa
-tringa nebularia,tringa
-tringa ochropus,tringa
-tringa ochropus?,bird
-tringa stagnatilis,tringa
-troglodytes troglodytes,troglodytes troglodytes
-turdus merula,turdus merula
-turdus merula/sturnus un/vulg,bird
-ukn,unknown
-unk,unknown
-unk  - alaudido,bird
-unk - abiotic noise?,unknown
-unk - acuática,bird
-unk - acuática? córvido?,bird
-unk - alaudido,bird
-unk - alaudido?,bird
-unk - anthus pratensis,bird
-unk - bat?,unknown
-unk - calandrella brachydactyla?,bird
-unk - cettia cetti?,bird
-unk - chloris chloris,bird
-unk - cow?,unknown
-unk - galerida theklae,bird
-unk - galerida theklae?,bird
-unk - limicola,bird
-unk - limicola?,bird
-unk - limícola?,bird
-unk - melanocorypha calandra?,bird
-unk - motacilla alba?,bird
-unk - motacilla flava?,bird
-unk - passerine calls?,bird
-unk - phylloscopus or is it sturnus un/vulg?,bird
-unk - rapaz? caballo?,unknown
-unk - sturnus uni/vul
-unk - vaca,unknown
-unk - vuelo de algo?,unknown
-unk - waterbird,bird
-unk - waterbird?,bird
-unk acuatica?,bird
-unk?,unknown
-unknown,unknown
-wader,bird
-waterbird,bird
-waterbird?,bird
-waterbirds?,bird
-xx,unknown
-"",unknown
+Abiotic noise,Abiotic noise
+Actitis hypoleucos,Actitis hypoleucos
+Alaudidae,Alaudidae
+Bird,Bird
+Cardualis carduelis,Carduelis carduelis
+Carduelis carduelis,Carduelis carduelis
+Chiroptera,Abiotic noise
+Chloris chloris,Chloris chloris
+Ciconia ciconia,Ciconia ciconia
+Cisticola juncidis,Cisticola juncidis
+Columba palumbus,Columba palumbus
+Emberiza caladnra,Emberiza calandra
+Emberiza calandra,Emberiza calandra
+Fringilla coelebs,Fringilla
+Galerida theklae,Galerida theklae
+Lanius senator,Lanius senator
+Luscinia megarhynchos,Luscinia megarhynchos
+Merops apiaster,Merops apiaster
+Milvus migrans,Milvus migrans
+Milvus migrnas,Milvus migrans
+Motacilla alba,Motacilla alba
+Motacilla flava,Motacilla flava
+No audio,No audio
+Parus major,Parus major
+Passer sp,Passer
+Rain,Abiotic noise
+Saxicola rubicola,Saxicola rubicola
+Sturnus unicolor,Sturnus unicolor
+Turdus merula,Turdus merula
+Upupa epops,Upupa epops
+Wind,Abiotic noise
+abiotic noise,Abiotic noise
+abiotic noise?,Abiotic noise
+abiotic sound,Abiotic noise
+abitoic noise,Abiotic noise
+actitis hypoleucos,Actitis hypoleucos
+alauda arvensis,Alauda arvensis
+alaudidae,Alaudidae
+alaudidae?,Bird
+alectoris rufa,Alectoris rufa
+anas plathyrynchos,Anas platyrhynchos
+anas platyrhynchos,Anas platyrhynchos
+anatidae,Anatidae
+anthus pratensis,Anthus pratensis
+anthus pratensis?,Bird
+arthopoda,Insect
+arthopods,Insect
+arthro,Insect
+arthropoda,Insect
+arthropods,Insect
+athene noctua,Athene noctua
+bird,Bird
+bird?,Unknown
+bird? abiotic noise?,Unknown
+bisbita pratensis?,Bird
+burhinus oedicnemus,Burhinus oedicnemus
+buteo buteo,Buteo buteo
+buteo buteo?/sturnidae?,Bird
+c,Unknown
+caeduelis carduelis,Carduelis carduelis
+calandrella brachydactyla,Calandrella brachydactyla
+calandrella brachydactyla?,Bird
+carduelis c arduelis,Carduelis carduelis
+carduelis carduelis,Carduelis carduelis
+carduelis carduelis?,Bird
+carduelsi carduelis?,Bird
+cettia cetti,Cettia cetti
+charadrius hiaticula,Charadrius hiaticula
+chloris chloris,Chloris chloris
+ciconia ciconia,Ciconia ciconia
+cis,Bird
+cisticola juncidis,Cisticola juncidis
+cisticola juncidis?,Bird
+clamator glandarius,Clamator glandarius
+corvidae,Corvidae
+corvidae?,Bird
+curmel/curund,Curruca
+curruc melanocephala,Curruca conspicillata
+curruca conspicillata,Curruca conspicillata
+curruca conspicillata?,Bird
+curruca mel/rabilarga?,Bird
+curruca melanicephala/undata,Curruca
+curruca melanocephala,Curruca melanocephala
+curruca melanocephala/undata,Curruca
+curruca melanocephala/undata?,Curruca
+curruca melanocephala?,Bird
+curruca melanocephaña,Curruca melanocephala
+curruca melanochephala/undata,Curruca
+curruca merlanocephala/undata,Curruca
+curruca undata,Curruca undata
+curruca undata melanocephala,Curruca
+curruca undata/melanocephala,Curruca
+curruca? conspicillata?,Bird
+curund/curmel,Curruca
+cyanistes caeruleus,Cyanistes caeruleus
+cyanopica cooki,Cyanopica cooki
+delichon urbicum,Delichon urbicum
+delicon urbicum,Delichon urbicum
+dog?,Unknown
+dryobates minor,Dryobates minor
+emberiza calandra,Emberiza calandra
+emberiza calandra?,Bird
+emebriza calandra,Emberiza calandra
+eritahcus rubecula,Erithacus rubecula
+erithacus rubecola,Erithacus rubecula
+erithacus rubecula,Erithacus rubecula
+falco naumanni/tinnunculus?,Falco
+falco tinnunculus,Falco tinnunculus
+falco tinnunculus/naumanni,Falco
+falcus tinnunculus,Falco tinnunculus
+fringillidae,Fringilla
+fulica atra,Fulica atra
+galerida cristata,Galerida Cristata
+galerida cristata/teklae,Galerida
+galerida cristata?,Bird
+galerida o curruca?,Bird
+galerida sp,Galerida
+galerida theklae,Galerida theklae
+galerida theklae?,Bird
+galeridae,Galerida
+galeridae?,Bird
+gallus gallus,Gallus gallus
+garrulus glandarius,Garrulus glandarius
+haematopus ostralegus,Haematopus ostralegus
+hieraaetus pennatus,Hieraaetus pennatus
+hippolais polyglotta,Hippolais polyglotta
+hirundo rustica,Hirundo rustica
+irundo rustica,Hirundo rustica
+lanius meridionalis,Lanius meridionalis
+lanius meridionalis/senator,Lanius
+lanius meridionalis/senator?,Lanius
+lanius meridionalis?,Bird
+lanius senator,Lanius senator
+lanmer/lansen,Lanius
+lanmer/lanser,Lanius
+linaria cannabina,Linaria Cannabina
+linaria cannabina?,Bird
+lullula arborea,Lullula arborea
+luscinia meagrrhyncos,Luscinia megarhynchos
+luscinia megarhynchos,Luscinia megarhynchos
+luscinia megarhynchos ,Luscinia megarhynchos
+luscinia megarrhynchos,Luscinia megarhynchos
+luscinia megarrhynchos?,Bird
+luscinia megarrhyncos,Luscinia megarhynchos
+melanocorypha calandra,Melanocorypha calandra
+melanocorypha calandra/alaudala rufescens/calandrella brachydactyla?,Bird
+melanocorypha calandra/galerida cristata,Bird
+melanocorypha calandra?,Bird
+melanocrypha calandra,Melanocorypha calandra
+merops apiaster,Merops apiaster
+milvus migrans,Milvus migrans
+milvus migrans?,Bird
+milvus milvus,Milvus milvus
+motacilla alba,Motacilla alba
+motacilla alba?,Bird
+motacilla flava,Motacilla flava
+motacilla flava?,Bird
+no audio,No audio
+no audios,No audio
+no bird sound,No audio
+no data,No audio
+paridae,Paridae
+parus major,Parus major
+parus major?,Bird
+paseriforme - call,Bird
+passer domesticus,Passer domesticus
+passer domesticus/hispaniolensis,Passer
+passer domesticus/hispanolensis,Passer
+passer domesticus/hispanolensis?,Passer
+passer hispaniolensis,Passer hispaniolensis
+passer hispaniolensis?,Bird
+passer sp,Passer
+passerus domesticus,Passer domesticus
+phylloscopus sp,Phylloscopus
+phylloscopus spp?,Bird
+pica pica,Pica pica
+pica pica?,Bird
+pterocles alchata,Pterocles alchata
+quiroptera,Quiroptera
+raptor?,Bird
+regulus ignicapilla,Regulus ignicapilla
+saxicola rubicola,Saxicola rubicola
+saxicola rubicola?,Bird
+saxicola rubicola? phoenicurus ochruros? ,Bird
+saxicola rubicola?cisticola juncidis,Bird
+saxola/cisjun,Bird
+serinus serins,Serinus serinus
+serinus serinus,Serinus serinus
+serinus serinus?,Bird
+spinus spinus?,Bird
+streptopelia decaocto,Streptopelia decaocto
+streptopelia turtur,Streptopelia turtur
+streptotelia decaocto,Streptopelia decaocto
+strurnidae,Sturnus
+sturnidae,Sturnus
+sturnidae ,Sturnus
+sturnidae?,Bird
+sturnus sp,Sturnus
+sturnus un/vul,Sturnus
+sturnus un/vulg,Sturnus
+sturnus un/vulg?,Sturnus
+sturnus un/vulgaris,Sturnus
+sturnus uni/vulg,Sturnus
+sturnus unicolor,Sturnus unicolor
+sylvia atricapilla,Sylvia
+sylvia melanocephala,Sylvia
+sylvidae,Sylvia
+sylvidae?,Bird
+sylviidae,Sylvia
+tachybaptus ruficollis,Tachybaptus ruficollis
+tringa glareola,Tringa glareola
+tringa nebularia,Tringa nebularia
+tringa ochropus,Tringa ochropus
+tringa ochropus?,Bird
+tringa stagnatilis,Tringa stagnatilis
+troglodytes troglodytes,Troglodytes troglodytes
+turdus merula,Turdus merula
+turdus merula/sturnus un/vulg,Bird
+turdus merula?,Bird
+unk ,Unknown
+unk - abiotic noise?,Unknown
+unk - bat?,Unknown
+unk - cettia cetti?,Bird
+unk - cow?,Unknown
+unk - motacilla alba?,Bird
+unk - motacilla flava?,Bird
+unk - passerine calls?,Bird
+unk - phylloscopus or is it sturnus un/vulg?,Bird
+unk - rapaz? caballo?,Unknown
+unk - vuelo de algo?,Unknown
+unk - waterbird?,Bird
+unk?,Unknown
+unknown,Unknown
+wader,Bird
+waterbird,Bird
+waterbird?,Bird
+waterbirds?,Bird
+wind,Abiotic noise
+wind + abiotic noise,Abiotic noise
+xx,Unknown
+"",Unknown
