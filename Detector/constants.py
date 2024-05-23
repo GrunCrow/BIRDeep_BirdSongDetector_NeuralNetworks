@@ -1,6 +1,6 @@
 # PATHS
 PATH = "Detector/"
-DATASET_PATH = "../../desarrollo/"
+DATASET_PATH = "../" # "../../desarrollo/"
 
 # DATASET
 # When running a jupyter notebook, it works like from the jupyter notebook location, 

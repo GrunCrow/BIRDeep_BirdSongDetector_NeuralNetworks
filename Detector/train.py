@@ -31,7 +31,7 @@ model.train(
                     device = 0,                   # device to run on, i.e. cuda device=0 or device=0,1,2,3 or device=cpu
                     epochs = 500,
                     patience = 30,
-                    name = "2_BaseExperimentBinary_Small",      # experiment name
+                    name = "test_local", # "2_BaseExperimentBinary_Small",      # experiment name
                     resume = False,	            # resume training from last checkpoint
                     single_cls = True,	        # train multi-class data as single-class -> def = False
                     cfg="Detector/config/config.yaml",
