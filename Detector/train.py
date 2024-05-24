@@ -20,10 +20,13 @@ os.environ["COMET_MAX_IMAGE_PREDICTIONS"] = "50"
 comet_ml.init("BIRDeep") # it get the name of the project name on training
 
 # Create a new YOLO model from scratch
-model = YOLO(MODEL_NAME)
+#model = YOLO(MODEL_NAME)
 
 # Load a pretrained YOLO model (recommended for training)
-model = YOLO(MODEL_WEIGHTS)
+#model = YOLO(MODEL_WEIGHTS)
+
+# Nano model
+model = YOLO("yolov8s.pt")
 
 # Train the model using the 'coco128.yaml' dataset for 3 epochs
 model.train(
@@ -31,11 +34,11 @@ model.train(
                     device = 0,                   # device to run on, i.e. cuda device=0 or device=0,1,2,3 or device=cpu
                     epochs = 500,
                     patience = 30,
-                    name = "test_local", # "2_BaseExperimentBinary_Small",      # experiment name
+                    name = "3_BackgroundBinary_Small", # "2_BaseExperimentBinary_Small",      # experiment name
                     resume = False,	            # resume training from last checkpoint
                     single_cls = True,	        # train multi-class data as single-class -> def = False
                     cfg="Detector/config/config.yaml",
-                    pretrained=True
+                    pretrained=True,
                     )
 
 model.val(
