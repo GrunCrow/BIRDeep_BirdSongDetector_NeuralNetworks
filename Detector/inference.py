@@ -5,7 +5,7 @@ import pandas as pd
 
 # load best model from training results
 # best_model = YOLO(MODEL_WEIGHTS_BEST)
-best_model = YOLO("yolov8s.pt") # BIRDeep/test/weights/best.pt
+best_model = YOLO("BIRDeep/4_Binary_Small/weights/best.pt") # BIRDeep/test/weights/best.pt
 
 '''df = pd.read_csv(TEST_CSV)
 
@@ -20,9 +20,9 @@ best_model.val(
     data = "Detector/birdeep.yaml",
     conf = 0.4,  # confidence threshold
     # iou = 0.6, default = 0.6
-    split = "val", # val, test or train
+    split = "test", # val, test or train
     save_json = True,  # save a COCO-JSON results file
-    save_hybrid = True,  # save hybrid grid results
+    save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model
     plots = False, # save plots	of prediction vs ground truth
     save_conf = True  # save results with confidence scores
 )

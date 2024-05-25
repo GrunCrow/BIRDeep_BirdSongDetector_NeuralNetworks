@@ -12,7 +12,7 @@ names:
   0: Bird
   1: Alaudidae
   2: Anthus pratensis
-  3: Athene noctua
+  3: Athene noctua # deleted
   4: Calandrella brachydactyla
   5: Carduelis carduelis
   6: Cettia cetti
@@ -24,7 +24,7 @@ names:
   12: Curruca undata
   13: Cyanopica cooki
   14: Emberiza calandra
-  15: Erithacus rubecula
+  15: Erithacus rubecula # deleted
   16: Falco tinnunculus
   17: Fringilla
   18: Galerida Cristata
