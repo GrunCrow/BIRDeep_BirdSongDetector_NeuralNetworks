@@ -5,7 +5,7 @@ import pandas as pd
 
 # load best model from training results
 # best_model = YOLO(MODEL_WEIGHTS_BEST)
-best_model = YOLO("BIRDeep/2_BaseExperimentBinary_Large/weights/best.pt")
+best_model = YOLO("yolov8s.pt") # BIRDeep/test/weights/best.pt
 
 '''df = pd.read_csv(TEST_CSV)
 
@@ -17,10 +17,13 @@ imgs_list = df.transpose().values.tolist()
 flatList = [element for innerList in imgs_list for element in innerList]'''
 
 best_model.val(
+    data = "Detector/birdeep.yaml",
     conf = 0.4,  # confidence threshold
-    split = "test",
+    # iou = 0.6, default = 0.6
+    split = "val", # val, test or train
     save_json = True,  # save a COCO-JSON results file
     save_hybrid = True,  # save hybrid grid results
+    plots = False, # save plots	of prediction vs ground truth
     save_conf = True  # save results with confidence scores
 )
 
