@@ -19,7 +19,7 @@ flatList = [element for innerList in imgs_list for element in innerList]'''
 best_model.val(
     data = "Detector/birdeep.yaml",
     conf = 0.4,  # confidence threshold
-    # iou = 0.6, default = 0.6
+    iou = 0.1, # default = 0.6
     split = "test", # val, test or train
     save_json = True,  # save a COCO-JSON results file
     save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model

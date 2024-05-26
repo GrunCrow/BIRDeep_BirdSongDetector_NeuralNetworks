@@ -39,6 +39,7 @@ model.train(
                     single_cls = True,	        # train multi-class data as single-class -> def = False
                     cfg="Detector/config/config.yaml",
                     pretrained=True,
+                    cos_lr = True,
                     )
 
 model.val(
