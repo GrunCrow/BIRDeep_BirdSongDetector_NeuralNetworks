@@ -17,7 +17,7 @@ os.environ["COMET_LOG_PER_CLASS_METRICS"] = "true"
 os.environ["COMET_MAX_IMAGE_PREDICTIONS"] = "50"
 
 # initialize experiment in comet
-#comet_ml.init("BIRDeep") # it get the name of the project name on training
+comet_ml.init("BIRDeep") # it get the name of the project name on training
 
 # Create a new YOLO model from scratch
 #model = YOLO(MODEL_NAME)
@@ -26,7 +26,22 @@ os.environ["COMET_MAX_IMAGE_PREDICTIONS"] = "50"
 #model = YOLO(MODEL_WEIGHTS)
 
 # Nano model
-#model = YOLO("yolov8s.pt")
+model = YOLO("yolov8s.pt")
+
+# Train the model using the 'coco128.yaml' dataset for 3 epochs
+model.train(
+    data=DATASET_YAML, 
+    device = 0,                   # device to run on, i.e. cuda device=0 or device=0,1,2,3 or device=cpu
+    epochs = 500,
+    patience = 50,
+    name = "8_AugmentedBG_Small", # "2_BaseExperimentBinary_Small",      # experiment name
+    resume = False,	            # resume training from last checkpoint
+    single_cls = True,	        # train multi-class data as single-class -> def = False
+    cfg="Detector/config/config.yaml",
+    pretrained=True,
+
+    optimizer = "auto", # (str) optimizer to use, choices=[SGD, Adam, Adamax, AdamW, NAdam, RAdam, RMSProp, auto]
+)
 
 # Grid search optimization
 optimizers = ["SGD", "Adam", "RMSProp"]
@@ -34,7 +49,7 @@ lr0_values = [0.001, 0.01, 0.1]
 momentum_values = [0.9, 0.937, 0.99]
 weight_decay_values = [0.0001, 0.0005, 0.001]
 
-for optimizer in optimizers:
+'''for optimizer in optimizers:
     for lr0 in lr0_values:
         for momentum in momentum_values:
             for weight_decay in weight_decay_values:
@@ -74,7 +89,7 @@ for optimizer in optimizers:
                     box = 7.5, # (float) box loss gain
                     cls = 0.5, # (float) cls loss gain (scale with pixels)
                     dfl = 1.5 # (float) dfl loss gain
-                    )
+                    )'''
 
 '''model.val(
     split = "val", # val, test or train

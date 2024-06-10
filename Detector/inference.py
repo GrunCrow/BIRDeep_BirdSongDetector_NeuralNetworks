@@ -8,7 +8,7 @@ import pandas as pd
 #best_model = YOLO("BIRDeep/4_Binary_Small/weights/best.pt") # BIRDeep/test/weights/best.pt
 
 #best_model = YOLO("BIRDeep/6_Binary_RMSProp_lr00.001_momentum0.9_wd0.001_Small/weights/best.pt") # Todos los valores = 0
-best_model = YOLO("BIRDeep/6_Binary_Adam_lr00.001_momentum0.937_wd0.001_Small/weights/best.pt")
+best_model = YOLO("BIRDeep/8_AugmentedBG_Small/weights/best.pt")
 
 
 
