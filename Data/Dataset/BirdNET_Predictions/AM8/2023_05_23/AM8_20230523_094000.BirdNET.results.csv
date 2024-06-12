@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.8693
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.5392
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.9148
+12.0,15.0,Sturnus vulgaris,European Starling,0.5507
+15.0,18.0,Sturnus unicolor,Spotless Starling,0.9530
+15.0,18.0,Sturnus vulgaris,European Starling,0.6525
+18.0,21.0,Sturnus unicolor,Spotless Starling,0.9584
+21.0,24.0,Sturnus unicolor,Spotless Starling,0.6693
+24.0,27.0,Sturnus unicolor,Spotless Starling,0.9707
+42.0,45.0,Sturnus unicolor,Spotless Starling,0.6701
+45.0,48.0,Sturnus unicolor,Spotless Starling,0.9744
