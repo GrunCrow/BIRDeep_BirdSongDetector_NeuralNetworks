@@ -25,7 +25,7 @@ best_model.val(
     data = "Detector/birdeep.yaml",
     conf = 0.4,  # confidence threshold
     iou = 0.6, # default = 0.6
-    split = "val", # val, test or train
+    split = "test", # val, test or train
     save_json = True,  # save a COCO-JSON results file
     save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model
     plots = False, # save plots	of prediction vs ground truth
