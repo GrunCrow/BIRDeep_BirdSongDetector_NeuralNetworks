@@ -1,0 +1,13 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.9827
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.8583
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.9683
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.9802
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.9177
+18.0,21.0,Sturnus unicolor,Spotless Starling,0.9927
+21.0,24.0,Sturnus unicolor,Spotless Starling,0.7541
+27.0,30.0,Sturnus unicolor,Spotless Starling,0.8264
+30.0,33.0,Sturnus unicolor,Spotless Starling,0.8430
+33.0,36.0,Sturnus unicolor,Spotless Starling,0.9864
+45.0,48.0,Actitis hypoleucos,Common Sandpiper,0.7496
+57.0,60.0,Sturnus unicolor,Spotless Starling,0.8066

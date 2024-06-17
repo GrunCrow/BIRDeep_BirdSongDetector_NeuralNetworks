@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+6.0,9.0,Ciconia ciconia,White Stork,0.9912
+9.0,12.0,Ciconia ciconia,White Stork,0.9999
+12.0,15.0,Ciconia ciconia,White Stork,0.5892
+15.0,18.0,Ciconia ciconia,White Stork,0.6185
+18.0,21.0,Ciconia ciconia,White Stork,0.9850
+21.0,24.0,Ciconia ciconia,White Stork,0.9981
+48.0,51.0,Ciconia ciconia,White Stork,0.9957
+51.0,54.0,Ciconia ciconia,White Stork,0.9988
+54.0,57.0,Ciconia ciconia,White Stork,0.9994
+57.0,60.0,Ciconia ciconia,White Stork,0.9991

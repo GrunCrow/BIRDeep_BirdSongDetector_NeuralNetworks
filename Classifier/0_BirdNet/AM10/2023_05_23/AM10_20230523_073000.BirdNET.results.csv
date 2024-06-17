@@ -1,0 +1,10 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Cisticola juncidis,Zitting Cisticola,0.9698
+3.0,6.0,Cisticola juncidis,Zitting Cisticola,0.8375
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.9540
+9.0,12.0,Cisticola juncidis,Zitting Cisticola,0.9307
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.8223
+15.0,18.0,Cisticola juncidis,Zitting Cisticola,0.9462
+42.0,45.0,Cisticola juncidis,Zitting Cisticola,0.9269
+45.0,48.0,Emberiza calandra,Corn Bunting,0.7433
+48.0,51.0,Emberiza calandra,Corn Bunting,0.5511
