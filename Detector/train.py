@@ -28,13 +28,15 @@ comet_ml.init("BIRDeep") # it get the name of the project name on training
 # Nano model
 model = YOLO("yolov8s.pt")
 
+# model = YOLO("BIRDeep/9_AugmentedBG_NewLabels_Small/weights/best.pt")
+
 # Train the model using the 'coco128.yaml' dataset for 3 epochs
 model.train(
     data=DATASET_YAML, 
     device = 0,                   # device to run on, i.e. cuda device=0 or device=0,1,2,3 or device=cpu
     epochs = 500,
     patience = 50,
-    name = "9_AugmentedBG_NewLabels_Small", # "2_BaseExperimentBinary_Small",      # experiment name
+    name = "12_AllBG_LessESC50_Small", # "2_BaseExperimentBinary_Small",      # experiment name
     resume = False,	            # resume training from last checkpoint
     single_cls = True,	        # train multi-class data as single-class -> def = False
     cfg="Detector/config/config.yaml",

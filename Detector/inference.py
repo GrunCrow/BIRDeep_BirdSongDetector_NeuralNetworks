@@ -8,7 +8,7 @@ import pandas as pd
 #best_model = YOLO("BIRDeep/4_Binary_Small/weights/best.pt") # BIRDeep/test/weights/best.pt
 
 #best_model = YOLO("BIRDeep/6_Binary_RMSProp_lr00.001_momentum0.9_wd0.001_Small/weights/best.pt") # Todos los valores = 0
-best_model = YOLO("BIRDeep/9_AugmentedBG_NewLabels_Small/weights/best.pt")
+best_model = YOLO("BIRDeep/12_AllBG_LessESC50_Small/weights/best.pt")
 
 
 
@@ -24,8 +24,8 @@ flatList = [element for innerList in imgs_list for element in innerList]'''
 best_model.val(
     data = "Detector/birdeep.yaml",
     conf = 0.4,  # confidence threshold
-    iou = 0.6, # default = 0.6
-    split = "test", # val, test or train
+    iou = 0.4, # default = 0.6
+    split = "val", # val, test or train
     save_json = True,  # save a COCO-JSON results file
     save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model
     plots = False, # save plots	of prediction vs ground truth
