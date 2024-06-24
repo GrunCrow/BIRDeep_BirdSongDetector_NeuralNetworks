@@ -1,0 +1,6 @@
+train_data = \\wsl.localhost\Ubuntu\home\gruncrow\BIRDeep_NeuralNetworks\Data\Dataset\Audios\BirdNet\train\
+
+output_model = \\wsl.localhost\Ubuntu\home\gruncrow\BIRDeep_NeuralNetworks\BirdNET\models
+
+python3 train.py --i ../BIRDeep_NeuralNetworks/Data/Dataset/Audios/B
+irdNet/train/ --o ../BIRDeep_NeuralNetworks/BirdNET/models/
