@@ -8,7 +8,7 @@ DATASET_PATH = "../" # "../../desarrollo/"
 DATASET_YAML = PATH + "birdeep.yaml"
 TRAIN_TXT = DATASET_PATH + "Data/Dataset/TXTs/train.txt"
 VAL_TXT = DATASET_PATH + "Data/Dataset/TXTs/validation.txt"
-TEST_TXT = DATASET_PATH + "Data/Dataset/TXTs/test.txt"
+TEST_TXT = "Data/Dataset/TXTs/test.txt"
 TEST_CSV = DATASET_PATH + "Data/Dataset/CSVs/test.csv"
 
 # MODEL

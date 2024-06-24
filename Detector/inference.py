@@ -8,6 +8,7 @@ import pandas as pd
 #best_model = YOLO("BIRDeep/4_Binary_Small/weights/best.pt") # BIRDeep/test/weights/best.pt
 
 #best_model = YOLO("BIRDeep/6_Binary_RMSProp_lr00.001_momentum0.9_wd0.001_Small/weights/best.pt") # Todos los valores = 0
+# 12_AllBG_LessESC50_Small      9_AugmentedBG_NewLabels_Small
 best_model = YOLO("BIRDeep/12_AllBG_LessESC50_Small/weights/best.pt")
 
 
@@ -21,41 +22,42 @@ imgs_list = df.transpose().values.tolist()
 # iterate through the sublist using List comprehension
 flatList = [element for innerList in imgs_list for element in innerList]'''
 
-best_model.val(
+'''best_model.val(
     data = "Detector/birdeep.yaml",
-    conf = 0.4,  # confidence threshold
-    iou = 0.4, # default = 0.6
-    split = "val", # val, test or train
+    conf = 0.6,  # confidence threshold
+    iou = 0.1, # default = 0.6
+    split = "test", # val, test or train
     save_json = True,  # save a COCO-JSON results file
     save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model
-    plots = False, # save plots	of prediction vs ground truth
+    plots = True, # save plots	of prediction vs ground truth
     save_conf = True  # save results with confidence scores
-)
+)'''
 
 # get predictions on best model
-'''results = best_model.predict(
+results = best_model.predict(
     source=TEST_TXT, #"Dataset/multispecies.jpeg", # (str, optional) source directory for images or videos
     save=True, 
-    conf=0.4,
+    conf=0.6,
+    iou=0.1,
     save_txt = True,  # (bool) save results as .txt file
     save_conf = True,  # (bool) save results with confidence scores
-    # save_crop = True,  # (bool) save cropped images with results
+    save_crop = False,  # (bool) save cropped images with results
 
-    #show = True,  # (bool) show results if possible
-    #show_labels = True,  # (bool) show object labels in plots
-    #show_conf = True,  # (bool) show object confidence scores in plots
+    show = False,  # (bool) show results if possible
+    show_labels = True,  # (bool) show object labels in plots
+    show_conf = True,  # (bool) show object confidence scores in plots
 
-    #visualize = True,  # (bool) visualize model features
+    visualize = False,  # (bool) visualize model features
     
     
     #vid_stride = 1,  # (int) video frame-rate stride
     #line_width = ,   # (int, optional) line width of the bounding boxes, auto if missing
     #augment = False,  # (bool) apply image augmentation to prediction sources
-    #agnostic_nms = False,  # (bool) class-agnostic NMS
+    # agnostic_nms = False,  # (bool) Enables class-agnostic Non-Maximum Suppression (NMS), which merges overlapping boxes of different classes. Useful in multi-class detection scenarios where class overlap is common.
     #classes = , # (int | list[int], optional) filter results by class, i.e. classes=0, or classes=[0,2,3]
     #retina_masks = False,  # (bool) use high-resolution segmentation masks
     #boxes = True  # (bool) Show boxes in segmentation predictions
-    )'''
+)
 
 # Perform object detection on an image using the model
 # results = model('https://ultralytics.com/images/bus.jpg')

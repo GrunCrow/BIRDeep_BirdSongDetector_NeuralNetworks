@@ -43,6 +43,9 @@ model.train(
     pretrained=True,
 
     optimizer = "auto", # (str) optimizer to use, choices=[SGD, Adam, Adamax, AdamW, NAdam, RAdam, RMSProp, auto]
+
+    val=True,
+    plots=True,
 )
 
 # Grid search optimization
