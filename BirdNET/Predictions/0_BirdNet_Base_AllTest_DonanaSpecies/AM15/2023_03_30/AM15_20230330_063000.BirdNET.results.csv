@@ -1,0 +1,13 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Saxicola rubetra,Whinchat,0.1131
+3.0,6.0,Saxicola rubetra,Whinchat,0.2293
+6.0,9.0,Anthus trivialis,Tree Pipit,0.2648
+15.0,18.0,Melanocorypha calandra,Calandra Lark,0.3105
+15.0,18.0,Coccothraustes coccothraustes,Hawfinch,0.2360
+18.0,21.0,Melanocorypha calandra,Calandra Lark,0.3697
+24.0,27.0,Melanocorypha calandra,Calandra Lark,0.6156
+30.0,33.0,Tetrax tetrax,Little Bustard,0.1934
+30.0,33.0,Emberiza calandra,Corn Bunting,0.1722
+33.0,36.0,Melanocorypha calandra,Calandra Lark,0.1265
+45.0,48.0,Lanius senator,Woodchat Shrike,0.1519
+45.0,48.0,Melanocorypha calandra,Calandra Lark,0.1504

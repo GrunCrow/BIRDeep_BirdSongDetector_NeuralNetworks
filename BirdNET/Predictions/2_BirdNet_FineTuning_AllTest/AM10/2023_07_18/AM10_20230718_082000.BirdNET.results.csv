@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Sturnus,Sturnus,0.1365
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.1909
+15.0,18.0,Cisticola juncidis,Zitting Cisticola,0.1637
+24.0,27.0,Saxicola rubicola,European Stonechat,0.1791
+24.0,27.0,Cisticola juncidis,Zitting Cisticola,0.1193
+30.0,33.0,Saxicola rubicola,European Stonechat,0.1083
+36.0,39.0,Cisticola juncidis,Zitting Cisticola,0.1370
+39.0,42.0,Saxicola rubicola,European Stonechat,0.1271
+48.0,51.0,Saxicola rubicola,European Stonechat,0.1079
+51.0,54.0,Cisticola juncidis,Zitting Cisticola,0.1440
+57.0,60.0,Sturnus,Sturnus,0.1274
