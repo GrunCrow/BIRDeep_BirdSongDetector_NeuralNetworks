@@ -59,23 +59,29 @@ Passive acoustic monitoring through the use of devices such as automatic audio r
 ### Introduction
 
 **¿Cuál es el objetivo principal de tu investigación?**
+
 El objetivo principal de la investigación es desarrollar un pipeline que optimice la detección y clasificación de especies de aves en grabaciones de audio utilizando técnicas de Deep Learning. Este pipeline permitirá automatizar la anotación de estas grabaciones, facilitando la realización de estudios ecológicos relevantes.
 
 **¿Qué antecedentes relevantes debes incluir para situar el contexto de tu estudio?**
+
 Los antecedentes relevantes incluyen el uso de técnicas de monitoreo acústico pasivo para la conservación y gestión de ecosistemas naturales. Además, se han utilizado modelos de Deep Learning como BirdNET para la identificación de aves, aunque estos modelos no han presentado resultados satisfactorios para el contexto ecológico específico de Doñana, como las especies más abundantes o el paisaje sonoro.
 
 **¿Qué hipótesis o preguntas de investigación estás abordando?**
+
 La hipótesis principal de la investigación es que el desarrollo de un modelo de Deep Learning específicamente entrenado con datos de Doñana mejorará significativamente la detección y clasificación de especies de aves en comparación con los modelos generales existentes. Se realizarán técnicas de Transfer Learning sobre modelos ya existentes para la clasificación de especies de aves en grabaciones de audio, intentando minimizar los tiempos de análisis, mejorar el rendimiento actual y adaptarlo a las características específicas del caso de estudio de Doñana.
 
 ### Material and Methods
 
 **¿Qué métodos utilizaste para recolectar datos (p.ej., equipos, ubicaciones, tiempos)?**
+
 Los datos se recogieron utilizando dispositivos de grabación automática de audio (AudioMoths) en tres hábitats diferentes del Parque Nacional de Doñana. Se anotaron aproximadamente 500 minutos de datos de audio. Hay 9 grabadoras en 3 hábitats diferentes, que están funcionando constantemente grabando 1 minuto y dejando 9 minutos entre grabación y grabación. Es decir, de cada 10 minutos se graba 1 minuto. Las anotaciones se han realizado priorizando aquellos tiempos en los que las aves tienen mayor actividad para intentar disponer de tantos audios con cantos como sea posible, específicamente unas horas antes del amanecer hasta mediodía.
 
 **¿Qué procedimientos seguiste para analizar los datos?**
+
 Los datos de audio se transformaron en espectrogramas de Mel, que luego se utilizaron para entrenar un modelo de Deep Learning. Primero se desarrolló un detector para encontrar ventanas temporales en las que se detecta el canto de un ave. Luego se entrenó BirdNET para crear un clasificador adaptado al contexto ecológico de Doñana. El objetivo final es crear un pipeline en el que el detector obtenga las ventanas temporales en las que hay un canto de ave y BirdNET, con fine-tuning, realice la clasificación de las especies presentes.
 
 **¿Hay algún aspecto específico de la teoría que respalde tu metodología?**
+
 La teoría que respalda esta metodología es que los modelos de Deep Learning pueden aprender a identificar y clasificar especies de aves a partir de espectrogramas de Mel, que son representaciones gráficas de los datos de audio. Así como un modelo general puede conseguir buenos resultados cuando se realiza Transfer Learning para adaptarlo a un problema específico.
 
 Según el paper original de BirdNET: "In summary, BirdNET achieved a mean average precision of 0.791 for single-species recordings, a F0.5 score of 0.414 for annotated soundscapes, and an average correlation of 0.251 with hotspot observation across 121 species and 4 years of audio data." Es decir sobre audios que pertenecen al dominio sobre el que pertenece BirdNET, en un contexto real en el que los audios contienen paisaje sonoro, es decir, soundscapes, el rendimiento no es el mejor. Por otro lado "The most common sources of false-positive detections were other vocalizing animals (e.g., insects, anurans, mam mals), geophysical noise (e.g., wind, rain, thunder), human vocal and non-vocal sounds (e.g., whistling, footsteps, speech), anthropogenic sounds typically encountered in urban areas (e.g., cars, airplanes, si rens), and electronic recorder noise. The Google AudioSet is one of the largest collections of human-labeled sounds that span a wide range of classes that are organized in an ontology (Gemmeke et al., 2017). We used 16 classes from the AudioSet". BirdNET puede producir muchos falsos positivos, crear un paso previo de detector de cantos de aves puede reducir el número de falsos positivos. Siguiendo una idea de DeepFaune, en la que se establece para cámaras de fototrampeo un primer paso basado en Megadetector para eliminar las imágenes vacías de las que contienen animales y así poder aplicar posteriormente un clasificador solo sobre aquellas muestras que son True Positive, reduciendo el número de False Positives en el clasificador.
@@ -191,24 +197,33 @@ Sí, uno de los resultados inesperados fue la dificultad significativa para mejo
 ### Discussion
 
 **¿Qué significan tus resultados en el contexto de la investigación existente?**
+
 Los resultados subrayan la importancia de adaptar los modelos de Deep Learning a contextos ecológicos específicos para una identificación precisa de especies. Este estudio demuestra que los modelos generales como BirdNET pueden mejorarse significativamente mediante ajustes específicos con datos contextuales.
 
 **¿Cómo se comparan tus hallazgos con estudios previos?**
+
 Comparado con estudios previos que usan BirdNET, esta investigación muestra una mejora en la detección y clasificación de especies en un contexto ecológico específico mediante la incorporación de un detector preliminar y el ajuste del modelo.
 
 **¿Qué limitaciones identificas en tu estudio?**
+
 Las limitaciones incluyen el tamaño relativamente pequeño del conjunto de datos y la potencial mejora del rendimiento con datos más extensos y diversos. La capacidad del modelo para generalizar a otros contextos ecológicos también requiere mayor investigación.
 
 **¿Qué sugerencias tienes para investigaciones futuras?**
+
 La investigación futura debe centrarse en expandir el conjunto de datos, probar el pipeline en diferentes contextos ecológicos y explorar técnicas adicionales de ajuste para mejorar aún más el rendimiento del modelo.
 
 ### Conclusions
 
 **¿Cuáles son las principales conclusiones que se derivan de tu estudio?**
+
 La conclusión principal es que ajustar los modelos de Deep Learning con datos específicos del contexto mejora significativamente la precisión y eficiencia en la detección y clasificación de especies de aves. Este estudio destaca la necesidad de enfoques personalizados en el monitoreo ecoacústico.
+
 **¿Qué implicaciones tienen tus hallazgos para la práctica o la teoría?**
+
 Los hallazgos tienen importantes implicaciones para el monitoreo de la biodiversidad, sugiriendo que los modelos de Deep Learning personalizados pueden proporcionar herramientas más precisas y eficientes para estudios ecológicos.
+
 **¿Hay recomendaciones específicas que se deriven de tu investigación?**
+
 Las recomendaciones incluyen desarrollar conjuntos de datos más grandes y diversos para el entrenamiento, aplicar el pipeline en varios contextos ecológicos y explorar técnicas avanzadas de ajuste para mejorar aún más el rendimiento.
 
 <!--## Getting Started
