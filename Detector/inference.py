@@ -22,7 +22,7 @@ imgs_list = df.transpose().values.tolist()
 # iterate through the sublist using List comprehension
 flatList = [element for innerList in imgs_list for element in innerList]'''
 
-best_model.val(
+'''best_model.val(
     data = "Detector/birdeep.yaml",
     conf = 0.1,  # confidence threshold
     iou = 0.4, # default = 0.6
@@ -31,14 +31,14 @@ best_model.val(
     save_hybrid = False,  # save hybrid grid results - ALWAYS SET TO FALSE (https://github.com/ultralytics/ultralytics/issues/6976) - when this flag is set to true it merges the GT with the predictions from the model
     plots = True, # save plots	of prediction vs ground truth
     save_conf = True  # save results with confidence scores
-)
+)'''
 
 # get predictions on best model
-'''results = best_model.predict(
+results = best_model.predict(
     source=TEST_TXT, #"Dataset/multispecies.jpeg", # (str, optional) source directory for images or videos
     save=True, 
-    conf=0.2,
-    iou=0.4,
+    conf=0.1,
+    iou=0.2,
     save_txt = True,  # (bool) save results as .txt file
     save_conf = True,  # (bool) save results with confidence scores
     save_crop = False,  # (bool) save cropped images with results
@@ -57,7 +57,7 @@ best_model.val(
     #classes = , # (int | list[int], optional) filter results by class, i.e. classes=0, or classes=[0,2,3]
     #retina_masks = False,  # (bool) use high-resolution segmentation masks
     #boxes = True  # (bool) Show boxes in segmentation predictions
-)'''
+)
 
 # Perform object detection on an image using the model
 # results = model('https://ultralytics.com/images/bus.jpg')
