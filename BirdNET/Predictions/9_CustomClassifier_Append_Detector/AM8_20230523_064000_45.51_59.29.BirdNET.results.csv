@@ -1,0 +1,28 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3334
+0,3.0,Sturnus,Sturnus,0.2115
+0,3.0,Sturnus unicolor,Spotless Starling,0.1572
+0,3.0,Apus apus,Common Swift,0.1326
+0,3.0,Sturnus vulgaris,European Starling,0.1074
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.9456
+3.0,6.0,Sturnus vulgaris,European Starling,0.5582
+3.0,6.0,Sturnus,Sturnus,0.4549
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.2517
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2321
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.8982
+6.0,9.0,Sturnus vulgaris,European Starling,0.5384
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3924
+6.0,9.0,Sturnus,Sturnus,0.2817
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.2391
+6.0,9.0,Cettia cetti,Cetti's Warbler,0.1647
+6.0,9.0,Pachyramphus aglaiae,Rose-throated Becard,0.1365
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.8353
+9.0,12.0,Sturnus,Sturnus,0.4025
+9.0,12.0,Sturnus vulgaris,European Starling,0.3589
+9.0,12.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2436
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.1786
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.9131
+12.0,15.0,Sturnus vulgaris,European Starling,0.7587
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.2083
+12.0,15.0,Luscinia megarhynchos,Common Nightingale,0.2059
+12.0,15.0,Sturnus,Sturnus,0.1393

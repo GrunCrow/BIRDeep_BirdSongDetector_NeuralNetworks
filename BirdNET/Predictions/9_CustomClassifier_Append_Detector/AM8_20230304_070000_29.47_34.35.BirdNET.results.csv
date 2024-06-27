@@ -1,0 +1,10 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.8016
+0,3.0,Ploceus cucullatus,Village Weaver,0.1324
+0,3.0,Sturnus unicolor,Spotless Starling,0.1225
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1105
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.9826
+3.0,6.0,Dives dives,Melodious Blackbird,0.5275
+3.0,6.0,Sturnus vulgaris,European Starling,0.4979
+3.0,6.0,Sturnus,Sturnus,0.3026
+3.0,6.0,Ciconia ciconia,White Stork,0.2374

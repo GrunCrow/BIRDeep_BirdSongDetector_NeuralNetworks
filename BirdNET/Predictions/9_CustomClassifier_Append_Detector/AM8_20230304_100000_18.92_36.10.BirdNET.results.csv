@@ -1,0 +1,23 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Ciconia ciconia,White Stork,0.7623
+0,3.0,Ciconia ciconia,White Stork,0.3762
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1185
+6.0,9.0,Quiscalus quiscula,Common Grackle,0.7217
+6.0,9.0,Sturnus,Sturnus,0.1884
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1846
+6.0,9.0,Sturnus vulgaris,European Starling,0.1500
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.8616
+9.0,12.0,Sturnus,Sturnus,0.3701
+9.0,12.0,Sturnus vulgaris,European Starling,0.3532
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.1616
+9.0,12.0,Quiscalus quiscula,Common Grackle,0.1607
+9.0,12.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1147
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.5193
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1795
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.1775
+15.0,18.0,Sturnus unicolor,Spotless Starling,0.9569
+15.0,18.0,Pterorhinus sannio,White-browed Laughingthrush,0.2547
+15.0,18.0,Cettia cetti,Cetti's Warbler,0.2499
+15.0,18.0,Dives dives,Melodious Blackbird,0.2257
+15.0,18.0,Sturnus,Sturnus,0.1045
+15.0,18.0,Sturnus vulgaris,European Starling,0.1022
