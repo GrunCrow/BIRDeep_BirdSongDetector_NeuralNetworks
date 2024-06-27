@@ -1,0 +1,29 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Melanocorypha calandra,Calandra Lark,0.8731
+0,3.0,Alauda arvensis,Eurasian Skylark,0.3612
+3.0,6.0,Melanocorypha calandra,Calandra Lark,0.2363
+3.0,6.0,Tetrax tetrax,Little Bustard,0.1997
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.1751
+9.0,12.0,Melanocorypha calandra,Calandra Lark,0.2877
+12.0,15.0,Riparia riparia,Bank Swallow,0.1405
+12.0,15.0,Hirundo rustica,Barn Swallow,0.1081
+15.0,18.0,Emberiza calandra,Corn Bunting,0.4834
+18.0,21.0,Spinus spinus,Eurasian Siskin,0.1377
+21.0,24.0,Melanocorypha calandra,Calandra Lark,0.5969
+27.0,30.0,Empidonax difficilis,Pacific-slope Flycatcher,0.1844
+27.0,30.0,Anthus pratensis,Meadow Pipit,0.1350
+30.0,33.0,Riparia riparia,Bank Swallow,0.7620
+30.0,33.0,Melanocorypha calandra,Calandra Lark,0.4105
+33.0,36.0,Riparia riparia,Bank Swallow,0.4714
+33.0,36.0,Delichon urbicum,Common House-Martin,0.2462
+36.0,39.0,Riparia riparia,Bank Swallow,0.8804
+39.0,42.0,Melanocorypha calandra,Calandra Lark,0.2691
+39.0,42.0,Tetrax tetrax,Little Bustard,0.2287
+39.0,42.0,Locustella naevia,Common Grasshopper-Warbler,0.1462
+42.0,45.0,Anthus pratensis,Meadow Pipit,0.2540
+45.0,48.0,Anthus pratensis,Meadow Pipit,0.9658
+45.0,48.0,Anthus spinoletta,Water Pipit,0.1586
+48.0,51.0,Anthus pratensis,Meadow Pipit,0.6662
+51.0,54.0,Luscinia megarhynchos,Common Nightingale,0.1026
+54.0,57.0,Alauda arvensis,Eurasian Skylark,0.1429
+54.0,57.0,Calandrella brachydactyla,Greater Short-toed Lark,0.1207

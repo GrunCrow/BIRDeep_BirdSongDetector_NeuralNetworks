@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Alaudidae,Alaudidae,0.1702
+3.0,6.0,Alaudidae,Alaudidae,0.4334
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1842
+12.0,15.0,Alaudidae,Alaudidae,0.1124
+15.0,18.0,Alaudidae,Alaudidae,0.5114
+18.0,21.0,Alaudidae,Alaudidae,0.2933
+21.0,24.0,Alaudidae,Alaudidae,0.3895
+24.0,27.0,Alaudidae,Alaudidae,0.6089
+24.0,27.0,Galerida theklae,Thekla's Lark,0.1468
+30.0,33.0,Alaudidae,Alaudidae,0.2475
+33.0,36.0,Curruca,Curruca,0.1090
+42.0,45.0,Galerida theklae,Thekla's Lark,0.3073
+42.0,45.0,Alaudidae,Alaudidae,0.1643

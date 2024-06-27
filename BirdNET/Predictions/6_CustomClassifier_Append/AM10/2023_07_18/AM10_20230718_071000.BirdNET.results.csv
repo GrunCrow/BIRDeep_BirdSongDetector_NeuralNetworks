@@ -1,0 +1,36 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Thlypopsis superciliaris,Superciliaried Hemispingus,0.1378
+0,3.0,Diglossa cyanea,Masked Flowerpiercer,0.1094
+3.0,6.0,Regulus regulus,Goldcrest,0.1371
+9.0,12.0,Carduelis carduelis,European Goldfinch,0.1690
+9.0,12.0,Saxicola rubicola,European Stonechat,0.1185
+15.0,18.0,Carduelis carduelis,European Goldfinch,0.1583
+15.0,18.0,Carduelis carduelis,European Goldfinch,0.1459
+18.0,21.0,Anthus rubescens,American Pipit,0.3816
+18.0,21.0,Chlorophanes spiza,Green Honeycreeper,0.1448
+18.0,21.0,Luscinia megarhynchos,Common Nightingale,0.1108
+21.0,24.0,Colibri thalassinus,Mexican Violetear,0.2503
+24.0,27.0,Campylopterus hemileucurus,Violet Sabrewing,0.1520
+27.0,30.0,Zonotrichia leucophrys,White-crowned Sparrow,0.7768
+27.0,30.0,Salpinctes obsoletus,Rock Wren,0.1063
+30.0,33.0,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,0.1406
+30.0,33.0,Sturnus,Sturnus,0.1261
+33.0,36.0,Luscinia megarhynchos,Common Nightingale,0.1030
+36.0,39.0,Lanio fulvus,Fulvous Shrike-Tanager,0.3994
+36.0,39.0,Lanio versicolor,White-winged Shrike-Tanager,0.2007
+36.0,39.0,Carduelis carduelis,European Goldfinch,0.1121
+36.0,39.0,Sturnus unicolor,Spotless Starling,0.1025
+39.0,42.0,Zonotrichia leucophrys,White-crowned Sparrow,0.6658
+42.0,45.0,Zonotrichia leucophrys,White-crowned Sparrow,0.6861
+42.0,45.0,Carduelis carduelis,European Goldfinch,0.1189
+42.0,45.0,Carduelis carduelis,European Goldfinch,0.1139
+45.0,48.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1499
+45.0,48.0,Haemorhous mexicanus,House Finch,0.1358
+48.0,51.0,Zonotrichia leucophrys,White-crowned Sparrow,0.2812
+48.0,51.0,Cisticola juncidis,Zitting Cisticola,0.1617
+48.0,51.0,Saxicola rubicola,European Stonechat,0.1142
+51.0,54.0,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,0.1434
+54.0,57.0,Saxicola rubicola,European Stonechat,0.1091
+57.0,60.0,Salpinctes obsoletus,Rock Wren,0.6268
+57.0,60.0,Trochalopteron imbricatum,Bhutan Laughingthrush,0.4093
+57.0,60.0,Zonotrichia leucophrys,White-crowned Sparrow,0.2297

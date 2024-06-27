@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Cisticola juncidis,Zitting Cisticola,0.2383
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.1919
+9.0,12.0,Cisticola juncidis,Zitting Cisticola,0.1329
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.1161
+12.0,15.0,Sturnus,Sturnus,0.1111
+15.0,18.0,Cisticola juncidis,Zitting Cisticola,0.1967
+27.0,30.0,Carduelis carduelis,European Goldfinch,0.2308
+45.0,48.0,Carduelis carduelis,European Goldfinch,0.3009
+48.0,51.0,Carduelis carduelis,European Goldfinch,0.1144
+54.0,57.0,Passer,Passer,0.1590

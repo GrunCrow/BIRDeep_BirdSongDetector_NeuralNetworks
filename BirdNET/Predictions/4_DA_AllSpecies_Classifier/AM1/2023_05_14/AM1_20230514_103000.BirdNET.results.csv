@@ -1,0 +1,16 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Alaudidae,Alaudidae,0.1847
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1140
+12.0,15.0,Galerida theklae,Thekla's Lark,0.1684
+12.0,15.0,Alaudidae,Alaudidae,0.1174
+15.0,18.0,Alaudidae,Alaudidae,0.1979
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1301
+21.0,24.0,Saxicola rubicola,European Stonechat,0.2298
+21.0,24.0,Galerida theklae,Thekla's Lark,0.1133
+21.0,24.0,Curruca,Curruca,0.1108
+24.0,27.0,Galerida theklae,Thekla's Lark,0.2249
+24.0,27.0,Alaudidae,Alaudidae,0.1261
+24.0,27.0,Curruca,Curruca,0.1088
+33.0,36.0,Curruca,Curruca,0.1065
+42.0,45.0,Galerida theklae,Thekla's Lark,0.3108
+42.0,45.0,Curruca,Curruca,0.1035

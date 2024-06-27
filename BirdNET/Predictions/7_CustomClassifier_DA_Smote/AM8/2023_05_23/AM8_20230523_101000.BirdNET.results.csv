@@ -1,0 +1,44 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Passer,Passer,0.1139
+3.0,6.0,Luscinia megarhynchos,Common Nightingale,0.1675
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1583
+3.0,6.0,Sturnus,Sturnus,0.1472
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.1437
+6.0,9.0,Passer,Passer,0.2117
+6.0,9.0,Sturnus,Sturnus,0.1712
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1590
+6.0,9.0,Luscinia megarhynchos,Common Nightingale,0.1250
+9.0,12.0,Luscinia megarhynchos,Common Nightingale,0.3681
+9.0,12.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2907
+12.0,15.0,Luscinia megarhynchos,Common Nightingale,0.2619
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1258
+12.0,15.0,Sturnus,Sturnus,0.1185
+15.0,18.0,Milvus migrans,Black Kite,0.1133
+15.0,18.0,Passer,Passer,0.1126
+18.0,21.0,Cettia cetti,Cetti's Warbler,0.1191
+18.0,21.0,Sturnus,Sturnus,0.1068
+21.0,24.0,Cettia cetti,Cetti's Warbler,0.3787
+21.0,24.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2319
+24.0,27.0,Sturnus,Sturnus,0.3158
+24.0,27.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1739
+24.0,27.0,Sturnus unicolor,Spotless Starling,0.1412
+24.0,27.0,Cettia cetti,Cetti's Warbler,0.1127
+27.0,30.0,Sturnus,Sturnus,0.1774
+27.0,30.0,Cettia cetti,Cetti's Warbler,0.1047
+30.0,33.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1831
+30.0,33.0,Sturnus unicolor,Spotless Starling,0.1244
+33.0,36.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2653
+33.0,36.0,Luscinia megarhynchos,Common Nightingale,0.1564
+36.0,39.0,Streptopelia decaocto,Eurasian Collared-Dove,0.4147
+42.0,45.0,Ciconia ciconia,White Stork,0.1945
+42.0,45.0,Luscinia megarhynchos,Common Nightingale,0.1340
+45.0,48.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1950
+45.0,48.0,Sturnus,Sturnus,0.1290
+51.0,54.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1516
+51.0,54.0,Luscinia megarhynchos,Common Nightingale,0.1163
+54.0,57.0,Luscinia megarhynchos,Common Nightingale,0.1285
+54.0,57.0,Emberiza calandra,Corn Bunting,0.1229
+54.0,57.0,Ciconia ciconia,White Stork,0.1131
+54.0,57.0,Sturnus,Sturnus,0.1079
+57.0,60.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1739
+57.0,60.0,Luscinia megarhynchos,Common Nightingale,0.1685

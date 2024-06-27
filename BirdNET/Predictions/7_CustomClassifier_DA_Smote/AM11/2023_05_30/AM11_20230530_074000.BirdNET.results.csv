@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Curruca melanocephala,Sardinian Warbler,0.2664
+3.0,6.0,Sturnus,Sturnus,0.1586
+6.0,9.0,Sturnus,Sturnus,0.1858
+9.0,12.0,Sturnus,Sturnus,0.1584
+12.0,15.0,Emberiza calandra,Corn Bunting,0.1292
+15.0,18.0,Sturnus,Sturnus,0.1075
+18.0,21.0,Sturnus,Sturnus,0.1170
+27.0,30.0,Emberiza calandra,Corn Bunting,0.1871
+27.0,30.0,Sturnus,Sturnus,0.1348
+36.0,39.0,Sturnus,Sturnus,0.1581
+42.0,45.0,Curruca melanocephala,Sardinian Warbler,0.1114
+48.0,51.0,Carduelis carduelis,European Goldfinch,0.1321
+51.0,54.0,Milvus migrans,Black Kite,0.1663

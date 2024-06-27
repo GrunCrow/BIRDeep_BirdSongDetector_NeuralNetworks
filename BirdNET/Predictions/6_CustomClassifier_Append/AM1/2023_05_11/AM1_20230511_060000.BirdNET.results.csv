@@ -1,0 +1,66 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Galerida theklae,Thekla's Lark,0.2150
+0,3.0,Calcarius pictus,Smith's Longspur,0.1632
+0,3.0,Galerida theklae,Thekla's Lark,0.1034
+0,3.0,Saxicola rubicola,European Stonechat,0.1006
+6.0,9.0,Alauda arvensis,Eurasian Skylark,0.7198
+6.0,9.0,Galerida theklae,Thekla's Lark,0.1520
+9.0,12.0,Haemorhous mexicanus,House Finch,0.2040
+12.0,15.0,Alauda arvensis,Eurasian Skylark,0.1786
+12.0,15.0,Prunella modularis,Dunnock,0.1161
+12.0,15.0,Saxicola rubicola,European Stonechat,0.1062
+15.0,18.0,Galerida theklae,Thekla's Lark,0.4901
+15.0,18.0,Galerida cristata,Crested Lark,0.2804
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1804
+15.0,18.0,Calandrella brachydactyla,Greater Short-toed Lark,0.1344
+15.0,18.0,Alaudidae,Alaudidae,0.1285
+18.0,21.0,Passerina versicolor,Varied Bunting,0.5323
+18.0,21.0,Phylloscopus fuligiventer,Smoky Warbler,0.2000
+18.0,21.0,Phylloscopus ibericus,Iberian Chiffchaff,0.1906
+18.0,21.0,Emberiza stewarti,White-capped Bunting,0.1147
+21.0,24.0,Galerida theklae,Thekla's Lark,0.4417
+21.0,24.0,Alauda arvensis,Eurasian Skylark,0.2630
+21.0,24.0,Alaudidae,Alaudidae,0.2390
+21.0,24.0,Galerida theklae,Thekla's Lark,0.1884
+24.0,27.0,Galerida theklae,Thekla's Lark,0.3421
+24.0,27.0,Haemorhous mexicanus,House Finch,0.1386
+27.0,30.0,Galerida theklae,Thekla's Lark,0.6132
+27.0,30.0,Galerida cristata,Crested Lark,0.1792
+27.0,30.0,Alaudidae,Alaudidae,0.1580
+27.0,30.0,Galerida theklae,Thekla's Lark,0.1545
+27.0,30.0,Haemorhous mexicanus,House Finch,0.1221
+30.0,33.0,Alaudidae,Alaudidae,0.5618
+30.0,33.0,Passerina ciris,Painted Bunting,0.4698
+30.0,33.0,Galerida theklae,Thekla's Lark,0.4587
+30.0,33.0,Carpodacus sibiricus,Long-tailed Rosefinch,0.1171
+30.0,33.0,Myioborus pictus,Painted Redstart,0.1146
+33.0,36.0,Carpodacus sibiricus,Long-tailed Rosefinch,0.6105
+33.0,36.0,Galerida theklae,Thekla's Lark,0.5041
+33.0,36.0,Alaudidae,Alaudidae,0.4623
+33.0,36.0,Galerida cristata,Crested Lark,0.2503
+33.0,36.0,Galerida theklae,Thekla's Lark,0.1695
+39.0,42.0,Galerida theklae,Thekla's Lark,0.2850
+39.0,42.0,Haemorhous mexicanus,House Finch,0.1938
+39.0,42.0,Alaudidae,Alaudidae,0.1695
+39.0,42.0,Eremophila alpestris,Horned Lark,0.1358
+42.0,45.0,Galerida theklae,Thekla's Lark,0.2131
+42.0,45.0,Alaudidae,Alaudidae,0.1378
+45.0,48.0,Galerida theklae,Thekla's Lark,0.8140
+45.0,48.0,Alaudidae,Alaudidae,0.2473
+45.0,48.0,Galerida theklae,Thekla's Lark,0.1740
+45.0,48.0,Passerina ciris,Painted Bunting,0.1096
+48.0,51.0,Phoenicurus ochruros,Black Redstart,0.4525
+48.0,51.0,Alaudidae,Alaudidae,0.2000
+48.0,51.0,Galerida theklae,Thekla's Lark,0.1501
+51.0,54.0,Galerida theklae,Thekla's Lark,0.3010
+51.0,54.0,Passerina ciris,Painted Bunting,0.2117
+51.0,54.0,Vireo leucophrys,Brown-capped Vireo,0.1558
+51.0,54.0,Alaudidae,Alaudidae,0.1140
+54.0,57.0,Alaudidae,Alaudidae,0.4981
+54.0,57.0,Galerida theklae,Thekla's Lark,0.4410
+54.0,57.0,Galerida cristata,Crested Lark,0.1940
+54.0,57.0,Galerida theklae,Thekla's Lark,0.1292
+57.0,60.0,Alaudidae,Alaudidae,0.1320
+57.0,60.0,Phoenicurus ochruros,Black Redstart,0.1270
+57.0,60.0,Setophaga cerulea,Cerulean Warbler,0.1216
+57.0,60.0,Galerida theklae,Thekla's Lark,0.1189

@@ -1,0 +1,23 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Botaurus stellaris,Great Bittern,0.3382
+6.0,9.0,Oenanthe oenanthe,Northern Wheatear,0.1522
+15.0,18.0,Curruca undata,Dartford Warbler,0.1275
+21.0,24.0,Curruca undata,Dartford Warbler,0.2157
+21.0,24.0,Curruca,Curruca,0.1223
+27.0,30.0,Calcarius lapponicus,Lapland Longspur,0.1264
+30.0,33.0,Megaceryle alcyon,Belted Kingfisher,0.5049
+30.0,33.0,Curruca,Curruca,0.1082
+33.0,36.0,Carduelis carduelis,European Goldfinch,0.8691
+36.0,39.0,Carduelis carduelis,European Goldfinch,0.9405
+36.0,39.0,Carduelis carduelis,European Goldfinch,0.1575
+39.0,42.0,Carduelis carduelis,European Goldfinch,0.1103
+39.0,42.0,Plectrophenax nivalis,Snow Bunting,0.1067
+45.0,48.0,Carduelis carduelis,European Goldfinch,0.3272
+45.0,48.0,Carduelis carduelis,European Goldfinch,0.1210
+48.0,51.0,Curruca undata,Dartford Warbler,0.1749
+54.0,57.0,Vireo bellii,Bell's Vireo,0.1372
+54.0,57.0,Curruca curruca,Lesser Whitethroat,0.1230
+54.0,57.0,Curruca undata,Dartford Warbler,0.1108
+57.0,60.0,Catharus guttatus,Hermit Thrush,0.1430
+57.0,60.0,Pipilo erythrophthalmus,Eastern Towhee,0.1155
+57.0,60.0,Erithacus rubecula,European Robin,0.1131

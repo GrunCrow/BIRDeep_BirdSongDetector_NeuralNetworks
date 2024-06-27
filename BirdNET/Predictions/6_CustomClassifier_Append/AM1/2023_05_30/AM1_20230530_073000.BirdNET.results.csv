@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+12.0,15.0,Human non-vocal,Human non-vocal,0.2740
+12.0,15.0,Engine,Engine,0.1848
+15.0,18.0,Engine,Engine,0.6625
+15.0,18.0,Siren,Siren,0.1409
+18.0,21.0,Engine,Engine,0.2704
+18.0,21.0,Siren,Siren,0.1135
+21.0,24.0,Engine,Engine,0.1487
+24.0,27.0,Human non-vocal,Human non-vocal,0.1969
+33.0,36.0,Salpinctes obsoletus,Rock Wren,0.1124
+48.0,51.0,Alaudidae,Alaudidae,0.1199
