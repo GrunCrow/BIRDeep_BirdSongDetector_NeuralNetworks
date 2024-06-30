@@ -1,0 +1,7 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Ciconia ciconia,White Stork,0.3470
+1.0,4.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2168
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1128
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.1035
+14.0,17.0,Sturnus,Sturnus,0.1208
+15.0,18.0,Cettia cetti,Cetti's Warbler,0.3482

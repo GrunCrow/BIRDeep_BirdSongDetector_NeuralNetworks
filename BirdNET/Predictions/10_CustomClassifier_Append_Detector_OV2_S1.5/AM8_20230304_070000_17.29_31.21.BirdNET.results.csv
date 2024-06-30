@@ -1,0 +1,19 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.2192
+0,3.0,Sturnus,Sturnus,0.2032
+1.0,4.0,Sturnus unicolor,Spotless Starling,0.9787
+1.0,4.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2107
+1.0,4.0,Sturnus vulgaris,European Starling,0.1317
+2.0,5.0,Sturnus unicolor,Spotless Starling,0.6002
+2.0,5.0,Milvus migrans,Black Kite,0.2090
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.1834
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.1569
+5.0,8.0,Sturnus,Sturnus,0.1042
+8.0,11.0,Sturnus unicolor,Spotless Starling,0.5463
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.8509
+10.0,13.0,Sturnus unicolor,Spotless Starling,0.9856
+10.0,13.0,Quiscalus lugubris,Carib Grackle,0.2078
+10.0,13.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1370
+10.0,13.0,Sturnus,Sturnus,0.1268
+11.0,14.0,Sturnus unicolor,Spotless Starling,0.9799
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.7333
