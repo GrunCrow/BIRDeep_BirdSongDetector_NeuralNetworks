@@ -166,3 +166,8 @@ cython_debug/
 *.pt
 
 #
+BirdNET/Audios/predict__val_model11_conf0/*
+BirdNET/Audios/predict__val_model12_conf0/*
+
+runs/detect/predict__val_model11_conf0/*
+runs/detect/predict__val_model12_conf0/*
