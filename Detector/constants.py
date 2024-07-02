@@ -7,7 +7,7 @@ DATASET_PATH = "../" # "../../desarrollo/"
 # when runned from jupyter file, it runs from where user is at the terminal
 DATASET_YAML = PATH + "birdeep.yaml"
 TRAIN_TXT = DATASET_PATH + "Data/Dataset/TXTs/train.txt"
-VAL_TXT = DATASET_PATH + "Data/Dataset/TXTs/validation.txt"
+VAL_TXT = "Data/Dataset/TXTs/validation.txt"
 TEST_TXT = "Data/Dataset/TXTs/test.txt"
 TEST_CSV = DATASET_PATH + "Data/Dataset/CSVs/test.csv"
 

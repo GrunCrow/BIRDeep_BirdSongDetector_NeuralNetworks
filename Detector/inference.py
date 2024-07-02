@@ -9,7 +9,8 @@ import pandas as pd
 
 #best_model = YOLO("BIRDeep/6_Binary_RMSProp_lr00.001_momentum0.9_wd0.001_Small/weights/best.pt") # Todos los valores = 0
 # 12_AllBG_LessESC50_Small      9_AugmentedBG_NewLabels_Small
-best_model = YOLO("BIRDeep/12_AllBG_LessESC50_Small/weights/best.pt")
+# 11_AllBG__FF_Small    
+best_model = YOLO("BIRDeep/12_AllBG_LessESC50_FF_Small/weights/best.pt")
 
 
 
