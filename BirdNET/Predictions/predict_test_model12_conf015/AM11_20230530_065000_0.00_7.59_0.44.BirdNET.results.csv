@@ -1,0 +1,7 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus vulgaris,European Starling,0.6495
+0,3.0,Sturnus unicolor,Spotless Starling,0.3023
+3.0,6.0,Sturnus vulgaris,European Starling,0.1795
+3.0,6.0,Sturnus,Sturnus,0.1037
+6.0,9.0,Calandrella brachydactyla,Greater Short-toed Lark,0.2162
+6.0,9.0,Alauda arvensis,Eurasian Skylark,0.1400
