@@ -171,3 +171,7 @@ BirdNET/Audios/predict__val_model12_conf0/*
 
 runs/detect/predict__val_model11_conf0/*
 runs/detect/predict__val_model12_conf0/*
+
+*.WAV
+*.jpg
+*.png
