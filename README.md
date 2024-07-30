@@ -2,24 +2,67 @@
 
 BIRDeep Audio Classifier repository, part of the BIRDeep project, aimed at classifying bird songs in audio recordings.
 
-## Project Overview
-This repository is a collection of neural networks and models designed for the BIRDeep project. Our primary objective is to develop an audio classifier capable of distinguishing between bird songs and background noise, and subsequently categorizing bird songs by their species.
+This repository contains the codes, data, and projects associated with the research paper "Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning." This project focuses on leveraging deep learning techniques to improve bird species identification from audio recordings collected in Doñana National Park.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Data](#data)
+- [Models](#models)
+- [Usage](#usage)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+Passive acoustic monitoring (PAM) is an essential tool for biodiversity conservation, but it generates vast amounts of audio data that are challenging to analyze. This project aims to automate bird species detection using a multi-stage deep learning approach. We combined a YOLOv8-based Bird Song Detector with a fine-tuned BirdNET model to improve species classification accuracy.
+
 
 ## Repository Structure
 
-- **`audio_classifier`**: This directory contains the core structure and files for the audio classifier.
+The repository is organized as follows:
+- `BIRDeep/`: Contains the trainings and pre-trained and fine-tuned models data of the Bird Song Detector.
+- `BirdNET/`: Contains the segments and structure needed to classify audios by BirdNET, BirdNET pre-trained and fine-tuned models and metadata and BirdNET predictions.
+- `Data/`: Contains the audio data and annotations used for training and evaluation, you can check the [BIRDeep_AudioAnnotations Dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations).
+- `Detector`: This directory contains the core structure and files for the Bird Song Detector.
+- `ESC-50`: ESC-50 complete and original dataset as cloned from the repository.
+- `Extras`: Tasks related to the dataset as plots that are not directly related to the Deep Learning models development.
+- `Research/`: Information collected during literature review.
+- `Scripts/`: Jupyter notebooks for data preprocessing and exploratory data analysis.
+- `Web/`: Friendly web-app to use the model.
+- `runs/detect/`: Output files, including model predictions and performance metricsfrom the Bird Song Detector.
+- `README.md`: This file.
 
-- **`audio_detector`**: This directory contains the core structure and files for the audio detector.
+## Data
 
-- **`configs`**: In this section, you'll find configuration files that are crucial for the proper functioning of the classifier.
+### Audio Recordings
 
-- **`Dataset`**: This directory holds the dataset, organized in the structure expected by our models.
+The audio recordings were collected using AudioMoth devices in Doñana National Park. The recordings are organized by habitat type (marshland, scrubland, and ecotone) and location. Each recording is a 1-minute segment sampled every 10 minutes, with a sampling rate of 32 kHz.
 
-- **`Data`**: Here, you'll find various files and information related to the dataset, including metadata and relevant details.
+### Annotations
 
-- **`Scripts`**: This section is dedicated to scripts that aid in data preparation, preprocessing, and other essential tasks for the project.
+Expert annotators labeled 461 minutes of audio data, identifying bird vocalizations and other relevant sounds. Annotations are provided in a standard format with start time, end time, and frequency range for each bird vocalization.
 
-## Setting up the Conda Environment
+## Models
+
+### Bird Song Detector
+
+The Bird Song Detector is based on YOLOv8 and is trained to identify temporal windows containing bird vocalizations. The model can detect bird songs even from species not encountered during training.
+
+### BirdNET Classifier
+
+BirdNET is a deep learning model specifically designed for bird species classification. We fine-tuned BirdNET V2.4 to improve its performance on the audio data from Doñana National Park. The model processes audio segments identified by the Bird Song Detector to classify bird species.
+
+## Usage
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Required Python packages (listed in `environment.yml`)
+
+### Setting up the Conda Environment
 
 If you want to reproduce this project, you can start by setting up the Conda environment. Follow these steps:
 
@@ -49,6 +92,10 @@ If you want to reproduce this project, you can start by setting up the Conda env
     ```
 
 You are now ready to work with the project using the provided environment.
+
+## Results
+
+The proposed pipeline significantly improves bird species identification by increasing True Positives and reducing False Negatives.
 
 ## Research
 
