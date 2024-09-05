@@ -1,4 +1,4 @@
-# BIRDeep Neural Networks
+# BIRDeep Bird Song Detector by Neural Networks
 
 BIRDeep Audio Classifier repository, part of the BIRDeep project, aimed at classifying bird songs in audio recordings.
 
