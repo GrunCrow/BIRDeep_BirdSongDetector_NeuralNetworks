@@ -124,15 +124,17 @@ The main hypothesis of the research is that the development of a Deep Learning m
 Data was collected using automatic audio recording devices (AudioMoths) in three different habitats in Doñana National Park. Approximately 500 minutes of audio data were recorded. There are 9 recorders in 3 different habitats, which are constantly running, recording 1 minute and leaving 9 minutes between recordings. That is, 1 minute is recorded for every 10 minutes. The recordings were made prioritising those times when the birds are most active in order to try to have as many audio recordings of songs as possible, specifically a few hours before dawn until midday.
 
 The name of the places correspond to the following recorders (included as metadata in CSVs of the dataset) and coordinates:
-- Monteblanco
-- Ojillo
-- Sabinar
-- Caño Martinazo
-- Cancela Millán
-- Pajarera
-- Torre Palacio
-- Pozo Santa Olalla
-- Juncabalejo
+| Number | Habitat    | Place Name        | Recorder | Lat        | Lon          | Installation Date |
+|--------|------------|-------------------|----------|------------|--------------|-------------------|
+| Site 1 | low shrubland | Monteblanco       | AM1      | 37.074     | -6.624       | 03/02/2023        |
+| Site 2 | high shrubland | Sabinar           | AM2      | 37.1869444 | -6.720555556 | 03/02/2023        |
+| Site 3 | high shrubland | Ojillo            | AM3      | 37.2008333 | -6.613888889 | 03/02/2023        |
+| Site 4 | low shrubland | Pozo Sta Olalla   | AM4      | 37.2202778 | -6.729444444 | 03/02/2023        |
+| Site 5 | ecotone    | Torre Palacio     | AM8      | 37.1052778 | -6.5875      | 03/02/2023        |
+| Site 6 | ecotone    | Pajarera          | AM10     | 37.1055556 | -6.586944444 | 03/02/2023        |
+| Site 7 | ecotone    | Caño Martinazo    | AM11     | 37.2086111 | -6.512222222 | 03/02/2023        |
+| Site 8 | marshland  | Cancela Millán    | AM15     | 37.0563889 | -6.6025      | 03/02/2023        |
+| Site 9 | marshland  | Juncabalejo       | AM16     | 36.9361111 | -6.378333333 | 03/02/2023        |
 
 **Data Analysis Procedure**
 
