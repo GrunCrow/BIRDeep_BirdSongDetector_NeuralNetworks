@@ -1,8 +1,10 @@
-# BIRDeep Neural Networks
+# BIRDeep Bird Song Detector by Neural Networks
 
-BIRDeep Audio Classifier repository, part of the BIRDeep project, aimed at classifying bird songs in audio recordings.
+BIRDeep Bird Song Detector repository, part of the BIRDeep project, aimed at detecting bird songs in audio recordings.
 
 This repository contains the codes, data, and projects associated with the research paper "Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning." This project focuses on leveraging deep learning techniques to improve bird species identification from audio recordings collected in Doñana National Park.
+
+The dataset used in this research is available at a [Hugging Face Repository](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations).
 
 ## Table of Contents
 
@@ -44,6 +46,8 @@ The audio recordings were collected using AudioMoth devices in Doñana National 
 ### Annotations
 
 Expert annotators labeled 461 minutes of audio data, identifying bird vocalizations and other relevant sounds. Annotations are provided in a standard format with start time, end time, and frequency range for each bird vocalization.
+
+If more information about the Data is needed, please, refer to the [Data repository](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations).
 
 ## Models
 
@@ -91,8 +95,6 @@ If you want to reproduce this project, you can start by setting up the Conda env
     conda activate BIRDeep
     ```
 
-You are now ready to work with the project using the provided environment.
-
 ## Results
 
 The proposed pipeline significantly improves bird species identification by increasing True Positives and reducing False Negatives.
@@ -101,177 +103,178 @@ The proposed pipeline significantly improves bird species identification by incr
 
 ### Abstract
 
-Passive acoustic monitoring through the use of devices such as automatic audio recorders has emerged as a fundamental tool in the conservation and management of natural ecosystems. However, this practice presents a significant challenge given it generates a large volume of data that does not have human supervision. In order to obtain valid information for ecoacoustics studies, the main bottleneck now is to manage large datasets of acoustic recordings for identifying species of interest.  Automated species detection methods using deep learning techniques are paramount for this. It is presented a multi-stage process for automatic analysis of bird recordings from Doñana National Park (SW Spain) obtained through AudioMoths thanks to the BIRDeep project. Although existing Deep Learning models such as BirdNET have shown success in bird identification in other study systems, they did not present satisfactory results for the most abundant species of Doñana, likely due to inadequate training on Doñana’s specific data and its bias on focal sounds, rather than entire soundscapes. Consequently, we annotated about 500 minutes of audio data at three different habitats  and trained our own model.  By using the Mel spectrogram as a graphical representation of bird audio data, we show how this technique can be leveraged to apply image processing methods and computer vision in the analysis of acoustic data analysis. For this, it is critical the availability of labeled, high-quality datasets. In conclusion, our advances show that general-purpose tools may not always be the best solution in deep learning and ecoacoustics, emphasizing the importance of adapting these tools to the specific problem being addressed. By fine- tuning deep learning models and techniques to the unique characteristics of ecoacoustic data from a specific context, researchers can improve the accuracy and efficiency of biodiversity monitoring efforts.
+Passive Acoustic Monitoring (PAM) that uses devices like automatic audio recorders has become a fundamental tool in conserving and managing natural ecosystems. However, this practice generates a large volume of unsupervised audio data, and extracting valid information for environmental monitoring is a significant challenge. It is then critically necessary to use methods that leverage Deep Learning techniques for automating species detection. BirdNET is a model trained for bird identification that has succeeded in many study systems, especially in North America and central-Northern Europe, but it results inadequate for other regions or local studies due to insufficient training and its bias on focal sounds rather than entire soundscapes. Another added problem for bird species detection is that many audios recorded in PAM programs are empty of sounds of species of interest or these sounds overlap. To overcome these problems, we present here a multi-stage process for automatically identifying bird vocalizations applied to a local study site with concerning conservation threats for bird populations, Doñana National Park (SW Spain). Our working pipeline included first the development of a YOLOv8-based Bird Song Detector, and second, the fine-tuning of BirdNET for species classification at the local scale. We annotated 461 minutes of audio data from three main habitats across nine different locations within Doñana, resulting in 3749 annotations representing 38 different classes. Mel spectrograms were employed as graphical representations of bird audio data, facilitating the application of image processing methods. Several detectors were trained in different experiments, which included data augmentation and hyperparameter exploration to improve the model’s robustness. The model giving the best results included the creation of synthetic background audios with data augmentation and the use of an environmental sound library (ESC-50 dataset). This proposed pipeline using the Bird Song Detector as a first step for detecting segments with bird vocalizations and applying later a fine-tuning of BirdNET for the local bird species of Doñana significantly improved BirdNET detections; True Positives were increased by 281.97%, and False Negatives were reduced by 62.03%. Our approach demostrated then to be effective for bird species identification at a particular local study. These findings underscore the importance of adapting general-purpose tools to address specific challenges in biodiversity monitoring, as is the case of Doñana. Automatically detecting bird species serves for tracking the health status of this threatened ecosystem, given the sensitivity of birds to environmental changes, and helps in the design of conservation measures for reducing biodiversity loss.
 
 ### Introduction
 
-**¿Cuál es el objetivo principal de tu investigación?**
+**Main Objetive**
 
-El objetivo principal de la investigación es desarrollar un pipeline que optimice la detección y clasificación de especies de aves en grabaciones de audio utilizando técnicas de Deep Learning. Este pipeline permitirá automatizar la anotación de estas grabaciones, facilitando la realización de estudios ecológicos relevantes.
+The main objective of the research was to develop a pipeline that optimized the detection and classification of bird species in audio recordings using Deep Learning techniques. This pipeline allows the annotation of these recordings to be automated, facilitating the performance of relevant ecological studies.
 
-**¿Qué antecedentes relevantes debes incluir para situar el contexto de tu estudio?**
+**Context Background**
 
-Los antecedentes relevantes incluyen el uso de técnicas de monitoreo acústico pasivo para la conservación y gestión de ecosistemas naturales. Además, se han utilizado modelos de Deep Learning como BirdNET para la identificación de aves, aunque estos modelos no han presentado resultados satisfactorios para el contexto ecológico específico de Doñana, como las especies más abundantes o el paisaje sonoro.
+Relevant background information includes the use of passive acoustic monitoring techniques for the conservation and management of natural ecosystems. In addition, Deep Learning models such as BirdNET have been used for bird identification, although these models have not presented satisfactory results for the specific ecological context of Doñana, such as the most abundant species or the soundscape.
 
-**¿Qué hipótesis o preguntas de investigación estás abordando?**
+**Research Question**
 
-La hipótesis principal de la investigación es que el desarrollo de un modelo de Deep Learning específicamente entrenado con datos de Doñana mejorará significativamente la detección y clasificación de especies de aves en comparación con los modelos generales existentes. Se realizarán técnicas de Transfer Learning sobre modelos ya existentes para la clasificación de especies de aves en grabaciones de audio, intentando minimizar los tiempos de análisis, mejorar el rendimiento actual y adaptarlo a las características específicas del caso de estudio de Doñana.
+The main hypothesis of the research is that the development of a Deep Learning model specifically trained with data from Doñana will significantly improve the detection and classification of bird species compared to existing general models. Transfer Learning techniques will be applied to existing models for the classification of bird species in audio recordings, trying to minimize analysis times, improve current performance and adapt it to the specific characteristics of the Doñana case study.
 
 ### Material and Methods
 
-**¿Qué métodos utilizaste para recolectar datos (p.ej., equipos, ubicaciones, tiempos)?**
+**Methods to Data Collection**
 
-Los datos se recogieron utilizando dispositivos de grabación automática de audio (AudioMoths) en tres hábitats diferentes del Parque Nacional de Doñana. Se anotaron aproximadamente 500 minutos de datos de audio. Hay 9 grabadoras en 3 hábitats diferentes, que están funcionando constantemente grabando 1 minuto y dejando 9 minutos entre grabación y grabación. Es decir, de cada 10 minutos se graba 1 minuto. Las anotaciones se han realizado priorizando aquellos tiempos en los que las aves tienen mayor actividad para intentar disponer de tantos audios con cantos como sea posible, específicamente unas horas antes del amanecer hasta mediodía.
+Data was collected using automatic audio recording devices (AudioMoths) in three different habitats in Doñana National Park. Approximately 500 minutes of audio data were recorded. There are 9 recorders in 3 different habitats, which are constantly running, recording 1 minute and leaving 9 minutes between recordings. That is, 1 minute is recorded for every 10 minutes. The recordings were made prioritising those times when the birds are most active in order to try to have as many audio recordings of songs as possible, specifically a few hours before dawn until midday.
 
-**¿Qué procedimientos seguiste para analizar los datos?**
+The name of the places correspond to the following recorders (included as metadata in CSVs of the dataset) and coordinates:
+| Number | Habitat    | Place Name        | Recorder | Lat        | Lon          | Installation Date |
+|--------|------------|-------------------|----------|------------|--------------|-------------------|
+| Site 1 | low shrubland | Monteblanco       | AM1      | 37.074     | -6.624       | 03/02/2023        |
+| Site 2 | high shrubland | Sabinar           | AM2      | 37.1869444 | -6.720555556 | 03/02/2023        |
+| Site 3 | high shrubland | Ojillo            | AM3      | 37.2008333 | -6.613888889 | 03/02/2023        |
+| Site 4 | low shrubland | Pozo Sta Olalla   | AM4      | 37.2202778 | -6.729444444 | 03/02/2023        |
+| Site 5 | ecotone    | Torre Palacio     | AM8      | 37.1052778 | -6.5875      | 03/02/2023        |
+| Site 6 | ecotone    | Pajarera          | AM10     | 37.1055556 | -6.586944444 | 03/02/2023        |
+| Site 7 | ecotone    | Caño Martinazo    | AM11     | 37.2086111 | -6.512222222 | 03/02/2023        |
+| Site 8 | marshland  | Cancela Millán    | AM15     | 37.0563889 | -6.6025      | 03/02/2023        |
+| Site 9 | marshland  | Juncabalejo       | AM16     | 36.9361111 | -6.378333333 | 03/02/2023        |
 
-Los datos de audio se transformaron en espectrogramas de Mel, que luego se utilizaron para entrenar un modelo de Deep Learning. Primero se desarrolló un detector para encontrar ventanas temporales en las que se detecta el canto de un ave. Luego se entrenó BirdNET para crear un clasificador adaptado al contexto ecológico de Doñana. El objetivo final es crear un pipeline en el que el detector obtenga las ventanas temporales en las que hay un canto de ave y BirdNET, con fine-tuning, realice la clasificación de las especies presentes.
+**Data Analysis Procedure**
 
-**¿Hay algún aspecto específico de la teoría que respalde tu metodología?**
+The audio data was transformed into Mel spectrograms, which were then used to train a Deep Learning model. First, a detector was developed to find time windows in which a bird song is detected. Then, BirdNET was trained to create a classifier adapted to the ecological context of Doñana. The final objective is to use a pipeline in which the detector obtains the time windows in which there is a bird song and BirdNET, with fine-tuning, performs the classification of the species present.
 
-La teoría que respalda esta metodología es que los modelos de Deep Learning pueden aprender a identificar y clasificar especies de aves a partir de espectrogramas de Mel, que son representaciones gráficas de los datos de audio. Así como un modelo general puede conseguir buenos resultados cuando se realiza Transfer Learning para adaptarlo a un problema específico.
+**Theory**
 
-Según el paper original de BirdNET: "In summary, BirdNET achieved a mean average precision of 0.791 for single-species recordings, a F0.5 score of 0.414 for annotated soundscapes, and an average correlation of 0.251 with hotspot observation across 121 species and 4 years of audio data." Es decir sobre audios que pertenecen al dominio sobre el que pertenece BirdNET, en un contexto real en el que los audios contienen paisaje sonoro, es decir, soundscapes, el rendimiento no es el mejor. Por otro lado "The most common sources of false-positive detections were other vocalizing animals (e.g., insects, anurans, mam mals), geophysical noise (e.g., wind, rain, thunder), human vocal and non-vocal sounds (e.g., whistling, footsteps, speech), anthropogenic sounds typically encountered in urban areas (e.g., cars, airplanes, si rens), and electronic recorder noise. The Google AudioSet is one of the largest collections of human-labeled sounds that span a wide range of classes that are organized in an ontology (Gemmeke et al., 2017). We used 16 classes from the AudioSet". BirdNET puede producir muchos falsos positivos, crear un paso previo de detector de cantos de aves puede reducir el número de falsos positivos. Siguiendo una idea de DeepFaune, en la que se establece para cámaras de fototrampeo un primer paso basado en Megadetector para eliminar las imágenes vacías de las que contienen animales y así poder aplicar posteriormente un clasificador solo sobre aquellas muestras que son True Positive, reduciendo el número de False Positives en el clasificador.
+The theory behind this methodology is that Deep Learning models can learn to identify and classify bird species from Mel spectrograms, which are graphical representations of audio data. Just as a general model can achieve good results when Transfer Learning is performed to adapt it to a specific problem.
+
+According to the original BirdNET paper: "In summary, BirdNET achieved a mean average precision of 0.791 for single-species recordings, a F0.5 score of 0.414 for annotated soundscapes, and an average correlation of 0.251 with hotspot observation across 121 species and 4 years of audio data." That is, on audios that belong to the domain to which BirdNET belongs, in a real context in which the audios contain soundscapes, that is, soundscapes, the performance is not the best. On the other hand "The most common sources of false-positive detections were other vocalizing animals (e.g., insects, anurans, mam mals), geophysical noise (e.g., wind, rain, thunder), human vocal and non-vocal sounds (e.g., whistling, footsteps, speech), anthropogenic sounds typically encountered in urban areas (e.g., cars, airplanes, si rens), and electronic recorder noise. The Google AudioSet is one of the largest collections of human-labeled sounds that span a wide range of classes that are organized in an ontology (Gemmeke et al., 2017). BirdNET can produce many false positives, creating a bird song detector step beforehand can reduce the number of false positives. Following an idea from DeepFaune, in which a first step based on Megadetector is established for photo-trapping cameras to eliminate empty images from those containing animals and thus be able to subsequently apply a classifier only on those samples that are True Positive, reducing the number of False Positives in the classifier.
 
 ### Theory/Calculation
 
-**¿Qué teoría subyace en tu enfoque metodológico?**
-La metodología se basa en la premisa de que los modelos de Deep Learning, entrenados con espectrogramas de Mel, pueden identificar y clasificar eficazmente especies de aves en grabaciones de audios. El Transfer Learning permite adaptar un modelo general a un conjunto de datos específico, mejorando su rendimiento en el nuevo contexto.
+**Methodological approach**
+The methodology is based on the premise that Deep Learning models, trained with Mel spectrograms, can effectively identify and classify bird species in audio recordings. Transfer Learning allows a general model to be adapted to a specific dataset, improving its performance in the new context.
 
-**¿Cómo se desarrollan los cálculos prácticos a partir de la teoría?**
-Los cálculos prácticos implican convertir datos de audio en espectrogramas de Mel, entrenar un detector preliminar de cantos de aves, y ajustar BirdNET para la clasificación de especies. Se evalúan las métricas de rendimiento del modelo en relación con conjuntos de datos anotados para medir la mejora.
+**Calculation from theory**
+Practical computations involve converting audio data into Mel spectrograms, training a preliminary bird song detector, and fine-tuning BirdNET for species classification. Model performance metrics are evaluated against annotated datasets to measure improvement.
 
-**¿Hay alguna fórmula o modelo matemático específico que estés utilizando?**
-El modelo matemático central implica Redes Neuronales Convolucionales (CNN) para procesar imágenes, en este caso, representaciones gráficas de grabaciones de audios a través de espectrogramas de Mel. Para el detector se usa la arquitectura YOLOv8. Para el clasificador se utiliza BirdNET, utilizando técnicas de Transfer Learning para ajustar BirdNET a datos ecológicos específicos.
+**Equations and Mathematical Models used**
+The core mathematical model involves Convolutional Neural Networks (CNN) to process images, in this case, graphical representations of audio recordings through Mel spectrograms. For the detector, the YOLOv8 architecture is used. For the classifier, BirdNET is used, using Transfer Learning techniques to fine-tune BirdNET to specific ecological data.
 
 ### Results
 
-**¿Cuáles son los resultados más significativos de tu estudio?**
+The most significant results are that it seems that there was not enough data available to generate a robust detection model. Future work is needed to improve the detector, since after carrying out various experiments, achieving improvements has been difficult. The greatest improvement achieved has been by moving from temporal and frequency detections to only temporal detections, including the entire frequency spectrum for training and waiting for the entire frequency spectrum for detections.
 
-Los resultados más significativos son que parece ser que no se disponían de suficientes datos como para generar un modelo de detección robusto. Es necesario desarrollar un trabajo futuro para mejorar el detector, ya que después de realizar diversos experimentos, conseguir mejoras ha sido complicado. La mayor mejora conseguida ha sido al pasar de detecciones temporales y frecuenciales a solo temporales, incluyendo todo el espectro de frecuencia para el entrenamiento y esperando todo el espectro de frecuencias para las detecciones.
+In addition to finding difficulties with empty instances, i.e. True Negatives and False Positives, Data Augmentation techniques have been included to reduce this. First, background audios were edited for training, modifying intensity and adding noise. This improved, but not significantly. Later, audios from the ESC-50 library were included, which contains focal sounds, eliminating the sounds of birds such as crows and chickens. After applying the training, first results were obtained in which the network did not learn and ended up classifying all instances as empty due to the disproportion of ESC-50 audios compared to the dataset of interest. The number of ESC-50 audios was reduced to find a balance and thus the results were improved, although not very significantly.
 
-Además de encontrar dificultades con las instancias vacías, es decir, True Negatives y False Positives, se han incluido técnicas de Data Augmentation para reducir esto. Primero se editaron audios de background para entrenamiento, modificando intensidad y añadiendo ruido. Se mejoró, pero no de manera muy significativa. Posteriormente se incluyeron audios de la librería ESC-50 que contiene sonidos focales, eliminando los sonidos de aves como cuervos y gallinas. Tras aplicar el entrenamiento, primero se obtuvieron resultados en los que la red no aprendía y terminaba clasificando como vacías todas las instancias debido a la desproporción de audios de ESC-50 respecto al dataset de interés. Se redujo el número de audios de ESC-50 para encontrar un balance y así se consiguió mejorar los resultados, aunque tampoco de manera muy significativa.
+The best detector model achieves a mAP50 of 0.29756 in the train, in validation it was around X.XX (to be completed) and in test it was similar to the validation.
 
-El mejor modelo de detector consigue en el train un mAP50 de 0.29756, en validación era en torno a X.XX (por completar) y en test similar a la validación.
+To measure the performance of BirdNET, specific functions were created to measure the metrics of the classifications made on the test, allowing the conf_score and the IoU to be adjusted.
 
-Para medir el rendimiento de BirdNET se crearon funciones específicas para medir las métricas de las clasificaciones realizadas sobre test, permitiendo ajustar el conf_score y el IoU.
+Detector (train mAP50: 0.29756, validación: X.XX, test: similar to validation):
 
-**¿Puedes proporcionar datos cuantitativos específicos (p.ej., gráficos, tablas)?**
+#### BirdNET without fine-tuning (Doñana specie list):
 
-Sí, a continuación se presentan los resultados cuantitativos obtenidos con diferentes configuraciones del modelo:
-
-Detector (train mAP50: 0.29756, validación: X.XX, test: similar a validación):
-
-BirdNET sin preentrenar (lista de especies de Doñana):
-
-Métricas del Detector:
+Detector:
 Accuracy: 0.1194
 Precision: 1.0
 Recall: 0.0781
 F1-Score: 0.1449
-Métricas del Detector + Clasificador:
+
+Detector + Classifier:
 Accuracy: 0.0677
 Precision: 1.0
 Recall: 0.0213
 F1-Score: 0.0418
-Otras:
+
+Others:
 False Positives: 0
 
-BirdNET con lista de especies de las ground truth:
+#### BirdNET con lista de especies de las ground truth:
 
-Métricas del Detector:
+Detector:
 Accuracy: 0.1450
 Precision: 0.9796
 Recall: 0.1071
 F1-Score: 0.1932
-Métricas del Detector + Clasificador:
+
+Detector + Classifier:
 Accuracy: 0.0886
 Precision: 0.95
 Recall: 0.0453
 F1-Score: 0.0866
-Otras:
+
+Others:
 False Positives: 1
 
-BirdNET tras fine-tuning (sin detector):
+#### BirdNET tras fine-tuning (sin detector):
 
-Métricas del Detector:
+Detector:
 Accuracy: 0.0682
 Precision: 1.0
 Recall: 0.0246
 F1-Score: 0.0479
-Métricas del Detector + Clasificador:
+
+Detector + Classifier:
 Accuracy: 0.0562
 Precision: 1.0
 Recall: 0.0113
 F1-Score: 0.0224
-Otras:
+
+Others:
 False Positives: 0
 
-BirdNET tras fine-tuning (conf_score threshold 0.1):
+#### BirdNET tras fine-tuning (conf_score threshold 0.1):
 
-Métricas del Detector:
+Detector:
 Accuracy: 0.4571
 Precision: 0.8465
 Recall: 0.4799
 F1-Score: 0.6125
-Métricas del Detector + Clasificador:
+
+Detector + Classifier:
 Accuracy: 0.2668
 Precision: 0.6855
 Recall: 0.2673
 F1-Score: 0.3846
-Otras:
+
+Others:
 False Positives: 39
 
-BirdNET con detector (conf_score threshold 0.2):
+#### BirdNET with detector (conf_score threshold 0.2):
 
-Métricas del Detector:
+Detector:
 Accuracy: 0.0768
 Precision: 1.0
 Recall: 0.0335
 F1-Score: 0.0648
-Métricas del Detector + Clasificador:
+
+Detector + Classifier:
 Accuracy: 0.0607
 Precision: 1.0
 Recall: 0.0159
 F1-Score: 0.0313
-Otras:
+
+Others:
 False Positives: 0
 
-**¿Hay resultados que hayan sido inesperados o particularmente interesantes?**
-
-Sí, uno de los resultados inesperados fue la dificultad significativa para mejorar el rendimiento del detector incluso después de varios experimentos y ajustes, especialmente en la reducción de instancias vacías. La implementación de técnicas de Data Augmentation y la inclusión de audios de la librería ESC-50 no mejoraron los resultados de manera significativa. Otro resultado interesante fue la necesidad de ajustar el conf_score threshold a valores más bajos (como 0.1) para obtener predicciones útiles con BirdNET tras el fine-tuning, lo cual subraya la sensibilidad del modelo a los umbrales de confianza.
+One of the unexpected results was the significant difficulty in improving the detector performance even after several experiments and fine-tuning, especially in reducing empty instances. Implementing Data Augmentation techniques and including audios from the ESC-50 library did not significantly improve the results. Another interesting result was the need to adjust the conf_score threshold to lower values ​​(such as 0.1) to obtain useful predictions with BirdNET after fine-tuning, which underlines the sensitivity of the model to confidence thresholds.
 
 ### Discussion
 
-**¿Qué significan tus resultados en el contexto de la investigación existente?**
+The results underscore the importance of tailoring deep learning models to specific ecological contexts for accurate species identification. This study demonstrates that general models such as BirdNET can be significantly improved by specific tuning with contextual data.
 
-Los resultados subrayan la importancia de adaptar los modelos de Deep Learning a contextos ecológicos específicos para una identificación precisa de especies. Este estudio demuestra que los modelos generales como BirdNET pueden mejorarse significativamente mediante ajustes específicos con datos contextuales.
+Compared to previous studies using BirdNET, this research shows an improvement in species detection and classification in a specific ecological context by incorporating a preliminary detector and fine-tuning the model.
 
-**¿Cómo se comparan tus hallazgos con estudios previos?**
+Limitations include the relatively small size of the dataset and potential performance improvement with larger and more diverse data. The ability of the model to generalize to other ecological contexts also requires further investigation.
 
-Comparado con estudios previos que usan BirdNET, esta investigación muestra una mejora en la detección y clasificación de especies en un contexto ecológico específico mediante la incorporación de un detector preliminar y el ajuste del modelo.
-
-**¿Qué limitaciones identificas en tu estudio?**
-
-Las limitaciones incluyen el tamaño relativamente pequeño del conjunto de datos y la potencial mejora del rendimiento con datos más extensos y diversos. La capacidad del modelo para generalizar a otros contextos ecológicos también requiere mayor investigación.
-
-**¿Qué sugerencias tienes para investigaciones futuras?**
-
-La investigación futura debe centrarse en expandir el conjunto de datos, probar el pipeline en diferentes contextos ecológicos y explorar técnicas adicionales de ajuste para mejorar aún más el rendimiento del modelo.
+Future research should focus on expanding the dataset, testing the pipeline in different ecological contexts, and exploring additional tuning techniques to further improve model performance.
 
 ### Conclusions
 
-**¿Cuáles son las principales conclusiones que se derivan de tu estudio?**
+The main conclusion is that fine-tuning deep learning models with context-specific data significantly improves accuracy and efficiency in bird species detection and classification. This study highlights the need for tailored approaches in echoacoustic monitoring.
 
-La conclusión principal es que ajustar los modelos de Deep Learning con datos específicos del contexto mejora significativamente la precisión y eficiencia en la detección y clasificación de especies de aves. Este estudio destaca la necesidad de enfoques personalizados en el monitoreo ecoacústico.
+The findings have important implications for biodiversity monitoring, suggesting that tailored deep learning models can provide more accurate and efficient tools for ecological studies.
 
-**¿Qué implicaciones tienen tus hallazgos para la práctica o la teoría?**
-
-Los hallazgos tienen importantes implicaciones para el monitoreo de la biodiversidad, sugiriendo que los modelos de Deep Learning personalizados pueden proporcionar herramientas más precisas y eficientes para estudios ecológicos.
-
-**¿Hay recomendaciones específicas que se deriven de tu investigación?**
-
-Las recomendaciones incluyen desarrollar conjuntos de datos más grandes y diversos para el entrenamiento, aplicar el pipeline en varios contextos ecológicos y explorar técnicas avanzadas de ajuste para mejorar aún más el rendimiento.
+Recommendations include developing larger and more diverse datasets for training, applying the pipeline in various ecological contexts, and exploring advanced fine-tuning techniques to further improve performance.
 
 <!--## Getting Started
 
