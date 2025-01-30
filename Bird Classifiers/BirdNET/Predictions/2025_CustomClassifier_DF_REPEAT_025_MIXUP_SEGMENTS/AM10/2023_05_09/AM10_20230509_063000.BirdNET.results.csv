@@ -1,0 +1,29 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Passer,Passer,0.1007,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+3.0,6.0,Passer,Passer,0.1922,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+3.0,6.0,Sturnus,Sturnus,0.1470,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+6.0,9.0,Sturnus,Sturnus,0.1439,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+6.0,9.0,Passer,Passer,0.1110,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+9.0,12.0,Sturnus,Sturnus,0.3799,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+9.0,12.0,Passer,Passer,0.1820,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+15.0,18.0,Sturnus,Sturnus,0.1992,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+15.0,18.0,Passer,Passer,0.1140,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+18.0,21.0,Sturnus,Sturnus,0.3668,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+21.0,24.0,Sturnus,Sturnus,0.3169,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+21.0,24.0,Passer,Passer,0.1033,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+24.0,27.0,Sturnus,Sturnus,0.2257,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+24.0,27.0,Passer,Passer,0.1730,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+27.0,30.0,Sturnus,Sturnus,0.1603,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+30.0,33.0,Sturnus,Sturnus,0.1615,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+33.0,36.0,Saxicola rubicola,European Stonechat,0.6507,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+33.0,36.0,Sturnus,Sturnus,0.2760,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+36.0,39.0,Sturnus,Sturnus,0.3002,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+42.0,45.0,Sturnus,Sturnus,0.1531,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+42.0,45.0,Passer,Passer,0.1151,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+45.0,48.0,Sturnus,Sturnus,0.2777,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+45.0,48.0,Passer,Passer,0.1297,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+48.0,51.0,Passer,Passer,0.5148,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+48.0,51.0,Sturnus,Sturnus,0.2740,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+51.0,54.0,Sturnus,Sturnus,0.4752,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+54.0,57.0,Sturnus,Sturnus,0.3629,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV
+57.0,60.0,Sturnus,Sturnus,0.1822,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_05_09\AM10_20230509_063000.WAV

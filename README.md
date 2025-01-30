@@ -14,27 +14,25 @@ The dataset used in this research is available at a [Hugging Face Repository](ht
 - [Models](#models)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
 
 Passive acoustic monitoring (PAM) is an essential tool for biodiversity conservation, but it generates vast amounts of audio data that are challenging to analyze. This project aims to automate bird species detection using a multi-stage deep learning approach. We combined a YOLOv8-based Bird Song Detector with a fine-tuned BirdNET model to improve species classification accuracy.
 
-
 ## Repository Structure
 
 The repository is organized as follows:
-- `BIRDeep/`: Contains the trainings and pre-trained and fine-tuned models data of the Bird Song Detector.
-- `BirdNET/`: Contains the segments and structure needed to classify audios by BirdNET, BirdNET pre-trained and fine-tuned models and metadata and BirdNET predictions.
-- `Data/`: Contains the audio data and annotations used for training and evaluation, you can check the [BIRDeep_AudioAnnotations Dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations).
-- `Detector`: This directory contains the core structure and files for the Bird Song Detector.
-- `ESC-50`: ESC-50 complete and original dataset as cloned from the repository.
-- `Extras`: Tasks related to the dataset as plots that are not directly related to the Deep Learning models development.
-- `Research/`: Information collected during literature review.
+
+- `Bird Classifiers/`: Contains the codes and outputs of the bird classifiers used in the project. It includes BirdNET classifier, embeddings for machine learning based classifiers and other deep learning architectures.
+    - `BirdNET/`: Contains BirdNET generated models, training plots and predictions by some of the different models tested.
+    - `models/`: Contains the final classifiers used in the project.
+    - `Scripts/`: Scripts used for data generation and training of the classifiers. Evaluation scripts are all together in general `Scripts/` folder.
+- `BIRDeep Song Detector/`: This directory contains the core structure and files for the Bird Song Detector. Contains the trainings and pre-trained and fine-tuned models data of the Bird Song Detector.
+    - `runs/detect/`: Output files, including model predictions and performance metricsfrom the Bird Song Detector.
+- `Data/`: Contains the audio data and annotations used for training and evaluation, you can check the [BIRDeep_AudioAnnotations Dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations). Also generated images for Bird Song Detector and Deep Learning Classifiers.
+- `Research/`: Information collected during literature review, only a base research README missing a lot of information, for more, please, go to manuscripts.
 - `Scripts/`: Jupyter notebooks for data preprocessing and exploratory data analysis.
-- `Web/`: Friendly web-app to use the model.
-- `runs/detect/`: Output files, including model predictions and performance metricsfrom the Bird Song Detector.
 - `README.md`: This file.
 
 ## Data
@@ -97,7 +95,7 @@ If you want to reproduce this project, you can start by setting up the Conda env
 
 ## Results
 
-The proposed pipeline significantly improves bird species identification by increasing True Positives and reducing False Negatives.
+The proposed pipeline significantly improves bird species identification by mainly reducing False Negatives.
 
 ## Research
 
