@@ -1,0 +1,7 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Luscinia megarhynchos,Common Nightingale,0.2952,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV
+0,3.0,Sturnus,Sturnus,0.2836,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1314,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV
+0,3.0,Milvus migrans,Black Kite,0.0318,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV
+0,3.0,Ciconia ciconia,White Stork,0.0285,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV
+0,3.0,Passer,Passer,0.0146,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_064000_36.34_37.92_0.18.WAV

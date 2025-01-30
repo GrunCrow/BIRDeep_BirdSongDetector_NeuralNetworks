@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sturnus,Sturnus,0.7016,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+0,3.0,Melanocorypha calandra,Calandra Lark,0.0469,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+0,3.0,Carduelis carduelis,European Goldfinch,0.0112,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Sturnus,Sturnus,0.3476,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Emberiza calandra,Corn Bunting,0.1401,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Sylvia,Sylvia,0.1263,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Cyanopica cooki,Iberian Magpie,0.0810,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Milvus migrans,Black Kite,0.0205,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Luscinia megarhynchos,Common Nightingale,0.0112,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV
+3.0,6.0,Cettia cetti,Cetti's Warbler,0.0102,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM11_20230530_065000_16.24_20.75_0.19.WAV

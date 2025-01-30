@@ -1,0 +1,34 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sturnus,Sturnus,0.1747,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+3.0,6.0,Luscinia megarhynchos,Common Nightingale,0.1795,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+6.0,9.0,Sturnus,Sturnus,0.5543,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3371,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+9.0,12.0,Sturnus,Sturnus,0.5219,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+12.0,15.0,Sturnus,Sturnus,0.9124,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+15.0,18.0,Sturnus,Sturnus,0.3431,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+15.0,18.0,Emberiza calandra,Corn Bunting,0.1459,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+18.0,21.0,Ciconia ciconia,White Stork,0.6620,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+18.0,21.0,Sturnus,Sturnus,0.5735,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+18.0,21.0,Streptopelia decaocto,Eurasian Collared-Dove,0.4374,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+21.0,24.0,Sturnus,Sturnus,0.2563,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+24.0,27.0,Sturnus,Sturnus,0.5115,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+27.0,30.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3972,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+27.0,30.0,Sturnus,Sturnus,0.3739,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+30.0,33.0,Sturnus,Sturnus,0.5508,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+30.0,33.0,Streptopelia decaocto,Eurasian Collared-Dove,0.4280,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+33.0,36.0,Sturnus,Sturnus,0.3573,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+36.0,39.0,Sturnus,Sturnus,0.3499,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+36.0,39.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3293,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+39.0,42.0,Sturnus,Sturnus,0.3601,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+39.0,42.0,Ciconia ciconia,White Stork,0.1113,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+42.0,45.0,Sturnus,Sturnus,0.3540,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+42.0,45.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1109,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+45.0,48.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3383,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+48.0,51.0,Sturnus,Sturnus,0.3853,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+48.0,51.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2762,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+51.0,54.0,Sturnus,Sturnus,0.4332,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+51.0,54.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1736,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+54.0,57.0,Sturnus,Sturnus,0.1925,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+54.0,57.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1156,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+57.0,60.0,Ciconia ciconia,White Stork,0.4847,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV
+57.0,60.0,Sturnus,Sturnus,0.2728,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM8\2023_03_04\AM8_20230304_100000.WAV

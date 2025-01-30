@@ -1,0 +1,8 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sylvia,Sylvia,0.0380,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Cisticola juncidis,Zitting Cisticola,0.0280,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Carduelis carduelis,European Goldfinch,0.0221,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Emberiza calandra,Corn Bunting,0.0208,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Luscinia megarhynchos,Common Nightingale,0.0167,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Saxicola rubicola,European Stonechat,0.0157,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV
+0,3.0,Passer,Passer,0.0111,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_39.50_41.28_0.47.WAV

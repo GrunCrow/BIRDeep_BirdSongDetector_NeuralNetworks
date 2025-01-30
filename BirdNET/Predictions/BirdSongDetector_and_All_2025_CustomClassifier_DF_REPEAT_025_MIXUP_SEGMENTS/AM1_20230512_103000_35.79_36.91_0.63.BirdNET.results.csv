@@ -1,0 +1,6 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Galerida theklae,Thekla's Lark,0.1135,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_35.79_36.91_0.63.WAV
+0,3.0,Sylvia,Sylvia,0.0588,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_35.79_36.91_0.63.WAV
+0,3.0,Emberiza calandra,Corn Bunting,0.0258,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_35.79_36.91_0.63.WAV
+0,3.0,Carduelis carduelis,European Goldfinch,0.0200,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_35.79_36.91_0.63.WAV
+0,3.0,Milvus migrans,Black Kite,0.0115,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_35.79_36.91_0.63.WAV

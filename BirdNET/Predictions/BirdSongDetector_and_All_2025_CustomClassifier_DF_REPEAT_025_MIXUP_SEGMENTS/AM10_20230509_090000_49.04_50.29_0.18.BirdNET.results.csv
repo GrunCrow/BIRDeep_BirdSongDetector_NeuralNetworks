@@ -1,0 +1,6 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sturnus,Sturnus,0.0789,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230509_090000_49.04_50.29_0.18.WAV
+0,3.0,Luscinia megarhynchos,Common Nightingale,0.0714,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230509_090000_49.04_50.29_0.18.WAV
+0,3.0,Carduelis carduelis,European Goldfinch,0.0686,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230509_090000_49.04_50.29_0.18.WAV
+0,3.0,Chloris chloris,European Greenfinch,0.0163,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230509_090000_49.04_50.29_0.18.WAV
+0,3.0,Melanocorypha calandra,Calandra Lark,0.0133,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230509_090000_49.04_50.29_0.18.WAV
