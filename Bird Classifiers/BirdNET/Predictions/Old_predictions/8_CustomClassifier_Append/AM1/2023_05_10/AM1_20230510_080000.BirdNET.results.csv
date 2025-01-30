@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Human non-vocal,Human non-vocal,0.4165
+3.0,6.0,Engine,Engine,0.2128
+3.0,6.0,Siren,Siren,0.1885
+6.0,9.0,Engine,Engine,0.1686
+9.0,12.0,Engine,Engine,0.3002
+12.0,15.0,Human non-vocal,Human non-vocal,0.6072
+27.0,30.0,Nucifraga caryocatactes,Eurasian Nutcracker,0.1795
+42.0,45.0,Poecile gambeli,Mountain Chickadee,0.4160
+42.0,45.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1723
+42.0,45.0,Salpinctes obsoletus,Rock Wren,0.1232
+45.0,48.0,Salpinctes obsoletus,Rock Wren,0.2136

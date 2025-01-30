@@ -1,0 +1,20 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.6830
+0,3.0,Ciconia ciconia,White Stork,0.2072
+0,3.0,Pachyramphus aglaiae,Rose-throated Becard,0.2012
+0,3.0,Sturnus vulgaris,European Starling,0.1199
+0,3.0,Sturnus unicolor,Spotless Starling,0.1139
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.9751
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.2325
+3.0,6.0,Sturnus,Sturnus,0.2101
+3.0,6.0,Ciconia ciconia,White Stork,0.1397
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.6969
+6.0,9.0,Sturnus vulgaris,European Starling,0.5770
+6.0,9.0,Ciconia ciconia,White Stork,0.5109
+6.0,9.0,Sturnus,Sturnus,0.1446
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.1021
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1008
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.9046
+9.0,12.0,Sturnus vulgaris,European Starling,0.3340
+9.0,12.0,Ploceus cucullatus,Village Weaver,0.2125
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.1185

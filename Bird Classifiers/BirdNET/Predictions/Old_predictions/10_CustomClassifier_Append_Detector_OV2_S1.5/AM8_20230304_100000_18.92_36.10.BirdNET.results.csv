@@ -1,0 +1,32 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Ciconia ciconia,White Stork,0.8517
+0,3.0,Ciconia ciconia,White Stork,0.3189
+1.0,4.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2176
+5.0,8.0,Quiscalus quiscula,Common Grackle,0.1238
+6.0,9.0,Quiscalus quiscula,Common Grackle,0.8068
+6.0,9.0,Sturnus,Sturnus,0.1006
+7.0,10.0,Sturnus vulgaris,European Starling,0.5417
+7.0,10.0,Sturnus,Sturnus,0.3779
+7.0,10.0,Quiscalus quiscula,Common Grackle,0.1123
+8.0,11.0,Sturnus vulgaris,European Starling,0.7579
+8.0,11.0,Sturnus unicolor,Spotless Starling,0.5584
+8.0,11.0,Quiscalus quiscula,Common Grackle,0.3764
+8.0,11.0,Sturnus,Sturnus,0.1477
+9.0,12.0,Sturnus unicolor,Spotless Starling,0.9395
+9.0,12.0,Sturnus,Sturnus,0.3106
+9.0,12.0,Sturnus vulgaris,European Starling,0.2875
+10.0,13.0,Sturnus unicolor,Spotless Starling,0.1356
+10.0,13.0,Sturnus,Sturnus,0.1173
+11.0,14.0,Sturnus unicolor,Spotless Starling,0.5027
+11.0,14.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1006
+12.0,15.0,Sturnus unicolor,Spotless Starling,0.5290
+13.0,16.0,Sturnus unicolor,Spotless Starling,0.2308
+13.0,16.0,Sturnus unicolor,Spotless Starling,0.1707
+13.0,16.0,Pipilo erythrophthalmus,Eastern Towhee,0.1059
+14.0,17.0,Sturnus unicolor,Spotless Starling,0.9887
+15.0,18.0,Sturnus unicolor,Spotless Starling,0.9905
+15.0,18.0,Pterorhinus sannio,White-browed Laughingthrush,0.1665
+15.0,18.0,Cettia cetti,Cetti's Warbler,0.1613
+15.0,18.0,Dives dives,Melodious Blackbird,0.1360
+16.0,19.0,Sturnus unicolor,Spotless Starling,0.2404
+16.0,19.0,Sturnus,Sturnus,0.1236

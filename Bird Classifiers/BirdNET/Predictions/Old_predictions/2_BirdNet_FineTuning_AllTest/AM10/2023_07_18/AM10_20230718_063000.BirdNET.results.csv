@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Cisticola juncidis,Zitting Cisticola,0.1023
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.1174
+12.0,15.0,Sturnus,Sturnus,0.1037
+18.0,21.0,Cisticola juncidis,Zitting Cisticola,0.1164
+24.0,27.0,Sturnus,Sturnus,0.1325
+27.0,30.0,Cisticola juncidis,Zitting Cisticola,0.2110
+30.0,33.0,Cisticola juncidis,Zitting Cisticola,0.1339
+33.0,36.0,Sturnus,Sturnus,0.3054
+57.0,60.0,Passer,Passer,0.2859
+57.0,60.0,Sturnus,Sturnus,0.1063
+57.0,60.0,Cisticola juncidis,Zitting Cisticola,0.1056

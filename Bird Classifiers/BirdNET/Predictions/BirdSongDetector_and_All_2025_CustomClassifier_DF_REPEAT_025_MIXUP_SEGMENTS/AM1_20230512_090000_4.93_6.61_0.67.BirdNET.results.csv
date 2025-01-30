@@ -1,0 +1,8 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sylvia,Sylvia,0.9665,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Galerida theklae,Thekla's Lark,0.0626,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Emberiza calandra,Corn Bunting,0.0263,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Chloris chloris,European Greenfinch,0.0133,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Carduelis carduelis,European Goldfinch,0.0129,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Melanocorypha calandra,Calandra Lark,0.0121,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV
+0,3.0,Cyanopica cooki,Iberian Magpie,0.0114,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_090000_4.93_6.61_0.67.WAV

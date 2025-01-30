@@ -1,0 +1,16 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Lithobates catesbeianus,American Bullfrog,0.1326
+9.0,12.0,Nucifraga columbiana,Clark's Nutcracker,0.1421
+12.0,15.0,Galerida theklae,Thekla's Lark,0.3435
+12.0,15.0,Haemorhous mexicanus,House Finch,0.1321
+21.0,24.0,Human non-vocal,Human non-vocal,0.1219
+24.0,27.0,Power tools,Power tools,0.1282
+24.0,27.0,Human non-vocal,Human non-vocal,0.1082
+27.0,30.0,Human non-vocal,Human non-vocal,0.1944
+30.0,33.0,Human non-vocal,Human non-vocal,0.1394
+36.0,39.0,Tetrao urogallus,Western Capercaillie,0.1170
+42.0,45.0,Human vocal,Human vocal,0.1058
+45.0,48.0,Human non-vocal,Human non-vocal,0.3216
+51.0,54.0,Curruca,Curruca,0.1058
+54.0,57.0,Human non-vocal,Human non-vocal,0.1817
+57.0,60.0,Tetrao urogallus,Western Capercaillie,0.1141

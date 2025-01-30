@@ -1,0 +1,47 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus,Sturnus,0.1614
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1119
+3.0,6.0,Sturnus,Sturnus,0.4303
+6.0,9.0,Ciconia ciconia,White Stork,0.4308
+6.0,9.0,Passer,Passer,0.1036
+9.0,12.0,Sturnus,Sturnus,0.3257
+9.0,12.0,Ciconia ciconia,White Stork,0.1984
+12.0,15.0,Sturnus,Sturnus,0.2974
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2339
+15.0,18.0,Sturnus,Sturnus,0.3151
+15.0,18.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1171
+18.0,21.0,Sturnus,Sturnus,0.5280
+18.0,21.0,Ciconia ciconia,White Stork,0.1809
+18.0,21.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1217
+21.0,24.0,Sturnus,Sturnus,0.4950
+21.0,24.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2610
+24.0,27.0,Sturnus,Sturnus,0.2414
+24.0,27.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2257
+27.0,30.0,Sturnus,Sturnus,0.4602
+27.0,30.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1637
+30.0,33.0,Sturnus unicolor,Spotless Starling,0.1545
+30.0,33.0,Sturnus,Sturnus,0.1070
+33.0,36.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1142
+36.0,39.0,Sturnus,Sturnus,0.4343
+36.0,39.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2566
+36.0,39.0,Passer,Passer,0.2128
+39.0,42.0,Sturnus,Sturnus,0.2789
+39.0,42.0,Passer,Passer,0.2014
+39.0,42.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1125
+42.0,45.0,Passer,Passer,0.1608
+42.0,45.0,Sturnus,Sturnus,0.1504
+45.0,48.0,Sturnus,Sturnus,0.4679
+48.0,51.0,Sturnus,Sturnus,0.1912
+48.0,51.0,Cettia cetti,Cetti's Warbler,0.1168
+48.0,51.0,Sturnus unicolor,Spotless Starling,0.1148
+48.0,51.0,Ciconia ciconia,White Stork,0.1093
+51.0,54.0,Ciconia ciconia,White Stork,0.4006
+51.0,54.0,Cettia cetti,Cetti's Warbler,0.2314
+51.0,54.0,Sturnus,Sturnus,0.1090
+51.0,54.0,Milvus migrans,Black Kite,0.1009
+54.0,57.0,Sturnus,Sturnus,0.2723
+54.0,57.0,Cettia cetti,Cetti's Warbler,0.1174
+54.0,57.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1024
+57.0,60.0,Passer,Passer,0.2534
+57.0,60.0,Sturnus,Sturnus,0.1139
+57.0,60.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1098

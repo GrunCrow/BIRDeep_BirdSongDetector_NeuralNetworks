@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+9.0,12.0,Passer,Passer,0.1479
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.1261
+24.0,27.0,Sturnus,Sturnus,0.1341
+27.0,30.0,Cisticola juncidis,Zitting Cisticola,0.1867
+27.0,30.0,Saxicola rubicola,European Stonechat,0.1046
+33.0,36.0,Sturnus,Sturnus,0.1469
+33.0,36.0,Passer,Passer,0.1102
+48.0,51.0,Sturnus,Sturnus,0.1389
+57.0,60.0,Passer,Passer,0.1912
+57.0,60.0,Sturnus,Sturnus,0.1194

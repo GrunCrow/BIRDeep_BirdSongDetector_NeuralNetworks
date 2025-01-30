@@ -1,0 +1,20 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus,Sturnus,0.1119
+3.0,6.0,Sturnus,Sturnus,0.3479
+3.0,6.0,Curruca melanocephala,Sardinian Warbler,0.2396
+6.0,9.0,Sturnus,Sturnus,0.2295
+9.0,12.0,Sturnus,Sturnus,0.2868
+12.0,15.0,Emberiza calandra,Corn Bunting,0.1661
+15.0,18.0,Emberiza calandra,Corn Bunting,0.1200
+15.0,18.0,Sturnus,Sturnus,0.1006
+18.0,21.0,Sturnus,Sturnus,0.1963
+21.0,24.0,Sturnus,Sturnus,0.1464
+24.0,27.0,Sturnus,Sturnus,0.1221
+27.0,30.0,Emberiza calandra,Corn Bunting,0.2295
+27.0,30.0,Sturnus,Sturnus,0.1286
+36.0,39.0,Sturnus,Sturnus,0.2222
+36.0,39.0,Curruca melanocephala,Sardinian Warbler,0.1043
+42.0,45.0,Curruca melanocephala,Sardinian Warbler,0.1597
+45.0,48.0,Sturnus,Sturnus,0.1322
+51.0,54.0,Emberiza calandra,Corn Bunting,0.1281
+57.0,60.0,Sturnus,Sturnus,0.1217

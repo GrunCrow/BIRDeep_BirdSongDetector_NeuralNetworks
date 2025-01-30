@@ -1,0 +1,18 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Alaudidae,Alaudidae,0.1260
+3.0,6.0,Human non-vocal,Human non-vocal,0.3829
+6.0,9.0,Engine,Engine,0.1966
+6.0,9.0,Siren,Siren,0.1467
+9.0,12.0,Engine,Engine,0.2713
+12.0,15.0,Engine,Engine,0.1742
+15.0,18.0,Human non-vocal,Human non-vocal,0.4685
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1216
+18.0,21.0,Curruca,Curruca,0.1173
+24.0,27.0,Salpinctes obsoletus,Rock Wren,0.1053
+30.0,33.0,Alaudidae,Alaudidae,0.1180
+33.0,36.0,Galerida theklae,Thekla's Lark,0.1005
+39.0,42.0,Galerida theklae,Thekla's Lark,0.1771
+39.0,42.0,Haemorhous mexicanus,House Finch,0.1238
+42.0,45.0,Turdus merula,Eurasian Blackbird,0.2518
+45.0,48.0,Curruca undata,Dartford Warbler,0.1385
+45.0,48.0,Megaceryle alcyon,Belted Kingfisher,0.1379

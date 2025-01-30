@@ -1,0 +1,18 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus,Sturnus,0.1988
+3.0,6.0,Sturnus,Sturnus,0.1585
+6.0,9.0,Luscinia megarhynchos,Common Nightingale,0.1977
+18.0,21.0,Sturnus,Sturnus,0.1545
+18.0,21.0,Luscinia megarhynchos,Common Nightingale,0.1237
+21.0,24.0,Sturnus,Sturnus,0.2009
+24.0,27.0,Sturnus,Sturnus,0.3224
+27.0,30.0,Sturnus,Sturnus,0.2482
+30.0,33.0,Sturnus,Sturnus,0.2747
+33.0,36.0,Sturnus,Sturnus,0.2794
+36.0,39.0,Sturnus,Sturnus,0.2160
+39.0,42.0,Sturnus,Sturnus,0.2815
+45.0,48.0,Sturnus,Sturnus,0.2033
+48.0,51.0,Sturnus,Sturnus,0.1659
+51.0,54.0,Sturnus,Sturnus,0.2404
+54.0,57.0,Sturnus,Sturnus,0.2139
+57.0,60.0,Sturnus,Sturnus,0.1275

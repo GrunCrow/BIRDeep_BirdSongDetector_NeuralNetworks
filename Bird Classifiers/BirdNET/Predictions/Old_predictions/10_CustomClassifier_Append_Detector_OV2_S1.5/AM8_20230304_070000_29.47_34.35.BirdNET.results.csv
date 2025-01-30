@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus unicolor,Spotless Starling,0.8903
+1.0,4.0,Sturnus unicolor,Spotless Starling,0.9961
+1.0,4.0,Sturnus,Sturnus,0.1899
+1.0,4.0,Sturnus vulgaris,European Starling,0.1310
+1.0,4.0,Sturnus unicolor,Spotless Starling,0.1112
+2.0,5.0,Sturnus unicolor,Spotless Starling,0.9990
+2.0,5.0,Sturnus vulgaris,European Starling,0.5602
+2.0,5.0,Sturnus unicolor,Spotless Starling,0.1078
+3.0,6.0,Sturnus unicolor,Spotless Starling,0.9976
+3.0,6.0,Dives dives,Melodious Blackbird,0.5412
+3.0,6.0,Sturnus vulgaris,European Starling,0.4969
+3.0,6.0,Sturnus,Sturnus,0.2223
+3.0,6.0,Ciconia ciconia,White Stork,0.1479

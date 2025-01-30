@@ -1,0 +1,22 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Linaria cannabina,Eurasian Linnet,0.6459
+0,3.0,Archilochus colubris,Ruby-throated Hummingbird,0.1298
+3.0,6.0,Hemitriccus margaritaceiventer,Pearly-vented Tody-Tyrant,0.3481
+6.0,9.0,Curruca melanocephala,Sardinian Warbler,0.1357
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.1194
+6.0,9.0,Milvus migrans,Black Kite,0.1122
+12.0,15.0,Milvus migrans,Black Kite,0.1084
+15.0,18.0,Curruca melanocephala,Sardinian Warbler,0.1447
+15.0,18.0,Sturnus,Sturnus,0.1246
+15.0,18.0,Milvus migrans,Black Kite,0.1193
+24.0,27.0,Milvus migrans,Black Kite,0.2628
+24.0,27.0,Emberiza calandra,Corn Bunting,0.1711
+27.0,30.0,Milvus migrans,Black Kite,0.2971
+27.0,30.0,Emberiza calandra,Corn Bunting,0.1019
+36.0,39.0,Mareca strepera,Gadwall,0.5015
+42.0,45.0,Milvus migrans,Black Kite,0.1170
+48.0,51.0,Passerina ciris,Painted Bunting,0.1682
+48.0,51.0,Passerina versicolor,Varied Bunting,0.1312
+51.0,54.0,Milvus migrans,Black Kite,0.2958
+54.0,57.0,Emberiza calandra,Corn Bunting,0.1087
+57.0,60.0,Milvus migrans,Black Kite,0.2064

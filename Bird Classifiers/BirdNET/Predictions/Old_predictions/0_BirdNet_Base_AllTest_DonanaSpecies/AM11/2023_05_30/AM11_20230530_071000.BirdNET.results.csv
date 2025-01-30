@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Curruca undata,Dartford Warbler,0.2417
+3.0,6.0,Curruca melanocephala,Sardinian Warbler,0.2116
+3.0,6.0,Curruca iberiae,Western Subalpine Warbler,0.1126
+12.0,15.0,Curruca undata,Dartford Warbler,0.1678
+12.0,15.0,Curruca melanocephala,Sardinian Warbler,0.1449
+24.0,27.0,Chlidonias hybrida,Whiskered Tern,0.6106
+27.0,30.0,Chlidonias hybrida,Whiskered Tern,0.6087
+30.0,33.0,Chlidonias hybrida,Whiskered Tern,0.5877
+30.0,33.0,Sturnus unicolor,Spotless Starling,0.1190
+33.0,36.0,Chlidonias hybrida,Whiskered Tern,0.3032
+36.0,39.0,Chlidonias hybrida,Whiskered Tern,0.1766
+45.0,48.0,Acrocephalus arundinaceus,Great Reed Warbler,0.1211
+48.0,51.0,Melanocorypha calandra,Calandra Lark,0.1069
