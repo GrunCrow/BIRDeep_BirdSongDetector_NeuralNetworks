@@ -1,8 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Galerida theklae,Thekla's Lark,0.4115,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-3.0,6.0,Galerida theklae,Thekla's Lark,0.5516,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-9.0,12.0,Galerida theklae,Thekla's Lark,0.3796,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-9.0,12.0,Ciconia ciconia,White Stork,0.1003,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-18.0,21.0,Sylvia,Sylvia,0.1313,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-21.0,24.0,Galerida theklae,Thekla's Lark,0.1144,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV
-27.0,30.0,Galerida theklae,Thekla's Lark,0.1985,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_30\AM1_20230530_061000.WAV

@@ -1,4 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-36.0,39.0,Melanocorypha calandra,Calandra Lark,0.1019,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
-51.0,54.0,Galerida theklae,Thekla's Lark,0.1722,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
-54.0,57.0,Galerida theklae,Thekla's Lark,0.1239,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV

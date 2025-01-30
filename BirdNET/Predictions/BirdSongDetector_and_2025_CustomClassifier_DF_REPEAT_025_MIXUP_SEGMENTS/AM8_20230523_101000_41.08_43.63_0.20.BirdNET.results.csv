@@ -1,3 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Sturnus,Sturnus,0.2241,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_101000_41.08_43.63_0.20.WAV
-0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1828,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_101000_41.08_43.63_0.20.WAV

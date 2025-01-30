@@ -1,3 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Galerida theklae,Thekla's Lark,0.9694,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230511_060000_44.77_47.09_0.52.WAV
-0,3.0,Saxicola rubicola,European Stonechat,0.2500,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230511_060000_44.77_47.09_0.52.WAV

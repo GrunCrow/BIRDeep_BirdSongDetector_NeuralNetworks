@@ -1,4 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Carduelis carduelis,European Goldfinch,0.1792,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_101000_0.03_1.64_0.37.WAV
-0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1783,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_101000_0.03_1.64_0.37.WAV
-0,3.0,Luscinia megarhynchos,Common Nightingale,0.1081,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230523_101000_0.03_1.64_0.37.WAV
