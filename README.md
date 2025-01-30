@@ -25,11 +25,11 @@ Passive acoustic monitoring (PAM) is an essential tool for biodiversity conserva
 The repository is organized as follows:
 
 - `Bird Classifiers/`: Contains the codes and outputs of the bird classifiers used in the project. It includes BirdNET classifier, embeddings for machine learning based classifiers and other deep learning architectures.
-    - `BirdNET/`: Contains BirdNET generated models, training plots and predictions by some of the different models tested.
-    - `models/`: Contains the final classifiers used in the project.
-    - `Scripts/`: Scripts used for data generation and training of the classifiers. Evaluation scripts are all together in general `Scripts/` folder.
+  - `BirdNET/`: Contains BirdNET generated models, training plots and predictions by some of the different models tested.
+  - `models/`: Contains the final classifiers used in the project.
+  - `Scripts/`: Scripts used for data generation and training of the classifiers. Evaluation scripts are all together in general `Scripts/` folder.
 - `BIRDeep Song Detector/`: This directory contains the core structure and files for the Bird Song Detector. Contains the trainings and pre-trained and fine-tuned models data of the Bird Song Detector.
-    - `runs/detect/`: Output files, including model predictions and performance metricsfrom the Bird Song Detector.
+  - `runs/detect/`: Output files, including model predictions and performance metricsfrom the Bird Song Detector.
 - `Data/`: Contains the audio data and annotations used for training and evaluation, you can check the [BIRDeep_AudioAnnotations Dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations). Also generated images for Bird Song Detector and Deep Learning Classifiers.
 - `Research/`: Information collected during literature review, only a base research README missing a lot of information, for more, please, go to manuscripts.
 - `Scripts/`: Jupyter notebooks for data preprocessing and exploratory data analysis.
@@ -93,10 +93,6 @@ If you want to reproduce this project, you can start by setting up the Conda env
     conda activate BIRDeep
     ```
 
-## Results
-
-The proposed pipeline significantly improves bird species identification by mainly reducing False Negatives.
-
 ## Research
 
 ### Abstract
@@ -105,25 +101,26 @@ Passive Acoustic Monitoring (PAM) that uses devices like automatic audio recorde
 
 ### Introduction
 
-**Main Objetive**
+#### Main Objetive
 
 The main objective of the research was to develop a pipeline that optimized the detection and classification of bird species in audio recordings using Deep Learning techniques. This pipeline allows the annotation of these recordings to be automated, facilitating the performance of relevant ecological studies.
 
-**Context Background**
+#### Context Background
 
 Relevant background information includes the use of passive acoustic monitoring techniques for the conservation and management of natural ecosystems. In addition, Deep Learning models such as BirdNET have been used for bird identification, although these models have not presented satisfactory results for the specific ecological context of Doñana, such as the most abundant species or the soundscape.
 
-**Research Question**
+#### Research Question
 
 The main hypothesis of the research is that the development of a Deep Learning model specifically trained with data from Doñana will significantly improve the detection and classification of bird species compared to existing general models. Transfer Learning techniques will be applied to existing models for the classification of bird species in audio recordings, trying to minimize analysis times, improve current performance and adapt it to the specific characteristics of the Doñana case study.
 
 ### Material and Methods
 
-**Methods to Data Collection**
+#### Methods to Data Collection
 
 Data was collected using automatic audio recording devices (AudioMoths) in three different habitats in Doñana National Park. Approximately 500 minutes of audio data were recorded. There are 9 recorders in 3 different habitats, which are constantly running, recording 1 minute and leaving 9 minutes between recordings. That is, 1 minute is recorded for every 10 minutes. The recordings were made prioritising those times when the birds are most active in order to try to have as many audio recordings of songs as possible, specifically a few hours before dawn until midday.
 
 The name of the places correspond to the following recorders (included as metadata in CSVs of the dataset) and coordinates:
+
 | Number | Habitat    | Place Name        | Recorder | Lat        | Lon          | Installation Date |
 |--------|------------|-------------------|----------|------------|--------------|-------------------|
 | Site 1 | low shrubland | Monteblanco       | AM1      | 37.074     | -6.624       | 03/02/2023        |
@@ -136,25 +133,28 @@ The name of the places correspond to the following recorders (included as metada
 | Site 8 | marshland  | Cancela Millán    | AM15     | 37.0563889 | -6.6025      | 03/02/2023        |
 | Site 9 | marshland  | Juncabalejo       | AM16     | 36.9361111 | -6.378333333 | 03/02/2023        |
 
-**Data Analysis Procedure**
+#### Data Analysis Procedure
 
 The audio data was transformed into Mel spectrograms, which were then used to train a Deep Learning model. First, a detector was developed to find time windows in which a bird song is detected. Then, BirdNET was trained to create a classifier adapted to the ecological context of Doñana. The final objective is to use a pipeline in which the detector obtains the time windows in which there is a bird song and BirdNET, with fine-tuning, performs the classification of the species present.
 
-**Theory**
+#### Theory
 
 The theory behind this methodology is that Deep Learning models can learn to identify and classify bird species from Mel spectrograms, which are graphical representations of audio data. Just as a general model can achieve good results when Transfer Learning is performed to adapt it to a specific problem.
 
-According to the original BirdNET paper: "In summary, BirdNET achieved a mean average precision of 0.791 for single-species recordings, a F0.5 score of 0.414 for annotated soundscapes, and an average correlation of 0.251 with hotspot observation across 121 species and 4 years of audio data." That is, on audios that belong to the domain to which BirdNET belongs, in a real context in which the audios contain soundscapes, that is, soundscapes, the performance is not the best. On the other hand "The most common sources of false-positive detections were other vocalizing animals (e.g., insects, anurans, mam mals), geophysical noise (e.g., wind, rain, thunder), human vocal and non-vocal sounds (e.g., whistling, footsteps, speech), anthropogenic sounds typically encountered in urban areas (e.g., cars, airplanes, si rens), and electronic recorder noise. The Google AudioSet is one of the largest collections of human-labeled sounds that span a wide range of classes that are organized in an ontology (Gemmeke et al., 2017). BirdNET can produce many false positives, creating a bird song detector step beforehand can reduce the number of false positives. Following an idea from DeepFaune, in which a first step based on Megadetector is established for photo-trapping cameras to eliminate empty images from those containing animals and thus be able to subsequently apply a classifier only on those samples that are True Positive, reducing the number of False Positives in the classifier.
+According to the original BirdNET paper: "In summary, BirdNET achieved a mean average precision of 0.791 for single-species recordings, a F0.5 score of 0.414 for annotated soundscapes, and an average correlation of 0.251 with hotspot observation across 121 species and 4 years of audio data." That is, on audios that belong to the domain to which BirdNET belongs, in a real context in which the audios contain soundscapes, that is, soundscapes, the performance is not the best. On the other hand "The most common sources of false-positive detections were other vocalizing animals (e.g., insects, anurans, mammals), geophysical noise (e.g., wind, rain, thunder), human vocal and non-vocal sounds (e.g., whistling, footsteps, speech), anthropogenic sounds typically encountered in urban areas (e.g., cars, airplanes, si rens), and electronic recorder noise. The Google AudioSet is one of the largest collections of human-labeled sounds that span a wide range of classes that are organized in an ontology (Gemmeke et al., 2017). BirdNET can produce many false positives, creating a bird song detector step beforehand can reduce the number of false positives. Following an idea from DeepFaune, in which a first step based on Megadetector is established for photo-trapping cameras to eliminate empty images from those containing animals and thus be able to subsequently apply a classifier only on those samples that are True Positive, reducing the number of False Positives in the classifier.
 
 ### Theory/Calculation
 
-**Methodological approach**
+#### Methodological approach
+
 The methodology is based on the premise that Deep Learning models, trained with Mel spectrograms, can effectively identify and classify bird species in audio recordings. Transfer Learning allows a general model to be adapted to a specific dataset, improving its performance in the new context.
 
-**Calculation from theory**
+#### Calculation from theory
+
 Practical computations involve converting audio data into Mel spectrograms, training a preliminary bird song detector, and fine-tuning BirdNET for species classification. Model performance metrics are evaluated against annotated datasets to measure improvement.
 
-**Equations and Mathematical Models used**
+#### Equations and Mathematical Models used
+
 The core mathematical model involves Convolutional Neural Networks (CNN) to process images, in this case, graphical representations of audio recordings through Mel spectrograms. For the detector, the YOLOv8 architecture is used. For the classifier, BirdNET is used, using Transfer Learning techniques to fine-tune BirdNET to specific ecological data.
 
 ### Results
@@ -166,95 +166,6 @@ In addition to finding difficulties with empty instances, i.e. True Negatives an
 The best detector model achieves a mAP50 of 0.29756 in the train, in validation it was around X.XX (to be completed) and in test it was similar to the validation.
 
 To measure the performance of BirdNET, specific functions were created to measure the metrics of the classifications made on the test, allowing the conf_score and the IoU to be adjusted.
-
-Detector (train mAP50: 0.29756, validación: X.XX, test: similar to validation):
-
-#### BirdNET without fine-tuning (Doñana specie list):
-
-Detector:
-Accuracy: 0.1194
-Precision: 1.0
-Recall: 0.0781
-F1-Score: 0.1449
-
-Detector + Classifier:
-Accuracy: 0.0677
-Precision: 1.0
-Recall: 0.0213
-F1-Score: 0.0418
-
-Others:
-False Positives: 0
-
-#### BirdNET con lista de especies de las ground truth:
-
-Detector:
-Accuracy: 0.1450
-Precision: 0.9796
-Recall: 0.1071
-F1-Score: 0.1932
-
-Detector + Classifier:
-Accuracy: 0.0886
-Precision: 0.95
-Recall: 0.0453
-F1-Score: 0.0866
-
-Others:
-False Positives: 1
-
-#### BirdNET tras fine-tuning (sin detector):
-
-Detector:
-Accuracy: 0.0682
-Precision: 1.0
-Recall: 0.0246
-F1-Score: 0.0479
-
-Detector + Classifier:
-Accuracy: 0.0562
-Precision: 1.0
-Recall: 0.0113
-F1-Score: 0.0224
-
-Others:
-False Positives: 0
-
-#### BirdNET tras fine-tuning (conf_score threshold 0.1):
-
-Detector:
-Accuracy: 0.4571
-Precision: 0.8465
-Recall: 0.4799
-F1-Score: 0.6125
-
-Detector + Classifier:
-Accuracy: 0.2668
-Precision: 0.6855
-Recall: 0.2673
-F1-Score: 0.3846
-
-Others:
-False Positives: 39
-
-#### BirdNET with detector (conf_score threshold 0.2):
-
-Detector:
-Accuracy: 0.0768
-Precision: 1.0
-Recall: 0.0335
-F1-Score: 0.0648
-
-Detector + Classifier:
-Accuracy: 0.0607
-Precision: 1.0
-Recall: 0.0159
-F1-Score: 0.0313
-
-Others:
-False Positives: 0
-
-One of the unexpected results was the significant difficulty in improving the detector performance even after several experiments and fine-tuning, especially in reducing empty instances. Implementing Data Augmentation techniques and including audios from the ESC-50 library did not significantly improve the results. Another interesting result was the need to adjust the conf_score threshold to lower values ​​(such as 0.1) to obtain useful predictions with BirdNET after fine-tuning, which underlines the sensitivity of the model to confidence thresholds.
 
 ### Discussion
 
