@@ -1,0 +1,7 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Melanocorypha calandra,Calandra Lark,0.1153,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.1071,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.1707,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV
+24.0,27.0,Melanocorypha calandra,Calandra Lark,0.1197,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV
+30.0,33.0,Melanocorypha calandra,Calandra Lark,0.1776,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV
+33.0,36.0,Melanocorypha calandra,Calandra Lark,0.1277,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\Data Augmentation\AM11\2023_05_30\AM11_20230530_102000.WAV

@@ -1,0 +1,13 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sylvia,Sylvia,0.1396,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+3.0,6.0,Sylvia,Sylvia,0.4463,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+6.0,9.0,Galerida theklae,Thekla's Lark,0.2847,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+6.0,9.0,Sylvia,Sylvia,0.1259,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+15.0,18.0,Sylvia,Sylvia,0.6197,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+21.0,24.0,Sylvia,Sylvia,0.9733,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+27.0,30.0,Sylvia,Sylvia,0.1561,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+30.0,33.0,Sylvia,Sylvia,0.4649,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+36.0,39.0,Carduelis carduelis,European Goldfinch,0.5090,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+39.0,42.0,Sylvia,Sylvia,0.3296,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+48.0,51.0,Sylvia,Sylvia,0.6325,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV
+54.0,57.0,Sylvia,Sylvia,0.9624,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_12\AM1_20230512_090000.WAV

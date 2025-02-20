@@ -1,0 +1,18 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Curruca,Curruca,0.4170
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1645
+3.0,6.0,Curruca undata,Dartford Warbler,0.1318
+6.0,9.0,Curruca,Curruca,0.2068
+12.0,15.0,Curruca,Curruca,0.1510
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1039
+18.0,21.0,Galerida theklae,Thekla's Lark,0.3386
+18.0,21.0,Curruca,Curruca,0.1262
+24.0,27.0,Curruca,Curruca,0.1268
+30.0,33.0,Curruca,Curruca,0.1954
+45.0,48.0,Curruca,Curruca,0.1405
+48.0,51.0,Galerida theklae,Thekla's Lark,0.2071
+48.0,51.0,Curruca,Curruca,0.1769
+51.0,54.0,Alaudidae,Alaudidae,0.1677
+51.0,54.0,Galerida theklae,Thekla's Lark,0.1385
+54.0,57.0,Galerida theklae,Thekla's Lark,0.6054
+57.0,60.0,Galerida theklae,Thekla's Lark,0.6092

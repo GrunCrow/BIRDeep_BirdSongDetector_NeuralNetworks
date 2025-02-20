@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.1024,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+9.0,12.0,Melanocorypha calandra,Calandra Lark,0.1125,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+12.0,15.0,Saxicola rubicola,European Stonechat,0.1817,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+15.0,18.0,Saxicola rubicola,European Stonechat,0.4633,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+15.0,18.0,Sylvia,Sylvia,0.1174,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+18.0,21.0,Saxicola rubicola,European Stonechat,0.4543,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+21.0,24.0,Saxicola rubicola,European Stonechat,0.1046,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+24.0,27.0,Saxicola rubicola,European Stonechat,0.3694,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+36.0,39.0,Cisticola juncidis,Zitting Cisticola,0.2765,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV
+57.0,60.0,Passer,Passer,0.1623,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_101000.WAV

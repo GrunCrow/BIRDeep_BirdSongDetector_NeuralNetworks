@@ -1,0 +1,30 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Alaudidae,Alaudidae,0.1562
+0,3.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1177
+3.0,6.0,Alaudidae,Alaudidae,0.6008
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1665
+6.0,9.0,Tympanuchus cupido,Greater Prairie-Chicken,0.4856
+9.0,12.0,Amphispiza bilineata,Black-throated Sparrow,0.5781
+12.0,15.0,Galerida theklae,Thekla's Lark,0.2497
+12.0,15.0,Alaudidae,Alaudidae,0.1746
+15.0,18.0,Alaudidae,Alaudidae,0.4331
+15.0,18.0,Galerida theklae,Thekla's Lark,0.2013
+15.0,18.0,Passerina ciris,Painted Bunting,0.1821
+15.0,18.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1516
+18.0,21.0,Alaudidae,Alaudidae,0.1407
+18.0,21.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1133
+21.0,24.0,Alaudidae,Alaudidae,0.5007
+21.0,24.0,Tympanuchus cupido,Greater Prairie-Chicken,0.3062
+21.0,24.0,Melanocorypha calandra,Calandra Lark,0.1187
+24.0,27.0,Alaudidae,Alaudidae,0.6581
+24.0,27.0,Galerida theklae,Thekla's Lark,0.2844
+24.0,27.0,Curruca,Curruca,0.1211
+30.0,33.0,Alaudidae,Alaudidae,0.1676
+33.0,36.0,Curruca,Curruca,0.2160
+33.0,36.0,Alaudidae,Alaudidae,0.1217
+39.0,42.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1074
+42.0,45.0,Galerida theklae,Thekla's Lark,0.4197
+42.0,45.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1683
+42.0,45.0,Alaudidae,Alaudidae,0.1209
+48.0,51.0,Tympanuchus cupido,Greater Prairie-Chicken,0.1673
+51.0,54.0,Engine,Engine,0.1286

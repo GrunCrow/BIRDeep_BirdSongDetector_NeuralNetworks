@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Anthus pratensis,Meadow Pipit,0.1613,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+9.0,12.0,Saxicola rubicola,European Stonechat,0.1419,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+12.0,15.0,Saxicola rubicola,European Stonechat,0.5433,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+15.0,18.0,Saxicola rubicola,European Stonechat,0.9506,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+18.0,21.0,Saxicola rubicola,European Stonechat,0.9218,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+21.0,24.0,Saxicola rubicola,European Stonechat,0.4298,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+24.0,27.0,Saxicola rubicola,European Stonechat,0.2073,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+27.0,30.0,Saxicola rubicola,European Stonechat,0.6027,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+30.0,33.0,Galerida theklae,Thekla's Lark,0.3019,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+33.0,36.0,Saxicola rubicola,European Stonechat,0.1183,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+39.0,42.0,Cettia cetti,Cetti's Warbler,0.1157,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+48.0,51.0,Saxicola rubicola,European Stonechat,0.1299,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV
+51.0,54.0,Saxicola rubicola,European Stonechat,0.1996,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_063000.WAV

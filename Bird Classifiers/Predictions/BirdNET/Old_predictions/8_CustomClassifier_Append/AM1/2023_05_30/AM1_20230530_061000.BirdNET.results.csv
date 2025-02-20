@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1903
+3.0,6.0,Galerida cristata,Crested Lark,0.1294
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1286
+9.0,12.0,Galerida theklae,Thekla's Lark,0.1475
+9.0,12.0,Engine,Engine,0.1434
+9.0,12.0,Alauda arvensis,Eurasian Skylark,0.1192
+15.0,18.0,Engine,Engine,0.1311
+30.0,33.0,Corvus brachyrhynchos,American Crow,0.2805
+33.0,36.0,Dryobates minor,Lesser Spotted Woodpecker,0.1803
+39.0,42.0,Corvus brachyrhynchos,American Crow,0.2495
+57.0,60.0,Corvus brachyrhynchos,American Crow,0.1395

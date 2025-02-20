@@ -1,0 +1,10 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus,Sturnus,0.2052
+2.0,5.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1709
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2751
+4.0,7.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3881
+4.0,7.0,Sturnus,Sturnus,0.1194
+5.0,8.0,Sturnus,Sturnus,0.2024
+6.0,9.0,Sturnus,Sturnus,0.3592
+7.0,10.0,Sturnus,Sturnus,0.2930
+8.0,11.0,Sturnus,Sturnus,0.1370

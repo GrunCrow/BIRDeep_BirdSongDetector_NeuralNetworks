@@ -1,0 +1,25 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Carduelis carduelis,European Goldfinch,0.1587,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+0,3.0,Cisticola juncidis,Zitting Cisticola,0.1310,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+9.0,12.0,Saxicola rubicola,European Stonechat,0.2295,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+9.0,12.0,Passer,Passer,0.1117,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+9.0,12.0,Cisticola juncidis,Zitting Cisticola,0.1017,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+12.0,15.0,Cisticola juncidis,Zitting Cisticola,0.2059,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+15.0,18.0,Cisticola juncidis,Zitting Cisticola,0.3196,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+15.0,18.0,Carduelis carduelis,European Goldfinch,0.1854,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+18.0,21.0,Cisticola juncidis,Zitting Cisticola,0.5197,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+21.0,24.0,Cisticola juncidis,Zitting Cisticola,0.5027,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+21.0,24.0,Carduelis carduelis,European Goldfinch,0.1558,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+24.0,27.0,Cisticola juncidis,Zitting Cisticola,0.5514,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+24.0,27.0,Carduelis carduelis,European Goldfinch,0.1318,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+27.0,30.0,Carduelis carduelis,European Goldfinch,0.1283,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+30.0,33.0,Carduelis carduelis,European Goldfinch,0.2206,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+30.0,33.0,Cisticola juncidis,Zitting Cisticola,0.1790,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+33.0,36.0,Cisticola juncidis,Zitting Cisticola,0.2617,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+39.0,42.0,Cisticola juncidis,Zitting Cisticola,0.1360,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+42.0,45.0,Carduelis carduelis,European Goldfinch,0.3969,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+42.0,45.0,Cisticola juncidis,Zitting Cisticola,0.3358,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+45.0,48.0,Carduelis carduelis,European Goldfinch,0.1885,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+48.0,51.0,Cisticola juncidis,Zitting Cisticola,0.2571,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+48.0,51.0,Saxicola rubicola,European Stonechat,0.1063,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV
+54.0,57.0,Saxicola rubicola,European Stonechat,0.2192,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_071000.WAV

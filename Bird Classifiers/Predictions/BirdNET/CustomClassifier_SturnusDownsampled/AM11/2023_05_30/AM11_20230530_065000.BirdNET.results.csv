@@ -1,0 +1,26 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sturnus,Sturnus,0.1285,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+9.0,12.0,Sturnus,Sturnus,0.1218,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+12.0,15.0,Sylvia,Sylvia,0.2929,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+12.0,15.0,Sturnus,Sturnus,0.1129,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+18.0,21.0,Melanocorypha calandra,Calandra Lark,0.1719,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+18.0,21.0,Sylvia,Sylvia,0.1087,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+24.0,27.0,Melanocorypha calandra,Calandra Lark,0.2021,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+27.0,30.0,Sturnus,Sturnus,0.1719,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+30.0,33.0,Melanocorypha calandra,Calandra Lark,0.2784,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+33.0,36.0,Melanocorypha calandra,Calandra Lark,0.1935,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+33.0,36.0,Emberiza calandra,Corn Bunting,0.1276,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+36.0,39.0,Melanocorypha calandra,Calandra Lark,0.1788,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+39.0,42.0,Melanocorypha calandra,Calandra Lark,0.3950,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+42.0,45.0,Melanocorypha calandra,Calandra Lark,0.1845,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+42.0,45.0,Sylvia,Sylvia,0.1179,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+45.0,48.0,Sylvia,Sylvia,0.1988,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+45.0,48.0,Melanocorypha calandra,Calandra Lark,0.1118,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+48.0,51.0,Melanocorypha calandra,Calandra Lark,0.4908,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+48.0,51.0,Sylvia,Sylvia,0.1360,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+51.0,54.0,Melanocorypha calandra,Calandra Lark,0.4847,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+51.0,54.0,Sylvia,Sylvia,0.1414,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+54.0,57.0,Melanocorypha calandra,Calandra Lark,0.2863,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+57.0,60.0,Sylvia,Sylvia,0.3055,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+57.0,60.0,Melanocorypha calandra,Calandra Lark,0.2777,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV
+57.0,60.0,Galerida theklae,Thekla's Lark,0.1861,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_065000.WAV

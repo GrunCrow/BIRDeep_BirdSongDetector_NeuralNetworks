@@ -1,0 +1,9 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+18.0,21.0,Cisticola juncidis,Zitting Cisticola,0.1180,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+21.0,24.0,Melanocorypha calandra,Calandra Lark,0.1396,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+24.0,27.0,Melanocorypha calandra,Calandra Lark,0.1118,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+36.0,39.0,Melanocorypha calandra,Calandra Lark,0.1880,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+42.0,45.0,Melanocorypha calandra,Calandra Lark,0.1179,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+51.0,54.0,Galerida theklae,Thekla's Lark,0.3443,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+54.0,57.0,Galerida theklae,Thekla's Lark,0.1895,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV
+57.0,60.0,Saxicola rubicola,European Stonechat,0.1579,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_092000.WAV

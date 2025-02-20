@@ -1,0 +1,5 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+6.0,9.0,Cisticola juncidis,Zitting Cisticola,0.1819,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_095000.WAV
+15.0,18.0,Sylvia,Sylvia,0.1099,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_095000.WAV
+24.0,27.0,Sturnus,Sturnus,0.1360,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_095000.WAV
+27.0,30.0,Cisticola juncidis,Zitting Cisticola,0.1236,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_095000.WAV

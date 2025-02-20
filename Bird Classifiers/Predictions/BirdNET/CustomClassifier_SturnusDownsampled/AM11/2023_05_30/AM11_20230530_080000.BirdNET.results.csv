@@ -1,0 +1,16 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sylvia,Sylvia,0.1656,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+6.0,9.0,Sylvia,Sylvia,0.1357,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+9.0,12.0,Sylvia,Sylvia,0.1014,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+15.0,18.0,Emberiza calandra,Corn Bunting,0.1336,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+21.0,24.0,Sylvia,Sylvia,0.3359,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+24.0,27.0,Sylvia,Sylvia,0.1572,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+27.0,30.0,Sylvia,Sylvia,0.2517,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+30.0,33.0,Motacilla flava,Western Yellow Wagtail,0.2454,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+30.0,33.0,Sylvia,Sylvia,0.2021,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+33.0,36.0,Sylvia,Sylvia,0.1434,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+36.0,39.0,Sylvia,Sylvia,0.5225,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+42.0,45.0,Sylvia,Sylvia,0.1641,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+42.0,45.0,Melanocorypha calandra,Calandra Lark,0.1011,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+57.0,60.0,Motacilla flava,Western Yellow Wagtail,0.2639,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV
+57.0,60.0,Emberiza calandra,Corn Bunting,0.1902,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_05_30\AM11_20230530_080000.WAV

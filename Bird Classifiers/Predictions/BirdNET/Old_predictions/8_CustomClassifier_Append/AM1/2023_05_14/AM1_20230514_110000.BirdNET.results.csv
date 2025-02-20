@@ -1,0 +1,12 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+15.0,18.0,Canis latrans,Coyote,0.1768
+15.0,18.0,Engine,Engine,0.1439
+24.0,27.0,Engine,Engine,0.1016
+30.0,33.0,Curruca,Curruca,0.1261
+33.0,36.0,Curruca,Curruca,0.1458
+36.0,39.0,Alaudidae,Alaudidae,0.1152
+42.0,45.0,Alaudidae,Alaudidae,0.1002
+51.0,54.0,Curruca,Curruca,0.1074
+54.0,57.0,Alaudidae,Alaudidae,0.1789
+54.0,57.0,Curruca,Curruca,0.1179
+54.0,57.0,Galerida theklae,Thekla's Lark,0.1023

@@ -1,0 +1,8 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1108,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+3.0,6.0,Sturnus,Sturnus,0.4385,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+6.0,9.0,Sturnus,Sturnus,0.5102,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1138,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+9.0,12.0,Sturnus,Sturnus,0.6570,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2849,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV
+12.0,15.0,Sturnus,Sturnus,0.1155,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_2.67_16.50_0.42.WAV

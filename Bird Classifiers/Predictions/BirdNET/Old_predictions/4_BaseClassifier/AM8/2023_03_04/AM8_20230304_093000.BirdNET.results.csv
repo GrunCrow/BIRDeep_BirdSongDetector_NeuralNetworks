@@ -1,0 +1,45 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Sturnus,Sturnus,0.2520
+0,3.0,Ciconia ciconia,White Stork,0.2263
+3.0,6.0,Sturnus,Sturnus,0.6038
+6.0,9.0,Ciconia ciconia,White Stork,0.3687
+9.0,12.0,Sturnus,Sturnus,0.4292
+9.0,12.0,Ciconia ciconia,White Stork,0.1237
+12.0,15.0,Sturnus,Sturnus,0.3676
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1867
+12.0,15.0,Ciconia ciconia,White Stork,0.1680
+12.0,15.0,Passer,Passer,0.1107
+15.0,18.0,Sturnus,Sturnus,0.4018
+15.0,18.0,Ciconia ciconia,White Stork,0.1757
+18.0,21.0,Ciconia ciconia,White Stork,0.4313
+18.0,21.0,Sturnus,Sturnus,0.2638
+21.0,24.0,Sturnus,Sturnus,0.5040
+21.0,24.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1684
+24.0,27.0,Sturnus,Sturnus,0.4857
+24.0,27.0,Ciconia ciconia,White Stork,0.2060
+24.0,27.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1831
+27.0,30.0,Sturnus,Sturnus,0.3988
+27.0,30.0,Ciconia ciconia,White Stork,0.1129
+30.0,33.0,Sturnus,Sturnus,0.2318
+33.0,36.0,Sturnus,Sturnus,0.2357
+36.0,39.0,Sturnus,Sturnus,0.4596
+36.0,39.0,Passer,Passer,0.2301
+36.0,39.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1364
+39.0,42.0,Sturnus,Sturnus,0.2974
+39.0,42.0,Passer,Passer,0.1764
+39.0,42.0,Luscinia megarhynchos,Common Nightingale,0.1556
+42.0,45.0,Sturnus,Sturnus,0.2507
+42.0,45.0,Passer,Passer,0.2104
+45.0,48.0,Sturnus,Sturnus,0.4464
+45.0,48.0,Sturnus unicolor,Spotless Starling,0.1010
+48.0,51.0,Ciconia ciconia,White Stork,0.4432
+48.0,51.0,Sturnus,Sturnus,0.1438
+51.0,54.0,Ciconia ciconia,White Stork,0.7314
+51.0,54.0,Sturnus,Sturnus,0.1070
+54.0,57.0,Sturnus,Sturnus,0.3636
+54.0,57.0,Cettia cetti,Cetti's Warbler,0.3450
+54.0,57.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1464
+54.0,57.0,Ciconia ciconia,White Stork,0.1240
+57.0,60.0,Sturnus,Sturnus,0.2103
+57.0,60.0,Passer,Passer,0.1403
+57.0,60.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1259

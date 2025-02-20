@@ -1,0 +1,53 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Ciconia ciconia,White Stork,0.2043
+0,3.0,Sturnus,Sturnus,0.1692
+3.0,6.0,Sturnus,Sturnus,0.5425
+3.0,6.0,Passer,Passer,0.1002
+6.0,9.0,Ciconia ciconia,White Stork,0.5129
+9.0,12.0,Sturnus,Sturnus,0.5647
+9.0,12.0,Ciconia ciconia,White Stork,0.2337
+12.0,15.0,Sturnus,Sturnus,0.3529
+12.0,15.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2809
+12.0,15.0,Ciconia ciconia,White Stork,0.1040
+15.0,18.0,Sturnus,Sturnus,0.3929
+15.0,18.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1230
+15.0,18.0,Ciconia ciconia,White Stork,0.1203
+18.0,21.0,Sturnus,Sturnus,0.6245
+18.0,21.0,Ciconia ciconia,White Stork,0.2344
+18.0,21.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2102
+18.0,21.0,Passer,Passer,0.1035
+21.0,24.0,Sturnus,Sturnus,0.5299
+21.0,24.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2104
+24.0,27.0,Sturnus,Sturnus,0.5359
+24.0,27.0,Streptopelia decaocto,Eurasian Collared-Dove,0.4401
+24.0,27.0,Passer,Passer,0.1955
+27.0,30.0,Sturnus,Sturnus,0.6623
+27.0,30.0,Passer,Passer,0.1260
+27.0,30.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1039
+30.0,33.0,Sturnus,Sturnus,0.1381
+33.0,36.0,Sturnus,Sturnus,0.1993
+33.0,36.0,Ciconia ciconia,White Stork,0.1633
+36.0,39.0,Sturnus,Sturnus,0.6199
+36.0,39.0,Streptopelia decaocto,Eurasian Collared-Dove,0.3464
+36.0,39.0,Passer,Passer,0.3440
+39.0,42.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2081
+39.0,42.0,Passer,Passer,0.1955
+39.0,42.0,Sturnus,Sturnus,0.1857
+42.0,45.0,Sturnus,Sturnus,0.3538
+42.0,45.0,Passer,Passer,0.2753
+42.0,45.0,Streptopelia decaocto,Eurasian Collared-Dove,0.1427
+42.0,45.0,Cettia cetti,Cetti's Warbler,0.1074
+45.0,48.0,Sturnus,Sturnus,0.5699
+45.0,48.0,Sturnus unicolor,Spotless Starling,0.1916
+45.0,48.0,Passer,Passer,0.1297
+48.0,51.0,Ciconia ciconia,White Stork,0.4192
+48.0,51.0,Sturnus,Sturnus,0.1598
+51.0,54.0,Ciconia ciconia,White Stork,0.6015
+54.0,57.0,Sturnus,Sturnus,0.2764
+54.0,57.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2639
+54.0,57.0,Cettia cetti,Cetti's Warbler,0.1832
+54.0,57.0,Passer,Passer,0.1216
+54.0,57.0,Ciconia ciconia,White Stork,0.1173
+57.0,60.0,Sturnus,Sturnus,0.2141
+57.0,60.0,Passer,Passer,0.1312
+57.0,60.0,Cettia cetti,Cetti's Warbler,0.1065

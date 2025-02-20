@@ -1,0 +1,5 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1113,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_10\AM1_20230510_110000.WAV
+30.0,33.0,Galerida theklae,Thekla's Lark,0.1003,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_10\AM1_20230510_110000.WAV
+39.0,42.0,Galerida theklae,Thekla's Lark,0.2543,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_10\AM1_20230510_110000.WAV
+54.0,57.0,Galerida theklae,Thekla's Lark,0.1789,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM1\2023_05_10\AM1_20230510_110000.WAV

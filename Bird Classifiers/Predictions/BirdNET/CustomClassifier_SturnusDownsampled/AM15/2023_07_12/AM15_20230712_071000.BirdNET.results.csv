@@ -1,0 +1,3 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+3.0,6.0,Sylvia,Sylvia,0.2345,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV
+21.0,24.0,Sylvia,Sylvia,0.1384,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV

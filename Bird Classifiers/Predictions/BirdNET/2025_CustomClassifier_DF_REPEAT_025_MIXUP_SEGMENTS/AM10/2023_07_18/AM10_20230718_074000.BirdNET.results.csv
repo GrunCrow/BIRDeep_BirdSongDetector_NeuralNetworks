@@ -1,0 +1,11 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Carduelis carduelis,European Goldfinch,0.2929,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+0,3.0,Cisticola juncidis,Zitting Cisticola,0.2523,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+12.0,15.0,Carduelis carduelis,European Goldfinch,0.1502,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+15.0,18.0,Sturnus,Sturnus,0.1807,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+21.0,24.0,Sturnus,Sturnus,0.1239,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+21.0,24.0,Passer,Passer,0.1088,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+24.0,27.0,Sturnus,Sturnus,0.1896,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+24.0,27.0,Passer,Passer,0.1004,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+27.0,30.0,Passer,Passer,0.1453,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV
+30.0,33.0,Carduelis carduelis,European Goldfinch,0.1098,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM10\2023_07_18\AM10_20230718_074000.WAV

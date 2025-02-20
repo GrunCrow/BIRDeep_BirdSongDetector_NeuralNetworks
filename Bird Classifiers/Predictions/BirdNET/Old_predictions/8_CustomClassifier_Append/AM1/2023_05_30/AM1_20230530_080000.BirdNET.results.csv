@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+3.0,6.0,Pterodroma sandwichensis,Hawaiian Petrel,0.1214
+12.0,15.0,Human non-vocal,Human non-vocal,0.2093
+12.0,15.0,Engine,Engine,0.1432
+15.0,18.0,Engine,Engine,0.4260
+15.0,18.0,Siren,Siren,0.1003
+18.0,21.0,Engine,Engine,0.1408
+21.0,24.0,Engine,Engine,0.1585
+24.0,27.0,Human non-vocal,Human non-vocal,0.2846
+24.0,27.0,Engine,Engine,0.1304
+27.0,30.0,Botaurus stellaris,Great Bittern,0.1360
+45.0,48.0,Galerida theklae,Thekla's Lark,0.1175
+51.0,54.0,Pterodroma sandwichensis,Hawaiian Petrel,0.1160
+57.0,60.0,Pterodroma sandwichensis,Hawaiian Petrel,0.1032

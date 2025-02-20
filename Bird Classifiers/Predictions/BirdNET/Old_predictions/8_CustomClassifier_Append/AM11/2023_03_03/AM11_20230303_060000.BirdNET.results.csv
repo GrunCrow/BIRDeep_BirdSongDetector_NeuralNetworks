@@ -1,0 +1,24 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Prunella modularis,Dunnock,0.1296
+0,3.0,Salpinctes obsoletus,Rock Wren,0.1177
+3.0,6.0,Zonotrichia leucophrys,White-crowned Sparrow,0.2267
+3.0,6.0,Alaudidae,Alaudidae,0.1296
+3.0,6.0,Passerina ciris,Painted Bunting,0.1241
+6.0,9.0,Salpinctes obsoletus,Rock Wren,0.1402
+6.0,9.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1095
+9.0,12.0,Alauda arvensis,Eurasian Skylark,0.1103
+12.0,15.0,Salpinctes obsoletus,Rock Wren,0.1237
+21.0,24.0,Salpinctes obsoletus,Rock Wren,0.2079
+21.0,24.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1486
+24.0,27.0,Salpinctes obsoletus,Rock Wren,0.1159
+30.0,33.0,Salpinctes obsoletus,Rock Wren,0.2055
+33.0,36.0,Salpinctes obsoletus,Rock Wren,0.1470
+33.0,36.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1176
+36.0,39.0,Salpinctes obsoletus,Rock Wren,0.1222
+42.0,45.0,Salpinctes obsoletus,Rock Wren,0.1012
+45.0,48.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1470
+48.0,51.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1054
+54.0,57.0,Salpinctes obsoletus,Rock Wren,0.1434
+54.0,57.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1048
+57.0,60.0,Salpinctes obsoletus,Rock Wren,0.2400
+57.0,60.0,Zonotrichia leucophrys,White-crowned Sparrow,0.1695

@@ -1,0 +1,2 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Emberiza calandra,Corn Bunting,0.8818,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM15_20230330_063000_44.53_46.36_0.49.WAV

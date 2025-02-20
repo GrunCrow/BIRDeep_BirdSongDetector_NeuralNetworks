@@ -1,0 +1,14 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+12.0,15.0,Curruca,Curruca,0.1201
+15.0,18.0,Galerida theklae,Thekla's Lark,0.1927
+18.0,21.0,Galerida theklae,Thekla's Lark,0.2230
+21.0,24.0,Alaudidae,Alaudidae,0.3737
+24.0,27.0,Alaudidae,Alaudidae,0.1675
+27.0,30.0,Galerida theklae,Thekla's Lark,0.2187
+27.0,30.0,Alaudidae,Alaudidae,0.2184
+30.0,33.0,Galerida theklae,Thekla's Lark,0.1513
+30.0,33.0,Alaudidae,Alaudidae,0.1109
+33.0,36.0,Alaudidae,Alaudidae,0.2295
+33.0,36.0,Galerida theklae,Thekla's Lark,0.1977
+42.0,45.0,Galerida theklae,Thekla's Lark,0.1562
+51.0,54.0,Carduelis carduelis,European Goldfinch,0.1235

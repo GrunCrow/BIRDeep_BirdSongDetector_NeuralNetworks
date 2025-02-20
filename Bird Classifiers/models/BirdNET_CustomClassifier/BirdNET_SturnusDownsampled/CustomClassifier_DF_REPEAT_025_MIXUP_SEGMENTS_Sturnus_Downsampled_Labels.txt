@@ -1,0 +1,28 @@
+Anthus pratensis_Meadow Pipit
+Calandrella brachydactyla_Greater Short-toed Lark
+Carduelis carduelis_European Goldfinch
+Cettia cetti_Cetti's Warbler
+Chloris chloris_European Greenfinch
+Ciconia ciconia_White Stork
+Cisticola juncidis_Zitting Cisticola
+Cyanopica cooki_Iberian Magpie
+Emberiza calandra_Corn Bunting
+Falco tinnunculus_Eurasian Kestrel
+Galerida cristata_Crested Lark
+Galerida theklae_Thekla's Lark
+Hippolais polyglotta_Melodious Warbler
+Linaria cannabina_Eurasian Linnet
+Luscinia megarhynchos_Common Nightingale
+Melanocorypha calandra_Calandra Lark
+Merops apiaster_European Bee-eater
+Milvus migrans_Black Kite
+Motacilla flava_Western Yellow Wagtail
+Parus major_Great Tit
+Passer
+Pica pica_Eurasian Magpie
+Saxicola rubicola_European Stonechat
+Serinus serinus_European Serin
+Streptopelia decaocto_Eurasian Collared-Dove
+Sturnus
+Sylvia
+Turdus merula_Eurasian Blackbird

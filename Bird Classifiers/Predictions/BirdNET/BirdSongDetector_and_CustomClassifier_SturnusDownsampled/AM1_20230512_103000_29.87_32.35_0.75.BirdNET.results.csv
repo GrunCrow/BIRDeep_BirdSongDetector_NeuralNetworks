@@ -1,0 +1,3 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0,3.0,Sylvia,Sylvia,0.1988,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_29.87_32.35_0.75.WAV
+0,3.0,Galerida theklae,Thekla's Lark,0.1633,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM1_20230512_103000_29.87_32.35_0.75.WAV

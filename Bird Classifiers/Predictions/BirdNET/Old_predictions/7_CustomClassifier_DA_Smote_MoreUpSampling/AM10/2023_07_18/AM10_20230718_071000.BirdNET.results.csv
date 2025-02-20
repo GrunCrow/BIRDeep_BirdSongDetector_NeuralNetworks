@@ -1,0 +1,13 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+9.0,12.0,Carduelis carduelis,European Goldfinch,0.1274
+12.0,15.0,Sturnus,Sturnus,0.1075
+15.0,18.0,Carduelis carduelis,European Goldfinch,0.1340
+15.0,18.0,Luscinia megarhynchos,Common Nightingale,0.1179
+18.0,21.0,Carduelis carduelis,European Goldfinch,0.1470
+18.0,21.0,Luscinia megarhynchos,Common Nightingale,0.1253
+24.0,27.0,Carduelis carduelis,European Goldfinch,0.1228
+24.0,27.0,Luscinia megarhynchos,Common Nightingale,0.1124
+33.0,36.0,Luscinia megarhynchos,Common Nightingale,0.2007
+42.0,45.0,Carduelis carduelis,European Goldfinch,0.1798
+48.0,51.0,Cisticola juncidis,Zitting Cisticola,0.1743
+48.0,51.0,Saxicola rubicola,European Stonechat,0.1004
