@@ -1,5 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Sturnus,Sturnus,0.4226,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_31.78_35.05_0.22.WAV
-0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.2321,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_31.78_35.05_0.22.WAV
-0,3.0,Luscinia megarhynchos,Common Nightingale,0.0850,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_31.78_35.05_0.22.WAV
-0,3.0,Ciconia ciconia,White Stork,0.0167,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM8_20230304_100000_31.78_35.05_0.22.WAV

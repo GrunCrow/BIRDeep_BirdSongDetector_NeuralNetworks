@@ -1,6 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Saxicola rubicola,European Stonechat,0.6699,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_060000.WAV
-0,3.0,Galerida theklae,Thekla's Lark,0.1600,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_060000.WAV
-3.0,6.0,Galerida theklae,Thekla's Lark,0.3690,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_060000.WAV
-9.0,12.0,Galerida theklae,Thekla's Lark,0.7424,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_060000.WAV
-9.0,12.0,Saxicola rubicola,European Stonechat,0.2050,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM11\2023_03_03\AM11_20230303_060000.WAV

@@ -1,7 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Emberiza calandra,Corn Bunting,0.2596,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV
-0,3.0,Saxicola rubicola,European Stonechat,0.0845,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV
-0,3.0,Sylvia,Sylvia,0.0316,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV
-0,3.0,Anthus pratensis,Meadow Pipit,0.0164,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV
-0,3.0,Luscinia megarhynchos,Common Nightingale,0.0122,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV
-0,3.0,Sturnus,Sturnus,0.0117,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM10_20230523_063000_53.93_55.37_0.45.WAV

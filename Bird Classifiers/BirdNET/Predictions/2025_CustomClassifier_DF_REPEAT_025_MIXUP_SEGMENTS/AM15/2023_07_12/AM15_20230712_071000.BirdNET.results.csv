@@ -1,6 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-3.0,6.0,Sylvia,Sylvia,0.1570,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV
-9.0,12.0,Sylvia,Sylvia,0.1591,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV
-12.0,15.0,Sylvia,Sylvia,0.1149,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV
-15.0,18.0,Sylvia,Sylvia,0.1005,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV
-21.0,24.0,Sylvia,Sylvia,0.1420,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/test\AM15\2023_07_12\AM15_20230712_071000.WAV

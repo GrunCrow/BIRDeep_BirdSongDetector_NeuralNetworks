@@ -1,3 +1,0 @@
-Start (s),End (s),Scientific name,Common name,Confidence,File
-0,3.0,Luscinia megarhynchos,Common Nightingale,0.1832,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_0.02_1.76_0.60.WAV
-0,3.0,Sylvia,Sylvia,0.1267,//wsl.localhost/Ubuntu/home/gruncrow/BIRDeep_BirdSongDetector_NeuralNetworks/Data/Dataset/Audios/For Classifier/BirdSongDetectorTestSegments\AM4_20230531_092000_0.02_1.76_0.60.WAV
