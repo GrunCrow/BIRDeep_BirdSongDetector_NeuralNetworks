@@ -1,5 +1,7 @@
 # BIRDeep Bird Song Detector by Neural Networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14940480.svg)](https://doi.org/10.5281/zenodo.14940480)
+
 BIRDeep Bird Song Detector repository, part of the BIRDeep project, aimed at detecting bird songs in audio recordings.
 
 This repository contains the codes, data, and projects associated with the research paper "Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning." This project focuses on leveraging deep learning techniques to improve bird species identification from audio recordings collected in Doñana National Park.
