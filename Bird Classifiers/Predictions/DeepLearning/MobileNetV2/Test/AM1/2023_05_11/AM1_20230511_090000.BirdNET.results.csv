@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.30119303
+3,6,Pica pica,Eurasian Magpie,0.45161474
+6,9,Pica pica,Eurasian Magpie,0.90684456
+9,12,Pica pica,Eurasian Magpie,0.917313
+12,15,Pica pica,Eurasian Magpie,0.91331875
+15,18,Pica pica,Eurasian Magpie,0.9208326
+18,21,Pica pica,Eurasian Magpie,0.8858502
+21,24,Pica pica,Eurasian Magpie,0.95843977
+24,27,Pica pica,Eurasian Magpie,0.9581083
+27,30,Pica pica,Eurasian Magpie,0.96777767
+30,33,Pica pica,Eurasian Magpie,0.88918364
+33,36,Pica pica,Eurasian Magpie,0.9111301
+36,39,Pica pica,Eurasian Magpie,0.61678016
+39,42,Pica pica,Eurasian Magpie,0.938239
+42,45,Pica pica,Eurasian Magpie,0.81084496
+45,48,Pica pica,Eurasian Magpie,0.9002903
+48,51,Pica pica,Eurasian Magpie,0.8464484
+51,54,Pica pica,Eurasian Magpie,0.8496177
+54,57,Turdus merula,Eurasian Blackbird,0.32574117
+57,60,Pica pica,Eurasian Magpie,0.6915951

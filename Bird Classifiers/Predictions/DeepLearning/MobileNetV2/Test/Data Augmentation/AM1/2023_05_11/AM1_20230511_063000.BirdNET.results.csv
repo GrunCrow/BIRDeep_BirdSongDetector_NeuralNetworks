@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Galerida theklae,Thekla's Lark,0.34264258
+3,6,Galerida theklae,Thekla's Lark,0.42923945
+6,9,Pica pica,Eurasian Magpie,0.31695414
+9,12,Pica pica,Eurasian Magpie,0.3862432
+12,15,Pica pica,Eurasian Magpie,0.48762816
+15,18,Pica pica,Eurasian Magpie,0.8270892
+18,21,Turdus merula,Eurasian Blackbird,0.35047755
+21,24,Parus major,Great Tit,0.7930646
+24,27,Parus major,Great Tit,0.74858356
+27,30,Parus major,Great Tit,0.981716
+30,33,Saxicola rubicola,European Stonechat,0.31570217
+33,36,Parus major,Great Tit,0.8780568
+36,39,Parus major,Great Tit,0.89383906
+39,42,Parus major,Great Tit,0.7423543
+42,45,Pica pica,Eurasian Magpie,0.35479257
+45,48,Cisticola juncidis,Zitting Cisticola,0.7549009
+48,51,Parus major,Great Tit,0.6264343
+51,54,Parus major,Great Tit,0.80516344
+54,57,Pica pica,Eurasian Magpie,0.46365127
+57,60,Pica pica,Eurasian Magpie,0.7240542

@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Galerida theklae,Thekla's Lark,0.413505
+3,6,Parus major,Great Tit,0.7723712
+6,9,Parus major,Great Tit,0.71301436
+9,12,Galerida theklae,Thekla's Lark,0.25018066
+12,15,Parus major,Great Tit,0.9849769
+15,18,Parus major,Great Tit,0.91345114
+18,21,Parus major,Great Tit,0.8454269
+21,24,Parus major,Great Tit,0.9103377
+24,27,Parus major,Great Tit,0.47965685
+27,30,Turdus merula,Eurasian Blackbird,0.45844808
+30,33,Turdus merula,Eurasian Blackbird,0.7701139
+33,36,Galerida theklae,Thekla's Lark,0.49653322
+36,39,Parus major,Great Tit,0.9764598
+39,42,Turdus merula,Eurasian Blackbird,0.59761024
+42,45,Parus major,Great Tit,0.41751367
+45,48,Turdus merula,Eurasian Blackbird,0.7087572
+48,51,Turdus merula,Eurasian Blackbird,0.44061184
+51,54,Parus major,Great Tit,0.87313265
+54,57,Galerida theklae,Thekla's Lark,0.43308625
+57,60,Parus major,Great Tit,0.7896924

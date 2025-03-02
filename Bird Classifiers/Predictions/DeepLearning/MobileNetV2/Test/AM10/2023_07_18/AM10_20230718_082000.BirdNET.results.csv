@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Pica pica,Eurasian Magpie,0.23805301
+3,6,Calandrella brachydactyla,Greater Short-toed Lark,0.5539311
+6,9,Parus major,Great Tit,0.51112807
+9,12,Parus major,Great Tit,0.82350886
+12,15,Parus major,Great Tit,0.37224177
+15,18,Parus major,Great Tit,0.87797725
+18,21,Galerida theklae,Thekla's Lark,0.5240517
+21,24,Galerida theklae,Thekla's Lark,0.3584548
+24,27,Parus major,Great Tit,0.9599584
+27,30,Turdus merula,Eurasian Blackbird,0.40805647
+30,33,Turdus merula,Eurasian Blackbird,0.6147452
+33,36,Parus major,Great Tit,0.7195365
+36,39,Parus major,Great Tit,0.8514665
+39,42,Parus major,Great Tit,0.80476385
+42,45,Parus major,Great Tit,0.86146176
+45,48,Parus major,Great Tit,0.79626787
+48,51,Parus major,Great Tit,0.28180364
+51,54,Chloris chloris,European Greenfinch,0.22950767
+54,57,Cyanopica cooki,Iberian Magpie,0.27710006
+57,60,Parus major,Great Tit,0.47877964

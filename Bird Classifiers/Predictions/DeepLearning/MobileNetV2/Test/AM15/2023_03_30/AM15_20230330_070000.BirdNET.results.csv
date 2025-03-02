@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Serinus serinus,European Serin,0.66009593
+3,6,Serinus serinus,European Serin,0.75336987
+6,9,Calandrella brachydactyla,Greater Short-toed Lark,0.3799258
+9,12,Serinus serinus,European Serin,0.32932866
+12,15,Chloris chloris,European Greenfinch,0.35716578
+15,18,Serinus serinus,European Serin,0.7718891
+18,21,Chloris chloris,European Greenfinch,0.4187915
+21,24,Serinus serinus,European Serin,0.40968585
+24,27,Chloris chloris,European Greenfinch,0.3592621
+27,30,Serinus serinus,European Serin,0.4132383
+30,33,Serinus serinus,European Serin,0.6547089
+33,36,Serinus serinus,European Serin,0.43001363
+36,39,Serinus serinus,European Serin,0.3910327
+39,42,Serinus serinus,European Serin,0.38596928
+42,45,Serinus serinus,European Serin,0.4456433
+45,48,Chloris chloris,European Greenfinch,0.4134636
+48,51,Serinus serinus,European Serin,0.27189022
+51,54,Serinus serinus,European Serin,0.38871917
+54,57,Chloris chloris,European Greenfinch,0.5822327
+57,60,Parus major,Great Tit,0.56367105

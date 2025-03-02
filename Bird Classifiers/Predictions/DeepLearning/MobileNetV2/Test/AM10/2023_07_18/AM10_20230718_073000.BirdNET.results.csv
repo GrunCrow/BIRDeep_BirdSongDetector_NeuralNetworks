@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.9407626
+3,6,Parus major,Great Tit,0.9906144
+6,9,Parus major,Great Tit,0.9335381
+9,12,Parus major,Great Tit,0.5198029
+12,15,Galerida theklae,Thekla's Lark,0.38095114
+15,18,Parus major,Great Tit,0.8505234
+18,21,Galerida theklae,Thekla's Lark,0.38432574
+21,24,Galerida theklae,Thekla's Lark,0.47821993
+24,27,Parus major,Great Tit,0.92681456
+27,30,Galerida theklae,Thekla's Lark,0.37645853
+30,33,Parus major,Great Tit,0.41410705
+33,36,Parus major,Great Tit,0.99599385
+36,39,Parus major,Great Tit,0.90144944
+39,42,Parus major,Great Tit,0.99970007
+42,45,Parus major,Great Tit,0.9761454
+45,48,Parus major,Great Tit,0.9960776
+48,51,Parus major,Great Tit,0.7986725
+51,54,Parus major,Great Tit,0.75847995
+54,57,Parus major,Great Tit,0.5470948
+57,60,Parus major,Great Tit,0.8066036

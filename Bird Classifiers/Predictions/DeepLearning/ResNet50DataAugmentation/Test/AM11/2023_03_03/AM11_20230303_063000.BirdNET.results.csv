@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.635348
+3,6,Parus major,Great Tit,0.613151
+6,9,Parus major,Great Tit,0.59589356
+9,12,Parus major,Great Tit,0.2225609
+12,15,Cisticola juncidis,Zitting Cisticola,0.32464457
+15,18,Cisticola juncidis,Zitting Cisticola,0.26358047
+18,21,Parus major,Great Tit,0.42195305
+21,24,Parus major,Great Tit,0.5151934
+24,27,Parus major,Great Tit,0.71088976
+27,30,Parus major,Great Tit,0.5946515
+30,33,Parus major,Great Tit,0.6749066
+33,36,Parus major,Great Tit,0.4779384
+36,39,Parus major,Great Tit,0.6799802
+39,42,Parus major,Great Tit,0.33870766
+42,45,Cisticola juncidis,Zitting Cisticola,0.37158945
+45,48,Parus major,Great Tit,0.63980573
+48,51,Parus major,Great Tit,0.6330077
+51,54,Parus major,Great Tit,0.66408455
+54,57,Parus major,Great Tit,0.6782114
+57,60,Parus major,Great Tit,0.6488186

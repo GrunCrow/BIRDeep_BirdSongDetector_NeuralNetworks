@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.32296982
+3,6,Parus major,Great Tit,0.25801992
+6,9,Cisticola juncidis,Zitting Cisticola,0.22208744
+9,12,Cisticola juncidis,Zitting Cisticola,0.24742629
+12,15,Cisticola juncidis,Zitting Cisticola,0.30182844
+15,18,Cyanopica cooki,Iberian Magpie,0.22268559
+18,21,Parus major,Great Tit,0.37869948
+21,24,Cisticola juncidis,Zitting Cisticola,0.36484045
+24,27,Cisticola juncidis,Zitting Cisticola,0.4135783
+27,30,Parus major,Great Tit,0.4633962
+30,33,Cisticola juncidis,Zitting Cisticola,0.35793018
+33,36,Parus major,Great Tit,0.3637944
+36,39,Cisticola juncidis,Zitting Cisticola,0.32799605
+39,42,Cisticola juncidis,Zitting Cisticola,0.26272798
+42,45,Parus major,Great Tit,0.26825622
+45,48,Cisticola juncidis,Zitting Cisticola,0.37551343
+48,51,Cisticola juncidis,Zitting Cisticola,0.39985868
+51,54,Cisticola juncidis,Zitting Cisticola,0.283722
+54,57,Parus major,Great Tit,0.401602
+57,60,Parus major,Great Tit,0.42812136

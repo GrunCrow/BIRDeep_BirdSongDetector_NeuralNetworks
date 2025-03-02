@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Chloris chloris,European Greenfinch,0.9732872
+3,6,Chloris chloris,European Greenfinch,0.8688944
+6,9,Parus major,Great Tit,0.4916387
+9,12,Chloris chloris,European Greenfinch,0.8207496
+12,15,Chloris chloris,European Greenfinch,0.8004781
+15,18,Chloris chloris,European Greenfinch,0.65963
+18,21,Chloris chloris,European Greenfinch,0.92302406
+21,24,Parus major,Great Tit,0.4857037
+24,27,Chloris chloris,European Greenfinch,0.9402218
+27,30,Parus major,Great Tit,0.83186203
+30,33,Parus major,Great Tit,0.9909661
+33,36,Chloris chloris,European Greenfinch,0.82025164
+36,39,Chloris chloris,European Greenfinch,0.7836695
+39,42,Chloris chloris,European Greenfinch,0.4829559
+42,45,Parus major,Great Tit,0.80484515
+45,48,Chloris chloris,European Greenfinch,0.657208
+48,51,Parus major,Great Tit,0.99273914
+51,54,Chloris chloris,European Greenfinch,0.81632286
+54,57,Chloris chloris,European Greenfinch,0.73558015
+57,60,Chloris chloris,European Greenfinch,0.6356235

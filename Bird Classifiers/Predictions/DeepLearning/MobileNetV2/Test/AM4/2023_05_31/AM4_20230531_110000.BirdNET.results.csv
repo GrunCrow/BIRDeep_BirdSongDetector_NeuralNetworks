@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Pica pica,Eurasian Magpie,0.72915614
+3,6,Cisticola juncidis,Zitting Cisticola,0.5939845
+6,9,Cisticola juncidis,Zitting Cisticola,0.47040126
+9,12,Parus major,Great Tit,0.43011057
+12,15,Cisticola juncidis,Zitting Cisticola,0.5884398
+15,18,Cisticola juncidis,Zitting Cisticola,0.3925694
+18,21,Parus major,Great Tit,0.1792745
+21,24,Ciconia ciconia,White Stork,0.3726367
+24,27,Parus major,Great Tit,0.51772594
+27,30,Parus major,Great Tit,0.25201738
+30,33,Pica pica,Eurasian Magpie,0.20488718
+33,36,Parus major,Great Tit,0.4823548
+36,39,Parus major,Great Tit,0.38517347
+39,42,Chloris chloris,European Greenfinch,0.6619779
+42,45,Pica pica,Eurasian Magpie,0.609988
+45,48,Cyanopica cooki,Iberian Magpie,0.28061336
+48,51,Cyanopica cooki,Iberian Magpie,0.23305719
+51,54,Cisticola juncidis,Zitting Cisticola,0.3392779
+54,57,Ciconia ciconia,White Stork,0.4863176
+57,60,Cisticola juncidis,Zitting Cisticola,0.55050385

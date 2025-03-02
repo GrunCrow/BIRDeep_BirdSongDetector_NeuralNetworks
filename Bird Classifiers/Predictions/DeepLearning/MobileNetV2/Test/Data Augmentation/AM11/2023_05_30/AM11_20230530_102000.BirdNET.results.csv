@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Turdus merula,Eurasian Blackbird,0.29773617
+3,6,Galerida theklae,Thekla's Lark,0.2839366
+6,9,Cyanopica cooki,Iberian Magpie,0.46202865
+9,12,Cyanopica cooki,Iberian Magpie,0.5100548
+12,15,Galerida theklae,Thekla's Lark,0.42953676
+15,18,Galerida theklae,Thekla's Lark,0.55776066
+18,21,Galerida theklae,Thekla's Lark,0.2988579
+21,24,Cyanopica cooki,Iberian Magpie,0.28843063
+24,27,Galerida theklae,Thekla's Lark,0.4558558
+27,30,Parus major,Great Tit,0.2185362
+30,33,Galerida theklae,Thekla's Lark,0.4481341
+33,36,Galerida theklae,Thekla's Lark,0.41413534
+36,39,Cyanopica cooki,Iberian Magpie,0.5001451
+39,42,Cyanopica cooki,Iberian Magpie,0.50135356
+42,45,Cyanopica cooki,Iberian Magpie,0.7368631
+45,48,Cyanopica cooki,Iberian Magpie,0.44720086
+48,51,Cisticola juncidis,Zitting Cisticola,0.3064383
+51,54,Cyanopica cooki,Iberian Magpie,0.43905264
+54,57,Cisticola juncidis,Zitting Cisticola,0.63255817
+57,60,Cyanopica cooki,Iberian Magpie,0.37413746

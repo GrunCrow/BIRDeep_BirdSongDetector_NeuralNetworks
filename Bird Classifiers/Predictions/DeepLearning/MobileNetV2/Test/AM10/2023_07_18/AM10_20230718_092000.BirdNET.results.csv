@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.24847993
+3,6,Chloris chloris,European Greenfinch,0.24552919
+6,9,Parus major,Great Tit,0.35981172
+9,12,Parus major,Great Tit,0.7458113
+12,15,Parus major,Great Tit,0.94832253
+15,18,Parus major,Great Tit,0.9506247
+18,21,Parus major,Great Tit,0.8212619
+21,24,Parus major,Great Tit,0.7164137
+24,27,Parus major,Great Tit,0.58689785
+27,30,Turdus merula,Eurasian Blackbird,0.35321924
+30,33,Parus major,Great Tit,0.4381301
+33,36,Parus major,Great Tit,0.97420585
+36,39,Cyanopica cooki,Iberian Magpie,0.2255703
+39,42,Parus major,Great Tit,0.87066126
+42,45,Turdus merula,Eurasian Blackbird,0.2953152
+45,48,Calandrella brachydactyla,Greater Short-toed Lark,0.21862286
+48,51,Parus major,Great Tit,0.9654048
+51,54,Parus major,Great Tit,0.7801684
+54,57,Turdus merula,Eurasian Blackbird,0.21235086
+57,60,Parus major,Great Tit,0.9330853

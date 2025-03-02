@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Chloris chloris,European Greenfinch,0.20608443
+3,6,Cisticola juncidis,Zitting Cisticola,0.54307413
+6,9,Calandrella brachydactyla,Greater Short-toed Lark,0.65224004
+9,12,Parus major,Great Tit,0.94241095
+12,15,Cisticola juncidis,Zitting Cisticola,0.57447195
+15,18,Cisticola juncidis,Zitting Cisticola,0.37529206
+18,21,Cisticola juncidis,Zitting Cisticola,0.48818228
+21,24,Cisticola juncidis,Zitting Cisticola,0.8318792
+24,27,Parus major,Great Tit,0.5736768
+27,30,Cisticola juncidis,Zitting Cisticola,0.87420994
+30,33,Cyanopica cooki,Iberian Magpie,0.32942036
+33,36,Parus major,Great Tit,0.44178048
+36,39,Turdus merula,Eurasian Blackbird,0.30904102
+39,42,Parus major,Great Tit,0.6281114
+42,45,Cyanopica cooki,Iberian Magpie,0.7398674
+45,48,Cisticola juncidis,Zitting Cisticola,0.5592306
+48,51,Cisticola juncidis,Zitting Cisticola,0.53944796
+51,54,Cyanopica cooki,Iberian Magpie,0.5069169
+54,57,Parus major,Great Tit,0.5023046
+57,60,Parus major,Great Tit,0.4962488

@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.9080737
+3,6,Parus major,Great Tit,0.9527785
+6,9,Parus major,Great Tit,0.86139995
+9,12,Cisticola juncidis,Zitting Cisticola,0.22524475
+12,15,Parus major,Great Tit,0.9832696
+15,18,Pica pica,Eurasian Magpie,0.9432446
+18,21,Pica pica,Eurasian Magpie,0.9509784
+21,24,Pica pica,Eurasian Magpie,0.9033378
+24,27,Pica pica,Eurasian Magpie,0.9532793
+27,30,Pica pica,Eurasian Magpie,0.9780774
+30,33,Pica pica,Eurasian Magpie,0.9462883
+33,36,Pica pica,Eurasian Magpie,0.9055142
+36,39,Pica pica,Eurasian Magpie,0.9836304
+39,42,Pica pica,Eurasian Magpie,0.9639121
+42,45,Pica pica,Eurasian Magpie,0.9583719
+45,48,Pica pica,Eurasian Magpie,0.9115024
+48,51,Pica pica,Eurasian Magpie,0.9402495
+51,54,Pica pica,Eurasian Magpie,0.89853424
+54,57,Pica pica,Eurasian Magpie,0.65743244
+57,60,Pica pica,Eurasian Magpie,0.7738806

@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Cyanopica cooki,Iberian Magpie,0.42947704
+3,6,Parus major,Great Tit,0.6674565
+6,9,Cyanopica cooki,Iberian Magpie,0.43897238
+9,12,Chloris chloris,European Greenfinch,0.2551151
+12,15,Cyanopica cooki,Iberian Magpie,0.41039282
+15,18,Parus major,Great Tit,0.353075
+18,21,Parus major,Great Tit,0.36207083
+21,24,Parus major,Great Tit,0.26392674
+24,27,Galerida theklae,Thekla's Lark,0.34524184
+27,30,Parus major,Great Tit,0.4017483
+30,33,Cyanopica cooki,Iberian Magpie,0.31413916
+33,36,Cyanopica cooki,Iberian Magpie,0.6487921
+36,39,Cisticola juncidis,Zitting Cisticola,0.8836477
+39,42,Parus major,Great Tit,0.5269735
+42,45,Cyanopica cooki,Iberian Magpie,0.7181528
+45,48,Cyanopica cooki,Iberian Magpie,0.5074065
+48,51,Cisticola juncidis,Zitting Cisticola,0.38298443
+51,54,Calandrella brachydactyla,Greater Short-toed Lark,0.3236016
+54,57,Cisticola juncidis,Zitting Cisticola,0.7162182
+57,60,Calandrella brachydactyla,Greater Short-toed Lark,0.31857368

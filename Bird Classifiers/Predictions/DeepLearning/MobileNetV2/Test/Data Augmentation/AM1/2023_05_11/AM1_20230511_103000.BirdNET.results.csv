@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Pica pica,Eurasian Magpie,0.5279193
+3,6,Parus major,Great Tit,0.77463025
+6,9,Parus major,Great Tit,0.90002644
+9,12,Parus major,Great Tit,0.96883786
+12,15,Parus major,Great Tit,0.87574637
+15,18,Parus major,Great Tit,0.8010968
+18,21,Pica pica,Eurasian Magpie,0.8695639
+21,24,Parus major,Great Tit,0.857334
+24,27,Parus major,Great Tit,0.37977087
+27,30,Parus major,Great Tit,0.6698248
+30,33,Parus major,Great Tit,0.59108037
+33,36,Parus major,Great Tit,0.5579019
+36,39,Pica pica,Eurasian Magpie,0.43818393
+39,42,Pica pica,Eurasian Magpie,0.386338
+42,45,Pica pica,Eurasian Magpie,0.5292241
+45,48,Pica pica,Eurasian Magpie,0.7079171
+48,51,Pica pica,Eurasian Magpie,0.42711693
+51,54,Galerida theklae,Thekla's Lark,0.216946
+54,57,Galerida theklae,Thekla's Lark,0.33819497
+57,60,Chloris chloris,European Greenfinch,0.31034586

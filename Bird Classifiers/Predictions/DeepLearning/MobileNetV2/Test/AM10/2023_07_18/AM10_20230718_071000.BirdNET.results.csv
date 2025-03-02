@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.91406876
+3,6,Cyanopica cooki,Iberian Magpie,0.426231
+6,9,Parus major,Great Tit,0.8264989
+9,12,Galerida theklae,Thekla's Lark,0.4744429
+12,15,Galerida theklae,Thekla's Lark,0.65930945
+15,18,Galerida theklae,Thekla's Lark,0.3399317
+18,21,Chloris chloris,European Greenfinch,0.78259695
+21,24,Chloris chloris,European Greenfinch,0.69041145
+24,27,Parus major,Great Tit,0.49165064
+27,30,Galerida theklae,Thekla's Lark,0.5875379
+30,33,Parus major,Great Tit,0.5719216
+33,36,Parus major,Great Tit,0.4287326
+36,39,Parus major,Great Tit,0.8660739
+39,42,Parus major,Great Tit,0.99968386
+42,45,Parus major,Great Tit,0.75950265
+45,48,Parus major,Great Tit,0.7641119
+48,51,Parus major,Great Tit,0.939242
+51,54,Galerida theklae,Thekla's Lark,0.4324083
+54,57,Chloris chloris,European Greenfinch,0.34523118
+57,60,Chloris chloris,European Greenfinch,0.51409936

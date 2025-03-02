@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Galerida theklae,Thekla's Lark,0.42798653
+3,6,Cyanopica cooki,Iberian Magpie,0.20268434
+6,9,Turdus merula,Eurasian Blackbird,0.44420364
+9,12,Parus major,Great Tit,0.3788069
+12,15,Parus major,Great Tit,0.8941045
+15,18,Parus major,Great Tit,0.96584886
+18,21,Parus major,Great Tit,0.9662311
+21,24,Parus major,Great Tit,0.47639337
+24,27,Parus major,Great Tit,0.8019826
+27,30,Parus major,Great Tit,0.86062884
+30,33,Parus major,Great Tit,0.95416504
+33,36,Parus major,Great Tit,0.5803304
+36,39,Galerida theklae,Thekla's Lark,0.43626475
+39,42,Parus major,Great Tit,0.4692666
+42,45,Parus major,Great Tit,0.52713513
+45,48,Cyanopica cooki,Iberian Magpie,0.37452608
+48,51,Parus major,Great Tit,0.9765276
+51,54,Galerida theklae,Thekla's Lark,0.3563084
+54,57,Chloris chloris,European Greenfinch,0.42096576
+57,60,Galerida theklae,Thekla's Lark,0.62884873

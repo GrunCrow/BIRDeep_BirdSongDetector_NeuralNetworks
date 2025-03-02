@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Cisticola juncidis,Zitting Cisticola,0.93438137
+3,6,Cisticola juncidis,Zitting Cisticola,0.674065
+6,9,Cisticola juncidis,Zitting Cisticola,0.9345337
+9,12,Cisticola juncidis,Zitting Cisticola,0.909064
+12,15,Cisticola juncidis,Zitting Cisticola,0.6953777
+15,18,Chloris chloris,European Greenfinch,0.2463399
+18,21,Parus major,Great Tit,0.29627386
+21,24,Cisticola juncidis,Zitting Cisticola,0.8718968
+24,27,Parus major,Great Tit,0.24100597
+27,30,Cisticola juncidis,Zitting Cisticola,0.9372651
+30,33,Cisticola juncidis,Zitting Cisticola,0.7500052
+33,36,Saxicola rubicola,European Stonechat,0.60447377
+36,39,Cisticola juncidis,Zitting Cisticola,0.31083524
+39,42,Chloris chloris,European Greenfinch,0.23206468
+42,45,Galerida theklae,Thekla's Lark,0.3664823
+45,48,Turdus merula,Eurasian Blackbird,0.35303208
+48,51,Cisticola juncidis,Zitting Cisticola,0.8121541
+51,54,Parus major,Great Tit,0.32868618
+54,57,Turdus merula,Eurasian Blackbird,0.4728059
+57,60,Calandrella brachydactyla,Greater Short-toed Lark,0.41802245

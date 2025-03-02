@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Galerida theklae,Thekla's Lark,0.39744648
+3,6,Parus major,Great Tit,0.6953099
+6,9,Parus major,Great Tit,0.87890023
+9,12,Parus major,Great Tit,0.92181647
+12,15,Parus major,Great Tit,0.6888525
+15,18,Parus major,Great Tit,0.96000487
+18,21,Galerida theklae,Thekla's Lark,0.4905795
+21,24,Chloris chloris,European Greenfinch,0.47061405
+24,27,Galerida theklae,Thekla's Lark,0.3974728
+27,30,Galerida theklae,Thekla's Lark,0.26105702
+30,33,Galerida theklae,Thekla's Lark,0.50176173
+33,36,Parus major,Great Tit,0.3808093
+36,39,Parus major,Great Tit,0.9085235
+39,42,Parus major,Great Tit,0.33370298
+42,45,Parus major,Great Tit,0.43583894
+45,48,Parus major,Great Tit,0.9311584
+48,51,Parus major,Great Tit,0.52886814
+51,54,Galerida theklae,Thekla's Lark,0.36898217
+54,57,Parus major,Great Tit,0.9628804
+57,60,Parus major,Great Tit,0.9227385

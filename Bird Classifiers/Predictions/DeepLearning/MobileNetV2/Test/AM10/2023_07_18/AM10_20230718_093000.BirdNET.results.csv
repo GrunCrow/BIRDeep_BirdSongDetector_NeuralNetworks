@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Falco tinnunculus,Eurasian Kestrel,0.2827993
+3,6,Calandrella brachydactyla,Greater Short-toed Lark,0.30426243
+6,9,Chloris chloris,European Greenfinch,0.2259987
+9,12,Parus major,Great Tit,0.79427385
+12,15,Cyanopica cooki,Iberian Magpie,0.44514912
+15,18,Parus major,Great Tit,0.6739491
+18,21,Parus major,Great Tit,0.92026496
+21,24,Parus major,Great Tit,0.2727175
+24,27,Parus major,Great Tit,0.5220105
+27,30,Parus major,Great Tit,0.6754397
+30,33,Parus major,Great Tit,0.3219465
+33,36,Parus major,Great Tit,0.8312001
+36,39,Parus major,Great Tit,0.87968856
+39,42,Galerida theklae,Thekla's Lark,0.36288437
+42,45,Turdus merula,Eurasian Blackbird,0.37859833
+45,48,Parus major,Great Tit,0.33712074
+48,51,Parus major,Great Tit,0.88524246
+51,54,Parus major,Great Tit,0.9849582
+54,57,Galerida theklae,Thekla's Lark,0.4061694
+57,60,Parus major,Great Tit,0.9928148

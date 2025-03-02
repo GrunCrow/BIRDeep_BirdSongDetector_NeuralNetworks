@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Parus major,Great Tit,0.6976261
+3,6,Parus major,Great Tit,0.9949439
+6,9,Parus major,Great Tit,0.95427537
+9,12,Parus major,Great Tit,0.8910365
+12,15,Parus major,Great Tit,0.98032033
+15,18,Pica pica,Eurasian Magpie,0.51468736
+18,21,Parus major,Great Tit,0.9649052
+21,24,Parus major,Great Tit,0.96015376
+24,27,Parus major,Great Tit,0.9144782
+27,30,Parus major,Great Tit,0.6622033
+30,33,Parus major,Great Tit,0.9686857
+33,36,Parus major,Great Tit,0.9653146
+36,39,Parus major,Great Tit,0.76990706
+39,42,Parus major,Great Tit,0.8481178
+42,45,Pica pica,Eurasian Magpie,0.87477916
+45,48,Pica pica,Eurasian Magpie,0.5626249
+48,51,Parus major,Great Tit,0.7510582
+51,54,Pica pica,Eurasian Magpie,0.99304867
+54,57,Pica pica,Eurasian Magpie,0.9634302
+57,60,Pica pica,Eurasian Magpie,0.98920083

@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Chloris chloris,European Greenfinch,0.30351296
+3,6,Chloris chloris,European Greenfinch,0.5489765
+6,9,Serinus serinus,European Serin,0.26880062
+9,12,Chloris chloris,European Greenfinch,0.6403246
+12,15,Chloris chloris,European Greenfinch,0.38649297
+15,18,Chloris chloris,European Greenfinch,0.56470555
+18,21,Chloris chloris,European Greenfinch,0.39258844
+21,24,Calandrella brachydactyla,Greater Short-toed Lark,0.29114404
+24,27,Cyanopica cooki,Iberian Magpie,0.42541492
+27,30,Calandrella brachydactyla,Greater Short-toed Lark,0.42107823
+30,33,Calandrella brachydactyla,Greater Short-toed Lark,0.4053757
+33,36,Serinus serinus,European Serin,0.30124882
+36,39,Parus major,Great Tit,0.2249042
+39,42,Cyanopica cooki,Iberian Magpie,0.31926543
+42,45,Calandrella brachydactyla,Greater Short-toed Lark,0.7620721
+45,48,Calandrella brachydactyla,Greater Short-toed Lark,0.34077618
+48,51,Serinus serinus,European Serin,0.4842389
+51,54,Serinus serinus,European Serin,0.7075459
+54,57,Serinus serinus,European Serin,0.4645574
+57,60,Galerida theklae,Thekla's Lark,0.3088299

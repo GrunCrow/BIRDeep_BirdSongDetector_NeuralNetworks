@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Galerida theklae,Thekla's Lark,0.4321218
+3,6,Galerida theklae,Thekla's Lark,0.41491356
+6,9,Galerida theklae,Thekla's Lark,0.45240107
+9,12,Galerida theklae,Thekla's Lark,0.40475625
+12,15,Cyanopica cooki,Iberian Magpie,0.19726017
+15,18,Cyanopica cooki,Iberian Magpie,0.3384659
+18,21,Parus major,Great Tit,0.87885284
+21,24,Parus major,Great Tit,0.6859578
+24,27,Parus major,Great Tit,0.6495657
+27,30,Parus major,Great Tit,0.619649
+30,33,Parus major,Great Tit,0.3374799
+33,36,Parus major,Great Tit,0.791158
+36,39,Parus major,Great Tit,0.7437471
+39,42,Galerida theklae,Thekla's Lark,0.4767405
+42,45,Parus major,Great Tit,0.70527184
+45,48,Galerida theklae,Thekla's Lark,0.4219067
+48,51,Parus major,Great Tit,0.9442795
+51,54,Parus major,Great Tit,0.64217544
+54,57,Parus major,Great Tit,0.8376609
+57,60,Parus major,Great Tit,0.31993806

@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Serinus serinus,European Serin,0.45949566
+3,6,Chloris chloris,European Greenfinch,0.666081
+6,9,Chloris chloris,European Greenfinch,0.53671336
+9,12,Serinus serinus,European Serin,0.5847283
+12,15,Chloris chloris,European Greenfinch,0.51504606
+15,18,Serinus serinus,European Serin,0.49157992
+18,21,Chloris chloris,European Greenfinch,0.56702596
+21,24,Galerida theklae,Thekla's Lark,0.467632
+24,27,Galerida theklae,Thekla's Lark,0.33430824
+27,30,Serinus serinus,European Serin,0.466887
+30,33,Serinus serinus,European Serin,0.5446812
+33,36,Galerida theklae,Thekla's Lark,0.28923023
+36,39,Parus major,Great Tit,0.53536385
+39,42,Serinus serinus,European Serin,0.24043939
+42,45,Calandrella brachydactyla,Greater Short-toed Lark,0.43004826
+45,48,Chloris chloris,European Greenfinch,0.53038305
+48,51,Galerida theklae,Thekla's Lark,0.3396155
+51,54,Galerida theklae,Thekla's Lark,0.3113985
+54,57,Galerida theklae,Thekla's Lark,0.4712131
+57,60,Calandrella brachydactyla,Greater Short-toed Lark,0.2977168

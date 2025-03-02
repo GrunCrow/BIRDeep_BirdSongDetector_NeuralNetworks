@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Ciconia ciconia,White Stork,0.54243547
+3,6,Cisticola juncidis,Zitting Cisticola,0.47417918
+6,9,Cisticola juncidis,Zitting Cisticola,0.74061865
+9,12,Ciconia ciconia,White Stork,0.7021662
+12,15,Cisticola juncidis,Zitting Cisticola,0.5928986
+15,18,Ciconia ciconia,White Stork,0.52349424
+18,21,Ciconia ciconia,White Stork,0.6735723
+21,24,Ciconia ciconia,White Stork,0.57685006
+24,27,Ciconia ciconia,White Stork,0.6572995
+27,30,Ciconia ciconia,White Stork,0.647616
+30,33,Cisticola juncidis,Zitting Cisticola,0.7489796
+33,36,Cisticola juncidis,Zitting Cisticola,0.5438214
+36,39,Cisticola juncidis,Zitting Cisticola,0.6087046
+39,42,Cisticola juncidis,Zitting Cisticola,0.8648662
+42,45,Ciconia ciconia,White Stork,0.7894168
+45,48,Ciconia ciconia,White Stork,0.5646442
+48,51,Ciconia ciconia,White Stork,0.7647893
+51,54,Cisticola juncidis,Zitting Cisticola,0.4629157
+54,57,Ciconia ciconia,White Stork,0.71237856
+57,60,Melanocorypha calandra,Calandra Lark,0.49560693

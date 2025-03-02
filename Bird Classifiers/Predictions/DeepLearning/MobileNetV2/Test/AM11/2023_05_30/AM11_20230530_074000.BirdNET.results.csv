@@ -1,0 +1,21 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3,Cisticola juncidis,Zitting Cisticola,0.6029187
+3,6,Cisticola juncidis,Zitting Cisticola,0.91174924
+6,9,Cisticola juncidis,Zitting Cisticola,0.82988715
+9,12,Calandrella brachydactyla,Greater Short-toed Lark,0.4822369
+12,15,Cisticola juncidis,Zitting Cisticola,0.24808581
+15,18,Turdus merula,Eurasian Blackbird,0.27587557
+18,21,Cisticola juncidis,Zitting Cisticola,0.96629333
+21,24,Cisticola juncidis,Zitting Cisticola,0.7765865
+24,27,Cisticola juncidis,Zitting Cisticola,0.5139079
+27,30,Cisticola juncidis,Zitting Cisticola,0.3244689
+30,33,Cisticola juncidis,Zitting Cisticola,0.42123213
+33,36,Cisticola juncidis,Zitting Cisticola,0.5874702
+36,39,Cisticola juncidis,Zitting Cisticola,0.97894245
+39,42,Cisticola juncidis,Zitting Cisticola,0.9246385
+42,45,Cisticola juncidis,Zitting Cisticola,0.86851954
+45,48,Calandrella brachydactyla,Greater Short-toed Lark,0.36672753
+48,51,Turdus merula,Eurasian Blackbird,0.23510791
+51,54,Turdus merula,Eurasian Blackbird,0.5067984
+54,57,Cyanopica cooki,Iberian Magpie,0.37535372
+57,60,Parus major,Great Tit,0.40798897
