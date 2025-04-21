@@ -209,3 +209,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Stay tuned for updates and advancements in our pursuit to understand and classify bird songs more accurately with the help of deep learning and neural networks.
 
+## Funding
+
+This work has received financial support from the BIRDeep project (TED2021-129871A-I00), which is funded by MICIU/AEI/10.13039/501100011033 and the ‘European Union NextGenerationEU/PRTR
+
+![Logos](Figures/README/MICIU+NextG+PRTR+AEI.jpg)
