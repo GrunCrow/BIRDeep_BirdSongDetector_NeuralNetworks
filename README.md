@@ -2,11 +2,37 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14940480.svg)](https://doi.org/10.5281/zenodo.14940480)
 
-BIRDeep Bird Song Detector repository, part of the BIRDeep project, aimed at detecting bird songs in audio recordings.
+The **BIRDeep Bird Song Detector** repository is part of the BIRDeep project, aimed at detecting bird songs in audio recordings through deep learning.
 
-This repository contains the codes, data, and projects associated with the research paper "Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning." This project focuses on leveraging deep learning techniques to improve bird species identification from audio recordings collected in Doñana National Park.
+This repository contains the code, data links, and project resources associated with the research paper:
 
-The dataset used in this research is available at a [Hugging Face Repository](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations).
+> **"Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning"**
+
+In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://arxiv.org/abs/2503.15576), we propose a deep learning pipeline for automated bird song detection and species classification using passive acoustic recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving detection accuracy in Mediterranean soundscapes.
+
+## Dataset
+
+The dataset used in this research is publicly available via Hugging Face:
+
+🔗 [BIRDeep_AudioAnnotations on Hugging Face](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations)
+
+## Citation
+
+If you use this repository, please cite the preprint:
+
+```bibtex
+@misc{marquezrodriguez2025birdsongdetectorimproving,
+      title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana}, 
+      author={Alba Márquez-Rodríguez and Miguel Ángel Mohedano-Munoz and Manuel J. Marín-Jiménez and Eduardo Santamaría-García and Giulia Bastianelli and Pedro Jordano and Irene Mendoza},
+      year={2025},
+      eprint={2503.15576},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2503.15576}, 
+}
+```
+Preprint available at: https://arxiv.org/abs/2503.15576
+_Accepted in Ecological Informatics (we will post the published article as soon as it is available)._
 
 ## Table of Contents
 
