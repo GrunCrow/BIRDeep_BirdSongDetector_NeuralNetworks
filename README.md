@@ -8,7 +8,17 @@ This repository contains the code, data links, and project resources associated 
 
 > **"Decoding the Sounds of Doñana: Advancements in Bird Detection and Identification Through Deep Learning"**
 
-In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://arxiv.org/abs/2503.15576), we propose a deep learning pipeline for automated bird song detection and species classification using passive acoustic recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving detection accuracy in Mediterranean soundscapes.
+In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://arxiv.org/abs/2503.15576), we propose a deep learning pipeline for automated bird song detection and species classification using passive acoustic recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving detection accuracy in Mediterranean soundscapes. The following figure illustrates the pipeline proposed in our study:
+
+![Pipeline used for the development of our Bird Song Detector](BIRDeep_BirdSongDetector_NeuralNetworks/Figures/1_Bird Song SD.png)
+
+**Figure**: Pipeline used for the development of our Bird Song Detector. The process was divided into three main stages:
+
+1. **Preprocess**: AudioMoth recorders were deployed in Doñana to collect audio data as part of the BIRDeep project. Recordings were annotated by experts and split into training, validation, and test sets.
+
+2. **Bird Song Detector**: A YOLOv8-based model was trained to detect segments containing bird vocalizations (presence/absence). It was applied to the test set to extract segments with potential bird vocalizations.
+
+3. **Classifier**: BirdNET was fine-tuned on expert-labeled data from Doñana. Its embeddings were used to train additional ML algorithms. These were validated and tested on the detected segments, resulting in improved species classification (higher True Positives, fewer False Negatives).
 
 ## Dataset
 
