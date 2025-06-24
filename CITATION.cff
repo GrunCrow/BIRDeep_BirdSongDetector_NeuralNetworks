@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper:"
+authors:
+  - family-names: Márquez-Rodríguez
+    given-names: Alba
+  - family-names: Mohedano-Munoz
+    given-names: Miguel Ángel
+  - family-names: Marín-Jiménez
+    given-names: Manuel J
+  - family-names: Santamaría-García
+    given-names: Eduardo
+  - family-names: Bastianelli
+    given-names: Giulia
+  - family-names: Jordano
+    given-names: Pedro
+  - family-names: Mendoza
+    given-names: Irene
+title: "A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana"
+version: 1.0.0
+date-released: 2025-03-25
+doi: 10.48550/arXiv.2503.15576
+url: https://arxiv.org/abs/2503.15576
+type: article
