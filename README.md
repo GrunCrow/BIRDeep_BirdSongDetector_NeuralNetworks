@@ -10,9 +10,9 @@ The **BIRDeep Bird Song Detector** is part of the BIRDeep project, aimed at moni
 
 This repository contains the code, data links, and project resources associated with the research paper:
 
-> **“A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana”**  
-> Alba Márquez-Rodríguez, Miguel Ángel Mohedano-Munoz, Manuel J. Marín-Jiménez, Eduardo Santamaría-García, Giulia Bastianelli, Pedro Jordano, Irene Mendoza  
-> [arXiv:2503.15576](https://arxiv.org/abs/2503.15576) · Accepted in *Ecological Informatics*
+> Márquez-Rodríguez, Alba, Mohedano-Munoz, M. Á., Marín-Jiménez, M. J., Santamaría-García, E., Bastianelli, G., Jordano, P., & Mendoza, I.  
+> **A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana**  
+> Ecological Informatics, 2025, 103254. https://doi.org/10.1016/j.ecoinf.2025.103254
 
 In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://arxiv.org/abs/2503.15576), we propose a deep learning pipeline for automated bird song detection and species classification using audio recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving identification accuracy in Doñana soundscapes. The following figure illustrates the pipeline proposed in our study:
 
@@ -31,18 +31,18 @@ In the paper [*A Bird Song Detector for improving bird identification through De
 If you use this repository, please cite the preprint:
 
 ```bibtex
-@misc{marquezrodriguez2025birdsongdetectorimproving,
-      title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana}, 
-      author={Alba Márquez-Rodríguez and Miguel Ángel Mohedano-Munoz and Manuel J. Marín-Jiménez and Eduardo Santamaría-García and Giulia Bastianelli and Pedro Jordano and Irene Mendoza},
-      year={2025},
-      eprint={2503.15576},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2503.15576}, 
+@article{marquez2025bird,
+  title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana},
+  author={Márquez-Rodríguez, Alba and Mohedano-Munoz, Miguel Ángel and Marín-Jiménez, Manuel J. and Santamaría-García, Eduardo and Bastianelli, Giulia and Jordano, Pedro and Mendoza, Irene},
+  journal={Ecological Informatics},
+  volume={90},
+  pages={103254},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.ecoinf.2025.103254}
 }
 ```
-Preprint available at: https://arxiv.org/abs/2503.15576
-_Accepted in Ecological Informatics (we will post the published article as soon as it is available)._
+📄 [Read the article](https://doi.org/10.1016/j.ecoinf.2025.103254)
 
 ### Dataset
 
