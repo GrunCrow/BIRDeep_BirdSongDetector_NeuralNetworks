@@ -14,7 +14,7 @@ This repository contains the code, data links, and project resources associated 
 > **A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana**  
 > Ecological Informatics, 2025, 103254. https://doi.org/10.1016/j.ecoinf.2025.103254
 
-In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://arxiv.org/abs/2503.15576), we propose a deep learning pipeline for automated bird song detection and species classification using audio recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving identification accuracy in Doñana soundscapes. The following figure illustrates the pipeline proposed in our study:
+In the paper [*A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana*](https://doi.org/10.1016/j.ecoinf.2025.103254), we propose a deep learning pipeline for automated bird song detection and species classification using audio recordings from Doñana National Park (SW Spain). The pipeline combines a **YOLOv8-based detector** with a **fine-tuned version of BirdNET**, significantly improving identification accuracy in Doñana soundscapes. The following figure illustrates the pipeline proposed in our study:
 
 ![Pipeline used for the development of our Bird Song Detector](Figures/1_Bird%20Song%20SD.png)
 
