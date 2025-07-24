@@ -6,7 +6,7 @@ authors:
   - family-names: Mohedano-Munoz
     given-names: Miguel Ángel
   - family-names: Marín-Jiménez
-    given-names: Manuel J
+    given-names: Manuel J.
   - family-names: Santamaría-García
     given-names: Eduardo
   - family-names: Bastianelli
@@ -18,6 +18,10 @@ authors:
 title: "A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana"
 version: 1.0.0
 date-released: 2025-03-25
-doi: 10.48550/arXiv.2503.15576
-url: https://arxiv.org/abs/2503.15576
+doi: 10.1016/j.ecoinf.2025.103254
+url: https://doi.org/10.1016/j.ecoinf.2025.103254
 type: article
+journal: Ecological Informatics
+volume: 90
+pages: 103254
+publisher: Elsevier
