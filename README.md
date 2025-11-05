@@ -28,7 +28,7 @@ In the paper [*A Bird Song Detector for improving bird identification through De
 
 ### Citation
 
-If you use this repository, please cite the preprint:
+If you use this repository, please cite the manuscript:
 
 ```bibtex
 @article{marquez2025bird,
@@ -236,3 +236,4 @@ Stay tuned for updates and advancements in our pursuit to understand and classif
 This work has received financial support from the BIRDeep project (TED2021-129871A-I00), which is funded by MICIU/AEI/10.13039/501100011033 and the ‘European Union NextGenerationEU/PRTR
 
 ![Logos](Figures/README/MICIU+NextG+PRTR+AEI.jpg)
+
