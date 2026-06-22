@@ -1,27 +1,46 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the following paper:"
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Márquez-Rodríguez
-    given-names: Alba
-  - family-names: Mohedano-Munoz
-    given-names: Miguel Ángel
-  - family-names: Marín-Jiménez
-    given-names: Manuel J.
-  - family-names: Santamaría-García
-    given-names: Eduardo
-  - family-names: Bastianelli
-    given-names: Giulia
-  - family-names: Jordano
-    given-names: Pedro
-  - family-names: Mendoza
-    given-names: Irene
+  - family-names: "Márquez-Rodríguez"
+    given-names: "Alba"
+  - family-names: "Mohedano-Munoz"
+    given-names: "Miguel Ángel"
+  - family-names: "Marín-Jiménez"
+    given-names: "Manuel J."
+  - family-names: "Santamaría-García"
+    given-names: "Eduardo"
+  - family-names: "Bastianelli"
+    given-names: "Giulia"
+  - family-names: "Jordano"
+    given-names: "Pedro"
+  - family-names: "Mendoza"
+    given-names: "Irene"
 title: "A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana"
 version: 1.0.0
-date-released: 2025-03-25
 doi: 10.1016/j.ecoinf.2025.103254
-url: https://doi.org/10.1016/j.ecoinf.2025.103254
-type: article
-journal: Ecological Informatics
-volume: 90
-pages: 103254
-publisher: Elsevier
+date-released: 2025-06-01
+url: "https://doi.org/10.1016/j.ecoinf.2025.103254"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Márquez-Rodríguez"
+    given-names: "Alba"
+  - family-names: "Mohedano-Munoz"
+    given-names: "Miguel Ángel"
+  - family-names: "Marín-Jiménez"
+    given-names: "Manuel J."
+  - family-names: "Santamaría-García"
+    given-names: "Eduardo"
+  - family-names: "Bastianelli"
+    given-names: "Giulia"
+  - family-names: "Jordano"
+    given-names: "Pedro"
+  - family-names: "Mendoza"
+    given-names: "Irene"
+  doi: "10.1016/j.ecoinf.2025.103254"
+  journal: "Ecological Informatics"
+  month: 6
+  start: 103254 # First page number
+  title: "A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana"
+  volume: 90
+  year: 2025
